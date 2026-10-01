@@ -1,0 +1,2382 @@
+{
+ "title": "ЈУГОСЛОВЕНСКА КИНОТЕКА – ОКТОБАР 2026",
+ "venue": "УЗУН МИРКОВА 1",
+ "intro": [],
+ "days": [
+  {
+   "date": "2026-10-01",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-01-1600-svet-vampira",
+     "times": [
+      "16:00"
+     ],
+     "end": null,
+     "section": "Сећање на... СЕМ НИЛ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СВЕТ ВАМПИРА",
+       "original_title": "Daybreakers",
+       "countries": [
+        "САД"
+       ],
+       "year": 2009,
+       "kind": null,
+       "cast": "Сем Нил (Sam Neill), Итан Хок (Ethan Hawke)",
+       "director": "Мајкл Спириг (Michael Spierig), Питер Спириг (Peter Spierig)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0433362",
+        "title": "Daybreakers",
+        "year": 2009,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzg3NDYyMDU4Nl5BMl5BanBnXkFtZTcwODA5NzA5Mg@@._V1_QL75_UX300_.jpg",
+        "rating": 6.4,
+        "votes": 142208
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-02-1600-iscelitelj",
+     "times": [
+      "16:00"
+     ],
+     "end": null,
+     "section": "Сећање на... СЕМ НИЛ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ИСЦЕЛИТЕЉ",
+       "original_title": "The Horse Whisperer",
+       "countries": [
+        "САД"
+       ],
+       "year": 1998,
+       "kind": null,
+       "cast": "Сем Нил (Sam Neill), Роберт Редфорд (Robert Redford)",
+       "director": "Роберт Редфорд (Robert Redford)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0119314",
+        "title": "The Horse Whisperer",
+        "year": 1998,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTI5YTI5ZmYtZWQ0Ny00YzU4LTg3NmUtYjVmMzQxOGNjYzRjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.7,
+        "votes": 47092
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-02-1900-kanto",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ТУРСКОГ ФИЛМА",
+     "label": null,
+     "notes": [
+      "После пројекције разговор публике с редитељем и глумцима"
+     ],
+     "credits": [],
+     "films": [
+      {
+       "title": "КАНТО",
+       "original_title": "Kanto",
+       "countries": [
+        "ТУР"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Дидем Инселел (Didem Inselel), Синан Албајрак (Sinan Albayrak)",
+       "director": "Енсар Алтај (Ensar Altay)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt37122487",
+        "title": "Kanto",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmU1N2ZhODQtNmFkMi00ODRkLWJjZjktZjY3MjE1ODkzMjc0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 91
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-03-1600-lov-na-crveni-oktobar",
+     "times": [
+      "16:00"
+     ],
+     "end": null,
+     "section": "Сећање на... СЕМ НИЛ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛОВ НА ЦРВЕНИ ОКТОБАР",
+       "original_title": "The Hunt for Red October",
+       "countries": [
+        "САД"
+       ],
+       "year": 1990,
+       "kind": null,
+       "cast": "Сем Нил (Sam Neill), Шон Конери (Sean Connery)",
+       "director": "Џон Мактирнан (John MacTiernan)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0099810",
+        "title": "The Hunt for Red October",
+        "year": 1990,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmNhYWJmN2EtZDYwNC00NzE0LWE5N2UtZTUyMDM4YjZmYWE3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 234566
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-03-1900-vidi-stize-postar",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ТУРСКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ВИДИ, СТИЖЕ ПОШТАР",
+       "original_title": "Bak Postacı Geliyor",
+       "countries": [
+        "ТУР"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Озан Акбаба (Ozan Akbaba), Дениз Барут (Deniz Barut)",
+       "director": "Јиксел Аксу (Yüksel Aksu)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt38782233",
+        "title": "Bak Postaci Geliyor",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTk2YzMxYWItMzU1MC00YTRkLWI4YzQtNTIwOGFiY2QwZDM0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.3,
+        "votes": 575
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-04-1600-park-iz-doba-jure-3",
+     "times": [
+      "16:00"
+     ],
+     "end": null,
+     "section": "Сећање на... СЕМ НИЛ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПАРК ИЗ ДОБА ЈУРЕ 3",
+       "original_title": "Jurasic Park III",
+       "countries": [
+        "САД"
+       ],
+       "year": 2001,
+       "kind": null,
+       "cast": "Сем Нил (Sam Neill), Вилијам Х. Мејси (William H. Macy)",
+       "director": "Џо Џонстон (Joe Johnston)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0163025",
+        "title": "Jurassic Park III",
+        "year": 2001,
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2FmMjhlZDYtNmYyMy00NTdjLTlhYzYtZWNlMDY2MmUzOGM2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.0,
+        "votes": 376684
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-04-1900-zvizdanje-u-mraku",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ТУРСКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЗВИЖДАЊЕ У МРАКУ",
+       "original_title": "Karanlıkta Islık Çalanlar",
+       "countries": [
+        "ТУР",
+        "БУГ",
+        "НЕМ"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Мифит Кајаџан (Müfit Kayacan), Хиља Гилсен Ирмак (Hülya Gülsen Irmak)",
+       "director": "Пинар Јорганџиоглу (Pinar Yorgancioglu)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt38941846",
+        "title": "Those Who Whistle After Dark",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzE4ZTBhYTQtZTU5ZC00NTczLWIxYTYtNWNjYTMzMDM1NzQ5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.6,
+        "votes": 28
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-04-2100-poseceno-drvo",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ТУРСКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОСЕЧЕНО ДРВО",
+       "original_title": "Kesilmis Bir Agaç Gibi",
+       "countries": [
+        "ТУР"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Али Ипин (Ali Ipin), Фејаз Думан (Feyaz Duman)",
+       "director": "Тунч Давут (Tunç Davut)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt43613737",
+        "title": "Kesilmis Bir Agaç Gibi",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2VmZTBmNTYtNTkwOC00NzA1LTljMzUtZWY4OTEwZTUyMzA3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.6,
+        "votes": 5
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "notes": [
+    "Резервисан термин"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-10-06",
+   "notes": [
+    "Резервисан термин"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-10-07",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-07-1700-arabeska",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ГРЕГОРИ ПЕК - 110 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АРАБЕСКА",
+       "original_title": "Arabesque",
+       "countries": [
+        "САД"
+       ],
+       "year": 1966,
+       "kind": null,
+       "cast": "Грегори Пек (Gregory Peck), Софија Лорен (Sophia Loren)",
+       "director": "Стенли Донен (Stanley Donnen)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0060121",
+        "title": "Arabesque",
+        "year": 1966,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzhlYWE1ZmMtOGI3MS00YWVmLTlhYTAtOWQ4NjA2OGQ5YzEwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.4,
+        "votes": 9172
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-07-1900-serife-ovo-je-zemlja-nasilja",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ГРЕГОРИ ПЕК - 110 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ШЕРИФЕ, ОВО ЈЕ ЗЕМЉА НАСИЉА",
+       "original_title": "I Walk the Line",
+       "countries": [
+        "САД"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Грегори Пек (Gregory Peck), Тјуздеј Велд (Tuesday Weld)",
+       "director": "Џон Франкенхајмер (John Frankenheimer)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0065874",
+        "title": "I Walk the Line",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/M/MV5BODllYmY1ZTgtNzhlYS00Mjg1LWExYmYtMTY3YmRhNmI2ODI2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 2679
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-07-2100-ubiti-pticu-rugalicu",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ГРЕГОРИ ПЕК - 110 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "УБИТИ ПТИЦУ РУГАЛИЦУ",
+       "original_title": "To Kill a Mockingbird",
+       "countries": [
+        "САД"
+       ],
+       "year": 1962,
+       "kind": null,
+       "cast": "Грегори Пек (Gregory Peck), Џон Мења (John Megna)",
+       "director": "Роберт Малиган (Robert Mulligan)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0056592",
+        "title": "To Kill a Mockingbird",
+        "year": 1962,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.2,
+        "votes": 353608
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-08-1700-predskazanje",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ГРЕГОРИ ПЕК - 110 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРЕДСКАЗАЊЕ",
+       "original_title": "The Omen",
+       "countries": [
+        "САД",
+        "ВБ"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Грегори Пек (Gregory Peck), Ли Ремик (Lee Remick)",
+       "director": "Ричард Донер (Richard Donner)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0075005",
+        "title": "The Omen",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTgxNjY0OTEtYWExOC00OWJiLWEzY2ItNzNjYTY0YjhjNjlhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 147995
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-08-1900-morski-vukovi",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ГРЕГОРИ ПЕК - 110 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "МОРСКИ ВУКОВИ",
+       "original_title": "The Sea Wolves",
+       "countries": [
+        "ШВА",
+        "ВБ",
+        "САД"
+       ],
+       "year": 1980,
+       "kind": null,
+       "cast": "Грегори Пек (Gregory Peck), Роџер Мур (Roger Moore)",
+       "director": "Ендру В. Маклаглен (Andrew V. McLaglen)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0081470",
+        "title": "The Sea Wolves",
+        "year": 1980,
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlYjJhNjAtODg2My00YWU1LWJkNzItMzNlZjk0ZjdiNzE0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.3,
+        "votes": 6118
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-08-2100-momci-iz-brazila",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ГРЕГОРИ ПЕК - 110 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "МОМЦИ ИЗ БРАЗИЛА",
+       "original_title": "The Boys from Brazil",
+       "countries": [
+        "ВБ",
+        "САД"
+       ],
+       "year": 1978,
+       "kind": null,
+       "cast": "Грегори Пек (Gregory Peck), Лоренс Оливије (Lawrence Olivier)",
+       "director": "Френклин Џ. Шафнер (Franklin J. Schaffner)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0077269",
+        "title": "The Boys from Brazil",
+        "year": 1978,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzU3NWEyYjYtNTVhZS00NGJkLWJmYjQtMWI4ODQ4MjUyZjg2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 34410
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "notes": [
+    "Резервисан термин"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-10-10",
+   "notes": [
+    "Резервисан термин"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-10-11",
+   "notes": [
+    "Резервисан термин"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-10-12",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-12-1700-lisac",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МАРК РАЈДЕЛ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛИСАЦ",
+       "original_title": "The Fox",
+       "countries": [
+        "ВБ",
+        "САД",
+        "КАН"
+       ],
+       "year": 1967,
+       "kind": null,
+       "cast": "Сенди Денис (Sandy Dennis), Кир Дјулеј (Keir Dullea)",
+       "director": "Марк Рајдел (Mark Rydell)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0062990",
+        "title": "The Fox",
+        "year": 1967,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWVhZWI5ZjgtMjRiMC00OWFlLWI4YWYtNDc3NjM4OTA3YTk0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 1466
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-12-1900-pop-cira-i-pop-spira",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "УЛОГА ТЕЛЕВИЗИЈЕ У ОЧУВАЊУ НАЦИОНАЛНИХ КИНЕМАТОГРАФИЈА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОП ЋИРА И ПОП СПИРА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1957,
+       "kind": null,
+       "cast": "Љубинка Бобић, Јован Гец",
+       "director": "Соја Јовановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0050849",
+        "title": "Pop Cira i pop Spira",
+        "year": 1957,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWY3MDAzMmMtNzdmZC00ODY2LTk3MzYtY2VlZDBiNzgzZTJhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 258
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-12-2100-ko-to-tamo-peva",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "УЛОГА ТЕЛЕВИЗИЈЕ У ОЧУВАЊУ НАЦИОНАЛНИХ КИНЕМАТОГРАФИЈА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КО ТО ТАМО ПЕВА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1980,
+       "kind": null,
+       "cast": "Павле Вуисић, Драган Николић",
+       "director": "Слободан Шијан",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0076276",
+        "title": "Who's Singin' Over There?",
+        "year": 1980,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTU1YzBlZGUtNTE0Zi00Zjg5LTkxYTMtMzdmN2M5NmQ5MDNhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.7,
+        "votes": 18126
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-13-1700-kauboji",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МАРК РАЈДЕЛ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КАУБОЈИ",
+       "original_title": "The Cowboys",
+       "countries": [
+        "САД"
+       ],
+       "year": 1972,
+       "kind": null,
+       "cast": "Џон Вејн (John Wayne), Роско Ли Браун (Roscoe Lee Browne)",
+       "director": "Марк Рајдел (Mark Rydell)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0068421",
+        "title": "The Cowboys",
+        "year": 1972,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzMzODYyMTktOWE3Yy00ODM3LWI5MDctNzEzOTllMDQ3YTRiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 17673
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-13-1900-otvaranje-izlozbe-zorana-jovanov",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МАРК РАЈДЕЛ",
+     "label": "ОТВАРАЊЕ ИЗЛОЖБЕ ЗОРАНА ЈОВАНОВИЋА ЈУСА",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-10-13-2000-animirani-filmovi-zorana-jovanov",
+     "times": [
+      "20:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МАРК РАЈДЕЛ",
+     "label": "АНИМИРАНИ ФИЛМОВИ ЗОРАНА ЈОВАНОВИЋА ЈУСА",
+     "notes": [],
+     "credits": [],
+     "films": []
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-14-1700-letnjikovac-na-zlatnom-jezeru",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МАРК РАЈДЕЛ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛЕТЊИКОВАЦ НА ЗЛАТНОМ ЈЕЗЕРУ",
+       "original_title": "On Golden Pond",
+       "countries": [
+        "САД"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Хенри Фонда (Henry Fonda), Кетрин Хепберн (Katharine Hepburn)",
+       "director": "Марк Рајдел (Mark Rydell)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0082846",
+        "title": "On Golden Pond",
+        "year": 1981,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmI3OGQ0YjQtZjNkYi00NmEzLWE5NjMtMTdkYjA4YTdiYzBiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.6,
+        "votes": 38188
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-14-1900-rekvijem-za-gospodju-j",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ЦИКЛУС ФИЛМОВА И ДИСКУСИЈА О МЕНТАЛНОМ ЗДРАВЉУ",
+     "label": null,
+     "notes": [
+      "Разговор после пројекције филма"
+     ],
+     "credits": [],
+     "films": [
+      {
+       "title": "РЕКВИЈЕМ ЗА ГОСПОЂУ Ј",
+       "original_title": null,
+       "countries": [
+        "СРБ"
+       ],
+       "year": 2017,
+       "kind": null,
+       "cast": "Мирјана Карановић, Јована Гавриловић",
+       "director": "Бојан Вулетић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt5207166",
+        "title": "Requiem for Mrs. J",
+        "year": 2017,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjVmMjZlZWItODNlNS00NDUxLWE0OGYtMjViODE5NTIyMjQxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 785
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-15-1700-reka",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МАРК РАЈДЕЛ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "РЕКА",
+       "original_title": "The River",
+       "countries": [
+        "САД"
+       ],
+       "year": 1984,
+       "kind": null,
+       "cast": "Сиси Спејсек (Sissy Spacek), Мел Гибсон (Mel Gibson)",
+       "director": "Марк Рајдел (Mark Rydell)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0088007",
+        "title": "The River",
+        "year": 1984,
+        "poster": "https://m.media-amazon.com/images/M/MV5BODg0ZTU2ZjgtZGJiOC00OTA4LWJlODUtOGJjOWE0MzgzNmY2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.3,
+        "votes": 8462
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-15-1900-moja-dusa-ce-biti-isceljena",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ЧЕШКОГ И СЛОВАЧКОГ ФИЛМА",
+     "label": "СВЕЧАНО ОТВАРАЊЕ",
+     "notes": [
+      "Блок студентских филмова"
+     ],
+     "credits": [],
+     "films": [
+      {
+       "title": "МОЈА ДУША ЋЕ БИТИ ИСЦЕЉЕНА",
+       "original_title": "Řekni jenom slovo a má duše bude uzdravena",
+       "countries": [
+        "ЧЕШ"
+       ],
+       "year": 2025,
+       "kind": "кратки играни филм",
+       "cast": "Јан Вондрачек (Jan Vondráček), Војтех Вондрачек (Vojtěch Vondráček)",
+       "director": "Марина Хниткова (Marína Hnidková)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      },
+      {
+       "title": "ОЧЕВИ",
+       "original_title": "Otcové",
+       "countries": [
+        "ЧЕШ"
+       ],
+       "year": 2025,
+       "kind": "кратки играни филм",
+       "cast": "Алжбета Мала (Alžběta Malá), Јан Хајек (Jan Hájek)",
+       "director": "Петер Влчек (Petr Vlček)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      },
+      {
+       "title": "НЕКЕ СТВАРИ ОСТАЈУ ЗАУВЕК",
+       "original_title": "Něco je navždy",
+       "countries": [
+        "ЧЕШ"
+       ],
+       "year": 2025,
+       "kind": "кратки играни филм",
+       "cast": "Клара Восецка (Klára Vosecká)",
+       "director": "Мартин Имрих (Martin Imrich), Марија Тополова (Marie Topolová)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      },
+      {
+       "title": "САД ЋЕ МЕ ВОЛЕТИ",
+       "original_title": "They Will Love Me Now",
+       "countries": [
+        "ЧЕШ"
+       ],
+       "year": 2024,
+       "kind": null,
+       "cast": "Петер Матијаш Цибулка (Petr Matyáš Cibulka), Хуберт Лудвиг (Hubert Ludwig)",
+       "director": "Никулас Туми Хлинсон (Nikulás Tumi Hlynsson)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt40333103",
+        "title": "They Will Love Me Now",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDdkYTllN2EtOWQxYS00NDIxLWJhNGItYTVhZDE5NDRhNGFjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": null,
+        "votes": null
+       }
+      },
+      {
+       "title": "ЛУТАЊЕ (БЛУДНА СВЕТЛА)",
+       "original_title": "Bludičky / Ignis Fatuus",
+       "countries": [
+        "ЧЕШ"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Денис Жишка (Denis Žižka), Јозефина Прахарова (Josefína Prachařová)",
+       "director": "Мартин Јержабек (Martin Jeřábek)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-16-1800-potop",
+     "times": [
+      "18:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ЧЕШКОГ И СЛОВАЧКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОТОП",
+       "original_title": "Potopa",
+       "countries": [
+        "СЛК",
+        "ЧЕШ",
+        "ПОЉ",
+        "БЕЛ"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Сара Хрипакова (Sara Chripakova), Јожеф Пантликас (Joszef Pantlikás)",
+       "director": "Мартин Гонда (Martin Gonda)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt38629827",
+        "title": "Flood",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGUxMWQxMDYtYWI2Yy00MzNiLTk5ZjItYWMyNDU4NWM0YjExXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 204
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-16-2100-na-drugoj-strani-leta",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ЧЕШКОГ И СЛОВАЧКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НА ДРУГОЈ СТРАНИ ЛЕТА",
+       "original_title": "Na druhé strane léta",
+       "countries": [
+        "ЧЕШ",
+        "ХРВ"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Елишка Башусова (Eliška Bašusová), Луција Фингерхутова (Lucie Fingerhutová)",
+       "director": "Војтех Стракати (Vojtěch Strakatý)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt37538828",
+        "title": "Na druhé strane léta",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWJiN2Q3ZGItMDIzYS00OGYwLWJiMTAtZWU5Mjc4ZTMzODk4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.6,
+        "votes": 53
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-17-1700-kako-se-resiti-sefa",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ДОЛИ ПАРТОН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КАКО СЕ РЕШИТИ ШЕФА",
+       "original_title": "9 to 5 / Nine to Five",
+       "countries": [
+        "САД"
+       ],
+       "year": 1980,
+       "kind": null,
+       "cast": "Доли Партон (Dolly Parton), Џејн Фонда (Jane Fonda)",
+       "director": "Колин Хигинс (Colin Higgins)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0080319",
+        "title": "9 to 5",
+        "year": 1980,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjNjYmIzZjAtMjNlMS00MjliLTlmZjUtMDE5ZWQ0OWUxMzc5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 49219
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-17-1900-karavan",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ЧЕШКОГ И СЛОВАЧКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КАРАВАН",
+       "original_title": "Karavan",
+       "countries": [
+        "ЧЕШ",
+        "ИТА",
+        "СЛК"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Ана Гајслерова (Anna Geislerová), Давид Водстрчил (David Vodstrčil)",
+       "director": "Зузана Кирхнерова (Zuzana Kirchnerová)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt29271671",
+        "title": "Caravan",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWQ0ZDFiNjAtYjI4Zi00NzM2LTlmNDQtMzhhY2NmZDIzMGIxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.1,
+        "votes": 174
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-17-2100-konj",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ЧЕШКОГ И СЛОВАЧКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КОЊ",
+       "original_title": "Kôn",
+       "countries": [
+        "СЛК",
+        "ЧЕШ"
+       ],
+       "year": 2022,
+       "kind": null,
+       "cast": "Данијел Фишер (Daniel Fischer), Бранислав Бистријански (Branislav Bystriansky)",
+       "director": "Мартин Шулик (Martin Šulík)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt25074864",
+        "title": "Kôn",
+        "year": 2022,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWU4YzQ1M2YtYmEyNi00MjIxLWIzMTItYzI0YzQ4MTE0MzI5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 46
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-18-1700-najbolji-mali-kupleraj-u-teksasu",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ДОЛИ ПАРТОН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НАЈБОЉИ МАЛИ КУПЛЕРАЈ У ТЕКСАСУ",
+       "original_title": "The Best Little Whorehouse in Texas",
+       "countries": [
+        "САД"
+       ],
+       "year": 1982,
+       "kind": null,
+       "cast": "Доли Партон (Dolly Parton), Берт Рејнолдс (Burt Reynolds)",
+       "director": "Колин Хигинс (Colin Higgins)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0083642",
+        "title": "The Best Little Whorehouse in Texas",
+        "year": 1982,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDFiZTQwNTMtYjhkYi00YzZmLWE4NTctNTMyNTQ1MGI4YWI2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.2,
+        "votes": 14407
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-18-1900-perla",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ЧЕШКОГ И СЛОВАЧКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПЕРЛА",
+       "original_title": "Perla",
+       "countries": [
+        "АУТ",
+        "СЛК"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Симон Шварц (Simon Schwarz), Ребека Полакова (Rebeka Poláková)",
+       "director": "Александра Макарова (Alexandra Makarová)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt14635044",
+        "title": "Perla",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDdlNjU1NDUtZDUwMC00YWQzLWI4OTAtZDJmN2MyZWUxMGYxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 298
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-18-2100-neunistivi",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ДАНИ ЧЕШКОГ И СЛОВАЧКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕУНИШТИВИ",
+       "original_title": "Neporazitelní/Invincibles",
+       "countries": [
+        "ЧЕШ"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Иван Тројан (Ivan Trojan), Тил Швајгер (Til Schweiger)",
+       "director": "Дан Панек (Dan Pánek)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt31411053",
+        "title": "Invincibles",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWZlMzYzMmYtNTg5NS00MjkyLTgwM2EtNzJkZjc4YzQwNmI0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 192
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-19-1400-ne-zali-svoje-dete",
+     "times": [
+      "14:00"
+     ],
+     "end": "16:00",
+     "section": "БОСИ ФЕСТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕ ЖАЛИ СВОЈЕ ДЕТЕ",
+       "original_title": "Не жалей своего ребенка",
+       "countries": [
+        "КАЗ"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": null,
+       "director": "Рубен Казарјан (Рубен Казарян)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      },
+      {
+       "title": "МАЛИ ЛОВАЦ НА ДУХОВЕ",
+       "original_title": "Le petit chasseur de fantômes",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 2022,
+       "kind": null,
+       "cast": null,
+       "director": "Мики Махут (Mickey Mahut), Лоран Кушнер (Laurent Kouchner)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    },
+    {
+     "id": "2026-10-19-1800-bobo",
+     "times": [
+      "18:00"
+     ],
+     "end": null,
+     "section": "БОСИ ФЕСТ",
+     "label": "Свечано отварање фестивала",
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БОБО",
+       "original_title": "Bobò",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": null,
+       "director": "Пипо Делбоно (Pippo Delbono)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt37538683",
+        "title": "Bobò",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjQ1MTc0ZjMtMTZiMi00NjgxLWFjMDMtYWYwODdhMTQwOGM5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 11
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-20-1400-mozda-cu-jednog-dana-pitati",
+     "times": [
+      "14:00"
+     ],
+     "end": "16:00",
+     "section": "БОСИ ФЕСТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "МОЖДА ЋУ ЈЕДНОГ ДАНА ПИТАТИ",
+       "original_title": "Maybe One Day I'll Ask",
+       "countries": [
+        "КИР"
+       ],
+       "year": null,
+       "kind": null,
+       "cast": null,
+       "director": "Гулзан Ирес (Gulzan Ires)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      },
+      {
+       "title": "УМЕТНОСТ НА СПЕКТРУ",
+       "original_title": "Art on the Spectrum",
+       "countries": [
+        "ДАН"
+       ],
+       "year": 2026,
+       "kind": null,
+       "cast": null,
+       "director": "Џонатан Херик (Jonathan Herrik)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    },
+    {
+     "id": "2026-10-20-1800-razbijanje-talasa",
+     "times": [
+      "18:00"
+     ],
+     "end": null,
+     "section": "БОСИ ФЕСТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "РАЗБИЈАЊЕ ТАЛАСА",
+       "original_title": "Breaking Waves",
+       "countries": [
+        "ХОЛ"
+       ],
+       "year": 2026,
+       "kind": null,
+       "cast": null,
+       "director": "Кателијне Лангезал (Katelijne Langezaal)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-21-1630-koncert-za-druge-ruke",
+     "times": [
+      "16:30"
+     ],
+     "end": null,
+     "section": "БОСИ ФЕСТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КОНЦЕРТ ЗА ДРУГЕ РУКЕ",
+       "original_title": "Concierto para otras manos",
+       "countries": [
+        "МЕК"
+       ],
+       "year": 2024,
+       "kind": null,
+       "cast": null,
+       "director": "Ернесто Гонзалес Дијаз (Ernesto González Díaz)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt32252411",
+        "title": "Concierto para otras manos",
+        "year": 2024,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg3ZTMxMjktMGI4NC00ODE0LTgzZGItZGFiMmYwZTA2ZjZjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 62
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-21-1800-svecano-zatvaranje-festivala-i-d",
+     "times": [
+      "18:00"
+     ],
+     "end": null,
+     "section": "БОСИ ФЕСТ",
+     "label": "Свечано затварање фестивала и додела награда",
+     "notes": [],
+     "credits": [],
+     "films": []
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-22-1700-eni",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ТИМ КАРИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЕНИ",
+       "original_title": "Annie",
+       "countries": [
+        "САД"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Ејлин Квин (Aileen Quinn), Тим Кари (Tim Curry)",
+       "director": "Џон Хјустон (John Huston)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0083564",
+        "title": "Annie",
+        "year": 1982,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjQzOGJkNTAtYzY3NS00ZjViLWI4OTMtZTdkNzRjYWRmOTUwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 54492
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-22-1900-tajms-skver",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ТИМ КАРИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТАЈМС СКВЕР",
+       "original_title": "Times Square",
+       "countries": [
+        "САД"
+       ],
+       "year": 1980,
+       "kind": null,
+       "cast": "Тим Кари (Tim Curry), Трини Алварадо (Trini Alvarado)",
+       "director": "Алан Мојл (Allan Moyle)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0081635",
+        "title": "Times Square",
+        "year": 1980,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTFkMDYyOTYtMDlkZi00MjkzLTllNDktMzAzODY4NjUxNjhmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 2487
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-22-2100-oskar",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ТИМ КАРИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОСКАР",
+       "original_title": "Oscar",
+       "countries": [
+        "САД"
+       ],
+       "year": 1991,
+       "kind": null,
+       "cast": "Силвестер Сталоне (Sylvester Stallone), Тим Кари (Tim Curry)",
+       "director": "Џон Ландис (John Landis)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0102603",
+        "title": "Oscar",
+        "year": 1991,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTcwZjUwYzUtMzZhMC00MzY5LWFkZjQtYjdlODA0MThjMDQ1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 37532
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-23-1700-hajka",
+     "times": [
+      "17:00",
+      "19:00"
+     ],
+     "end": null,
+     "section": "А1 КИНОТЕКА",
+     "label": null,
+     "notes": [
+      "Премијера дигитално рестаурисане копије филма",
+      "Бесплатне пројекције"
+     ],
+     "credits": [],
+     "films": [
+      {
+       "title": "ХАЈКА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1977,
+       "kind": null,
+       "cast": "Раде Шербеџија, Барбара Нилсен (Barbara Nielsen)",
+       "director": "Живојин Павловић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0124701",
+        "title": "Hajka",
+        "year": 1977,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWJhZDIyMWUtNjNkOC00ZTZiLTk3MDItZjk5OWZlMDg5NjZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 273
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-23-2100-taksista",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "50 ГОДИНА ОД ПРЕМИЈЕРЕ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТАКСИСТА",
+       "original_title": "Taxi Driver",
+       "countries": [
+        "САД"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Роберт де Ниро (Robert de Niro), Харви Кајтел (Harvey Keitel)",
+       "director": "Мартин Скорсезе (Martin Scorsese)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0075314",
+        "title": "Taxi Driver",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.2,
+        "votes": 1043926
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-24-1900-balseros",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ДАНИ КАТАЛОНСКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БАЛСЕРОС",
+       "original_title": "Balseros",
+       "countries": [
+        "ШПА"
+       ],
+       "year": 2002,
+       "kind": "документарни филм",
+       "cast": null,
+       "director": "Карлес Бош (Carles Bosch), Жозеп Марија Доменеч (Josep Maria Domènech)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0321376",
+        "title": "Balseros",
+        "year": 2002,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA3ODE5MTEwMF5BMl5BanBnXkFtZTcwNTA4NDAzMQ@@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 656
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-25-1700-baruma",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ДАНИ КАТАЛОНСКОГ ФИЛМА",
+     "label": null,
+     "notes": [
+      "Пројекција филма, презентација и разговор ауторске екипе с публиком"
+     ],
+     "credits": [],
+     "films": [
+      {
+       "title": "БАРУМА",
+       "original_title": "Baruma: Viatge a l'essència",
+       "countries": [
+        "ШПА"
+       ],
+       "year": 2025,
+       "kind": "документарни филм",
+       "cast": null,
+       "director": "Данијела Клементи (Daniela Clementi)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    },
+    {
+     "id": "2026-10-25-1900-proglasenje-katalonske-republike",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ИЗМИ - програм кратких документарних филмова",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРОГЛАШЕЊЕ КАТАЛОНСКЕ РЕПУБЛИКЕ",
+       "original_title": "Proclamació de la República Catalana",
+       "countries": [
+        "ШПА"
+       ],
+       "year": 1931,
+       "kind": null,
+       "cast": null,
+       "director": "Мануел Уерга (Manuel Huerga)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      },
+      {
+       "title": "МУЧЕНИШТВО КАТАЛОНИЈЕ",
+       "original_title": "Le martyre de la Catalogne",
+       "countries": [
+        "ШПА"
+       ],
+       "year": 1938,
+       "kind": null,
+       "cast": null,
+       "director": "Ј. Марсилач (J. Marsillach)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      },
+      {
+       "title": "НОВИ ЖИВОТИ",
+       "original_title": "Vidas nuevas",
+       "countries": [
+        "ШПА"
+       ],
+       "year": 1936,
+       "kind": null,
+       "cast": null,
+       "director": "Хулио Bravo (Julio Bravo)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      },
+      {
+       "title": "ТРАНСФУЗИЈА КРВИ",
+       "original_title": "Transfusió de sang",
+       "countries": [
+        "ШПА"
+       ],
+       "year": 1938,
+       "kind": null,
+       "cast": null,
+       "director": "Лаја Филмс (Laya Films)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      },
+      {
+       "title": "ПРЕЖИВЕТИ МАУТХАУЗЕН",
+       "original_title": "Sobrevivir Mauthausen",
+       "countries": [
+        "ШПА"
+       ],
+       "year": 1975,
+       "kind": null,
+       "cast": null,
+       "director": "Љоренс Солер (Llorenç Soler)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-26-1900-kanigo-1883",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ДАНИ КАТАЛОНСКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КАНИГО 1883",
+       "original_title": "Canigó 1883",
+       "countries": [
+        "ШПА"
+       ],
+       "year": 2023,
+       "kind": "документарни филм",
+       "cast": null,
+       "director": "Алберт Наудин (Albert Naudín)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt30985652",
+        "title": "Canigó 1883",
+        "year": 2023,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDNmMjhmMDItYzQxOC00N2JmLWE2ZjctYTU0MTU1OTNkOTEwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.1,
+        "votes": 12
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-26-2100-la-monjos",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ДАНИ КАТАЛОНСКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛА МОЊОС",
+       "original_title": "La Moños",
+       "countries": [
+        "ШПА"
+       ],
+       "year": 1996,
+       "kind": null,
+       "cast": "Хулијета Серано (Julieta Serrano), Еуфемија Роман (Eufemia Román)",
+       "director": "Миреја Рос (Mireia Ros)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0117097",
+        "title": "La Moños",
+        "year": 1996,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzI4N2FlODMtMTE5OS00NmMzLThmMzQtM2NkZGE5ZmY1M2ZjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 65
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-27-1700-senka",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ТИМ КАРИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СЕНКА",
+       "original_title": "The Shadow",
+       "countries": [
+        "САД"
+       ],
+       "year": 1994,
+       "kind": null,
+       "cast": "Алек Болдвин (Alec Baldwin), Тим Кари (Tim Curry)",
+       "director": "Расел Малкахи (Russell Mulcahy)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0111143",
+        "title": "The Shadow",
+        "year": 1994,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTZkZWE2MzAtYjU3OS00MWUwLWExYzMtNzdmZTA2MmI0ODU5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.1,
+        "votes": 29519
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-27-2000-la-saga-du-napoleon-d-abel-gance",
+     "times": [
+      "20:00"
+     ],
+     "end": null,
+     "section": "ДАН АУДИОВИЗУЕЛНОГ НАСЛЕЂА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "LA SAGA DU NAPOLÉON D'ABEL GANCE",
+       "original_title": null,
+       "countries": [
+        "ФРА"
+       ],
+       "year": 2025,
+       "kind": "документарни филм",
+       "cast": null,
+       "director": "Жорж Мурије (Georges Mourier)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-28-1700-sa-druge-strane",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МИЛЕНА ЗУПАНЧИЧ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СА ДРУГЕ СТРАНЕ",
+       "original_title": "Onkraj",
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Милена Зупанчич, Ивица Видовић",
+       "director": "Јоже Гале",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0189865",
+        "title": "From the Other Side",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDdjZTU2N2EtOWIwNi00NDFmLWIzNmQtZGQ4ZTY3NDc1NzY5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": null,
+        "votes": null
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-28-1900-veoma-daleko",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ГАУДИ - ЦИКЛУС КАТАЛОНСКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ВЕОМА ДАЛЕКО",
+       "original_title": "Molt lluny",
+       "countries": [
+        "ШПА",
+        "ХОЛ"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Марио Касас (Mario Casas), Давид Вердагер (David Verdaguer)",
+       "director": "Жерар Омс (Gerard Oms)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt26472958",
+        "title": "Away",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjMxOGU2YjMtMjY3YS00NWJmLWFiNzYtMTFkMDQzOWM0NGZhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.7,
+        "votes": 1684
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-28-2100-kongo",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ТИМ КАРИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КОНГО",
+       "original_title": "Congo",
+       "countries": [
+        "САД"
+       ],
+       "year": 1995,
+       "kind": null,
+       "cast": "Лора Лини (Laura Linney), Тим Кари (Tim Curry)",
+       "director": "Френк Маршал (Frank Marshall)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0112715",
+        "title": "Congo",
+        "year": 1995,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTc0MmM1MmMtYTI0Yi00YzJlLTg4MjctNjBlOGQ4NGJjZTNmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.4,
+        "votes": 53647
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-29-1700-decko-koji-obecava",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МИЛЕНА ЗУПАНЧИЧ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДЕЧКО КОЈИ ОБЕЋАВА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Александар Берчек, Милена Зупанчич",
+       "director": "Милош Радивојевић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180633",
+        "title": "The Promising Boy",
+        "year": 1981,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWFhMGZlYmEtYzcyMi00OGRiLTg3ZTEtNjM0YTE3OGNjYjQ1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.8,
+        "votes": 1768
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-29-1900-pejzazi-u-magli",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МИЛЕНА ЗУПАНЧИЧ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПЕЈЗАЖИ У МАГЛИ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1984,
+       "kind": null,
+       "cast": "Анамарија Петричевић, Милена Зупанчич",
+       "director": "Јован Јовановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0087898",
+        "title": "Pejzazi u magli",
+        "year": 1984,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmY2Yjk0M2EtZjEwYy00MjdmLTliNWItYTEwZTkxNjdlYTMxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 360
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-29-2100-novinar",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МИЛЕНА ЗУПАНЧИЧ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НОВИНАР",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1979,
+       "kind": null,
+       "cast": "Раде Шербеџија, Милена Зупанчич",
+       "director": "Фадил Хаџић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0079645",
+        "title": "Novinar",
+        "year": 1979,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2FhOWI5Y2YtNjRlZS00ZDQ2LWFmOTEtZDQ1MmZlYjE5NjkzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 191
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-30-1700-klopka",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... МИЛЕНА ЗУПАНЧИЧ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КЛОПКА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1988,
+       "kind": null,
+       "cast": "Милена Зупанчич, Мустафа Надаревић",
+       "director": "Суада Капић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0189638",
+        "title": "Klopka",
+        "year": 1988,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDVlN2EyYzYtZTJkNi00Yjg0LTgzZjctZGNhZmNmNzIxMDdjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 4.2,
+        "votes": 27
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-30-1900-covek-koji-je-prodao-svoju-kozu",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ТУНИС - ПОЧАСНИ ГОСТ САЈМА КЊИГА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЧОВЕК КОЈИ ЈЕ ПРОДАО СВОЈУ КОЖУ",
+       "original_title": "The Man Who Sold His Skin",
+       "countries": [
+        "ТУН",
+        "ФРА",
+        "БЕЛ",
+        "НЕМ",
+        "ШВЕ",
+        "КАТ",
+        "КИП"
+       ],
+       "year": 2020,
+       "kind": null,
+       "cast": "Кон Де Бав (Koen De Bouw), Јахја Махајни (Yahya Mahayni)",
+       "director": "Каутер Бен Ханиа (Kaouther Ben Hania)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt10360862",
+        "title": "The Man Who Sold His Skin",
+        "year": 2020,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjhlYmI2YzctZTNkNS00ZDBhLWE3NzUtNjFjZjZhNjJmNDNhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 7888
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-30-2100-zivot-u-dvorcu",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ЖАН-ПОЛ РАПНО",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЖИВОТ У ДВОРЦУ",
+       "original_title": "La Vie de chateau",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1965,
+       "kind": null,
+       "cast": "Катрин Денев (Catherine Deneuve), Филип Ноаре (Philippe Noiret)",
+       "director": "Жан-Пол Рапно (Jean-Paul Rappeneau)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0059872",
+        "title": "A Matter of Resistance",
+        "year": 1966,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzA2NjE1YjEtY2U5MS00MjQ3LWEyNjQtOGY3NTYyM2RiZGE1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 1262
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-10-31-1700-nikolas-filibert-u-ratu-u-ljubav",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ЖАН-ПОЛ РАПНО",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НИКОЛАС ФИЛИБЕРТ У РАТУ У ЉУБАВИ",
+       "original_title": "Les Maries de l'an deux",
+       "countries": [
+        "ФРА",
+        "ИТА",
+        "РУМ"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Жан-Пол Белмондо (Jean-Paul Belmondo), Марлен Жобер (Marlène Jobert)",
+       "director": "Жан-Пол Рапно (Jean-Paul Rappeneau)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0067397",
+        "title": "The Swashbuckler",
+        "year": 1971,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTRiNDUtZGJiNC00YjQxLWIyYjctZGU4MWRhMjU1ODQzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 1927
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-31-1900-sirano",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ЖАН-ПОЛ РАПНО",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СИРАНО",
+       "original_title": "Cyrano de Bergerac",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1990,
+       "kind": null,
+       "cast": "Жерар Депардје (Gérard Depardieu), Жак Вебер (Jacques Weber)",
+       "director": "Жан-Пол Рапно (Jean-Paul Rappeneau)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0099334",
+        "title": "Cyrano de Bergerac",
+        "year": 1990,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzgxYjJmZTktMWY1Zi00MjEyLWJlMGEtMmU4Y2UwMjJjZjEzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 27866
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-10-31-2100-konjanik-na-krovu",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на... ЖАН-ПОЛ РАПНО",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КОЊАНИК НА КРОВУ",
+       "original_title": "Le Hussard sur le toit",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1995,
+       "kind": null,
+       "cast": "Оливије Мартинез (Olivier Martinez), Жилијет Бинош (Juliette Binoche)",
+       "director": "Жан-Пол Рапно (Jean-Paul Rappeneau)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0113362",
+        "title": "The Horseman on the Roof",
+        "year": 1995,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmIwODM3MzUtZDI1ZC00YjZhLWEwYmMtMmRmMjVjODE4MzQ3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 6715
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "first_date": "2026-10-01",
+ "last_date": "2026-10-31",
+ "id": "2026-10",
+ "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/09/KINOTEKA_OKTOBAR_2026_PROGRAM.pdf",
+ "source_page": "https://www.kinoteka.org.rs/repertoar-programi/",
+ "pdf_sha256": "f0d21e069a13bed724b4089cbc259112d5443bbf88cbcd797a4e1ceb890873be",
+ "parsed_at": "2026-10-01T11:35:24+00:00"
+}

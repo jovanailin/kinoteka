@@ -1,0 +1,4 @@
+{
+  "_uputstvo": "Ručne ispravke IMDb poklapanja. Ključ: naslov iz PDF-a tačno kako piše (npr. \"ПОСЛЕДЊЕ ЛЕТО\") ili sa godinom (\"РЕКА (1984)\"). Vrednost: IMDb ID (\"tt0064586\") ili null da se film ne poveže ni sa čim.",
+  "ПОСЛЕДЊЕ ЛЕТО": "tt0064573"
+}

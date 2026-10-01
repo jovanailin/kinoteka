@@ -1,0 +1,3093 @@
+{
+ "title": "ЈУГОСЛОВЕНСКА КИНОТЕКА – ЈУН 2026",
+ "venue": "УЗУН МИРКОВА 1",
+ "intro": [],
+ "days": [
+  {
+   "date": "2026-06-02",
+   "notes": [
+    "Резервисан термин"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-03",
+   "notes": [
+    "Резервисан термин"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-04",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-04-1700-horoskop",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ЗЛАТНИ ПЕЧАТ КИНОТЕКЕ: БОРО ДРАШКОВИЋ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ХОРОСКОП",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1969,
+       "kind": null,
+       "cast": "Милена Дравић, Драган Николић",
+       "director": "Боро Драшковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0123107",
+        "title": "Horoscope",
+        "year": 1969,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTI3MWZiYTctYzJhMS00MTI5LWJkN2QtYjUwNzI4MGJmY2E1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 144
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-04-2100-nokaut",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ЗЛАТНИ ПЕЧАТ КИНОТЕКЕ: БОРО ДРАШКОВИЋ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НОКАУТ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ",
+        "ИТА"
+       ],
+       "year": 1971,
+       "kind": null,
+       "cast": "Милан Галовић, Барбара Буше (Barbara Bouchet)",
+       "director": "Боро Драшковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0123195",
+        "title": "The Rogue",
+        "year": 1971,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDgzMWMzZmEtNDgyZC00MWEyLWEzOTMtMzZkNWE2YWE1YzAxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 4.7,
+        "votes": 111
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-05",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-05-1400-pocetak",
+     "times": [
+      "14:00"
+     ],
+     "end": null,
+     "section": "ФДУ У КИНОТЕЦИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОЧЕТАК",
+       "original_title": "Inception",
+       "countries": [
+        "САД",
+        "ВБ"
+       ],
+       "year": 2010,
+       "kind": null,
+       "cast": "Леонардо Дикаприо (Leonardo DiCaprio), Том Харди (Tom Hardy)",
+       "director": "Кристофер Нолан (Christopher Nolan)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt1375666",
+        "title": "Inception",
+        "year": 2010,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX300_.jpg",
+        "rating": 8.8,
+        "votes": 2874327
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-05-1700-usijanje",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ЗЛАТНИ ПЕЧАТ КИНОТЕКЕ: БОРО ДРАШКОВИЋ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "УСИЈАЊЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1979,
+       "kind": null,
+       "cast": "Драган Максимовић, Раде Шербеџија",
+       "director": "Боро Драшковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0080069",
+        "title": "Usijanje",
+        "year": 1979,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMThmNGFhOTctMjU0OC00MTI4LWE5MmYtMGQ1NWQyNWU5OTk4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.7,
+        "votes": 89
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-05-1900-zivot-je-lep",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ЗЛАТНИ ПЕЧАТ КИНОТЕКЕ: БОРО ДРАШКОВИЋ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЖИВОТ ЈЕ ЛЕП",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1985,
+       "kind": null,
+       "cast": "Драган Николић, Соња Савић",
+       "director": "Боро Драшковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0090374",
+        "title": "Life Is Beautiful",
+        "year": 1985,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGE3MzYyYzYtYWMyMy00ZmY5LWI2M2QtNDdjMjYxZTBiNDdlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.8,
+        "votes": 712
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-05-2100-vukovar-jedna-prica",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ЗЛАТНИ ПЕЧАТ КИНОТЕКЕ: БОРО ДРАШКОВИЋ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ВУКОВАР, ЈЕДНА ПРИЧА",
+       "original_title": null,
+       "countries": [
+        "СРЈ"
+       ],
+       "year": 1994,
+       "kind": null,
+       "cast": "Мирјана Јоковић, Борис Исаковић",
+       "director": "Боро Драшковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0111646",
+        "title": "Vukovar Poste Restante",
+        "year": 1994,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzIzYzdjZGYtMjQwNy00ZTY5LWFlNzYtNWFkYjQ3NmIyOGJiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 965
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-06",
+   "notes": [
+    "28. ФЕСТИВАЛ НИТРАТНОГ ФИЛМА"
+   ],
+   "slots": [
+    {
+     "id": "2026-06-06-2000-svecano-otvaranje-28-festivala-n",
+     "times": [
+      "20:00"
+     ],
+     "end": null,
+     "section": null,
+     "label": "СВЕЧАНО ОТВАРАЊЕ 28. ФЕСТИВАЛА НИТРАТНОГ ФИЛМА И ДОДЕЛА ЗЛАТНОГ ПЕЧАТА ЈУГОСЛОВЕНСКЕ КИНОТЕКЕ",
+     "notes": [],
+     "credits": [],
+     "films": []
+    }
+   ]
+  },
+  {
+   "date": "2026-06-07",
+   "notes": [
+    "28. ФЕСТИВАЛ НИТРАТНОГ ФИЛМА"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-08",
+   "notes": [
+    "28. ФЕСТИВАЛ НИТРАТНОГ ФИЛМА"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-09",
+   "notes": [
+    "28. ФЕСТИВАЛ НИТРАТНОГ ФИЛМА"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-10",
+   "notes": [
+    "28. ФЕСТИВАЛ НИТРАТНОГ ФИЛМА"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-11",
+   "notes": [
+    "28. ФЕСТИВАЛ НИТРАТНОГ ФИЛМА"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-12",
+   "notes": [
+    "28. ФЕСТИВАЛ НИТРАТНОГ ФИЛМА"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-13",
+   "notes": [
+    "28. ФЕСТИВАЛ НИТРАТНОГ ФИЛМА"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-14",
+   "notes": [
+    "28. ФЕСТИВАЛ НИТРАТНОГ ФИЛМА"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-15",
+   "notes": [
+    "28. ФЕСТИВАЛ НИТРАТНОГ ФИЛМА"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-16",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-16-1700-predavanje-dragana-dimcica-monta",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "МОНТАЖА И ЈЕЗИК ФИЛМА",
+     "label": "Предавање Драгана Димчића: Монтажа и језик филма",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-06-16-1900-bornov-ultimatum",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "МОНТАЖА И ЈЕЗИК ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БОРНОВ УЛТИМАТУМ",
+       "original_title": "The Bourne Ultimatum",
+       "countries": [
+        "САД",
+        "НЕМ",
+        "ФРА",
+        "ШПА"
+       ],
+       "year": 2007,
+       "kind": null,
+       "cast": "Мет Дејмон (Matt Damon), Џулија Стајлс (Julia Stiles)",
+       "director": "Пол Гринграс (Paul Greengrass)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0440963",
+        "title": "The Bourne Ultimatum",
+        "year": 2007,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzE3ZGM4MzctZjU5MC00NWE2LTg5ZjYtMDFiM2ZlMWQ1MjkwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 689291
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-16-2100-prokletnici",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "МОНТАЖА И ЈЕЗИК ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРОКЛЕТНИЦИ",
+       "original_title": "Inglourious Basterds",
+       "countries": [
+        "САД",
+        "НЕМ"
+       ],
+       "year": 2009,
+       "kind": null,
+       "cast": "Бред Пит (Brad Pitt), Кристоф Валц (Christoph Waltz)",
+       "director": "Квентин Тарантино (Quentin Tarantino)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0361748",
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "poster": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.4,
+        "votes": 1821288
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-17",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-17-1700-19-00-o-pokojniku-sve-najlepse",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "А1 КИНОТЕКА",
+     "label": null,
+     "notes": [
+      "Премијера дигитално рестаурисане копије филма",
+      "Бесплатне пројекције"
+     ],
+     "credits": [],
+     "films": [
+      {
+       "title": "/19.00 О ПОКОЈНИКУ СВЕ НАЈЛЕПШЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1984,
+       "kind": null,
+       "cast": "Звонко Лепетић, Радмила Живковић, Петар Краљ",
+       "director": "Предраг Гага Антонијевић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0087823",
+        "title": "O pokojniku sve najlepse",
+        "year": 1984,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc3ZmFjMDUtYzdiMy00ZTI2LTk5YjEtNDFlN2MxNWM0NTVhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 310
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-17-2100-drvo-zivota",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "МОНТАЖА И ЈЕЗИК ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДРВО ЖИВОТА",
+       "original_title": "The Tree of Life",
+       "countries": [
+        "САД"
+       ],
+       "year": 2011,
+       "kind": null,
+       "cast": "Бред Пит (Brad Pitt), Шон Пен (Sean Penn)",
+       "director": "Теренс Малик (Terrence Malick)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0478304",
+        "title": "The Tree of Life",
+        "year": 2011,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 193590
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-18",
+   "notes": [
+    "Резервисан термин"
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-06-19",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-19-1700-americka-noc",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АМЕРИЧКА НОЋ",
+       "original_title": "La Nuit américaine",
+       "countries": [
+        "ФРА",
+        "ИТА"
+       ],
+       "year": 1973,
+       "kind": null,
+       "cast": "Жаклин Бисе (Jacqueline Bisset), Натали Бај (Nathalie Baye)",
+       "director": "Франсоа Трифо (François Truffaut)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0070460",
+        "title": "Day for Night",
+        "year": 1973,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmE5MjQ1MmMtOWEyZS00MWM4LWJhNzYtYzliNzIzNTE0MmY4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 26721
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-19-1900-bracna-putovanja",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БРАЧНА ПУТОВАЊА",
+       "original_title": "Le voyage de noces",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Жан-Луј Трентињан (Jean-Louis Trintignant), Натали Бај (Nathalie Baye)",
+       "director": "Надин Трентињан (Nadine Trintignant)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0220145",
+        "title": "Le voyage de noces",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTEyMDNkYzUtNDczMi00OTY5LTk4MzItMGM1NGMyODg1M2UwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.6,
+        "votes": 58
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-19-2100-devojka-mado",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДЕВОЈКА МАДО",
+       "original_title": "Mado",
+       "countries": [
+        "ФРА",
+        "ИТА",
+        "СРН"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Мишел Пиколи (Michel Piccoli), Натали Бај (Nathalie Baye)",
+       "director": "Клод Соте (Claude Sautet)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0074840",
+        "title": "Mado",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTUyMTY0NTg2NF5BMl5BanBnXkFtZTgwMTkyODg2NzE@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 1036
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-20",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-20-1700-covek-koji-je-voleo-zene",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЧОВЕК КОЈИ ЈЕ ВОЛЕО ЖЕНЕ",
+       "original_title": "L'homme qui aimait les femmes",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1977,
+       "kind": null,
+       "cast": "Шарл Денер (Charles Denner), Натали Бај (Nathalie Baye)",
+       "director": "Франсоа Трифо (François Truffaut)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0076155",
+        "title": "The Man Who Loved Women",
+        "year": 1977,
+        "poster": "https://m.media-amazon.com/images/M/MV5BODU2NjE1YWItZmYzYy00MDBhLWFmYTQtYmU2Y2U0MjA2ODUzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 8241
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-20-1900-ljudi-poludecu",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЉУДИ, ПОЛУДЕЋУ!!!",
+       "original_title": "Je vais craquer!!!",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1980,
+       "kind": null,
+       "cast": "Натали Бај (Nathalie Baye), Кристијан Клавије (Christian Clavier)",
+       "director": "Франсоа Летерије (François Leterrier)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0080950",
+        "title": "Rat Race",
+        "year": 1980,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWZkYzk4OWEtNGZmYi00NDQwLTg1YTItOGJiN2E2NjcyZGU0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.7,
+        "votes": 456
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-20-2100-ocuh",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОЧУХ",
+       "original_title": "Beau-père",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Патрик Девар (Patrick Dewaere), Натали Бај (Nathalie Baye)",
+       "director": "Бертран Блије (Bertrand Blier)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0082054",
+        "title": "Stepfather",
+        "year": 1981,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWIwODQwMTItZTI2ZC00OGY3LWE3NWMtMmI5NmU5ZjFiNGQzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 4423
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-21",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-21-1700-udala-sam-se-za-senku",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "УДАЛА САМ СЕ ЗА СЕНКУ",
+       "original_title": "J'ai épousé une ombre",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1983,
+       "kind": null,
+       "cast": "Натали Бај (Nathalie Baye), Франсис Истер (Francis Huster)",
+       "director": "Робен Давис (Robin Davis)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0084158",
+        "title": "I Married a Shadow",
+        "year": 1983,
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2UzMTc5MDUtODhhNi00ZmIxLWFmZGItNmUxNTY1NWRiYjdkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.4,
+        "votes": 666
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-21-1900-stanar",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "50 ГОДИНА ОД ПРЕМИЈЕРЕ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СТАНАР",
+       "original_title": "Le locataire",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Роман Полански (Roman Polanski), Изабел Ађани (Isabelle Adjani)",
+       "director": "Роман Полански (Roman Polanski)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0074811",
+        "title": "The Tenant",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGJhMzIzZWItOWRhOC00NzY0LTg4N2UtNDkxNTQ4NGNmZWNkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 52055
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-21-2100-ne-reci-nikome",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕ РЕЦИ НИКОМЕ",
+       "original_title": "Ne le dis à personne",
+       "countries": [
+        "ФРА",
+        "ВБ"
+       ],
+       "year": 2006,
+       "kind": null,
+       "cast": "Франсоа Клизе (François Cluzet), Натали Бај (Nathalie Baye)",
+       "director": "Гијом Кане (Guillaume Canet)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0362225",
+        "title": "Tell No One",
+        "year": 2006,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA1NDcyMzY1Ml5BMl5BanBnXkFtZTcwNjc1MDY3MQ@@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 62090
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-22",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-22-1700-lorans-u-svakom-slucaju",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛОРАНС, У СВАКОМ СЛУЧАЈУ",
+       "original_title": "Laurence Anyways",
+       "countries": [
+        "КАН",
+        "ФРА"
+       ],
+       "year": 2012,
+       "kind": null,
+       "cast": "Мелвил Пупо (Melvil Poupaud), Натали Бај (Nathalie Baye)",
+       "director": "Гзавије Долан (Xavier Dolan)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt1650048",
+        "title": "Laurence Anyways",
+        "year": 2012,
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2I4YjFjZWItNTA2YS00ZDE5LWE5OTQtNTBmZWU4MDFkMTE4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.6,
+        "votes": 23367
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-22-1900-alibi",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АЛИБИ",
+       "original_title": "Alibi.com",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 2016,
+       "kind": null,
+       "cast": "Натали Бај (Nathalie Baye), Филип Лашо (Philippe Lacheau)",
+       "director": "Филип Лашо (Philippe Lacheau)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt5657028",
+        "title": "Alibi.com",
+        "year": 2016,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzQwYWRmMzgtOWViOS00ZTI4LWFhNDUtZTc0Y2RlZWNiMDhlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 11750
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-22-2100-uhvati-me-ako-mozes",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: НАТАЛИ БАЈ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "УХВАТИ МЕ АКО МОЖЕШ",
+       "original_title": "Catch Me If You Can",
+       "countries": [
+        "САД",
+        "КАН"
+       ],
+       "year": 2002,
+       "kind": null,
+       "cast": "Леонардо Дикаприо (Leonardo DiCaprio), Натали Бај (Nathalie Baye)",
+       "director": "Стивен Спилберг (Steven Spielberg)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0264464",
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_QL75_UX300_.jpg",
+        "rating": 8.1,
+        "votes": 1267398
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-23",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-23-1700-vruca-sedla",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "МЕЛ БРУКС – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ВРУЋА СЕДЛА",
+       "original_title": "Blazing Saddles",
+       "countries": [
+        "САД"
+       ],
+       "year": 1974,
+       "kind": null,
+       "cast": "Џин Вајлдер (Gene Wilder), Кливон Литл (Cleavon Little)",
+       "director": "Мел Брукс (Mel Brooks)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0071230",
+        "title": "Blazing Saddles",
+        "year": 1974,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTI3Y2Y4NDgtY2I1NS00M2JmLWI5NzEtYTQwYTUwZGQxYzZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 166852
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-23-1900-mladi-frankenstajn",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "МЕЛ БРУКС – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "МЛАДИ ФРАНКЕНШТАЈН",
+       "original_title": "Young Frankenstein",
+       "countries": [
+        "САД"
+       ],
+       "year": 1974,
+       "kind": null,
+       "cast": "Џин Вајлдер (Gene Wilder), Тери Гар (Teri Garr)",
+       "director": "Мел Брукс (Mel Brooks)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0072431",
+        "title": "Young Frankenstein",
+        "year": 1974,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 181944
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-23-2100-tisina-smejemo-se",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "МЕЛ БРУКС – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТИШИНА, СМЕЈЕМО СЕ",
+       "original_title": "Silent Movie",
+       "countries": [
+        "САД"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Мел Брукс (Mel Brooks), Марти Фелдман (Marty Feldman)",
+       "director": "Мел Брукс (Mel Brooks)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0075222",
+        "title": "Silent Movie",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDMxMzcwOTYtOTA2MS00YTI2LTljMmUtMzU0MGM4MmNmZWUzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.7,
+        "votes": 19910
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-24",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-24-1700-visoka-napetost",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "МЕЛ БРУКС – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ВИСОКА НАПЕТОСТ",
+       "original_title": "High Anxiety",
+       "countries": [
+        "САД"
+       ],
+       "year": 1977,
+       "kind": null,
+       "cast": "Мел Брукс (Mel Brooks), Мадлин Кан (Madeline Kahn)",
+       "director": "Мел Брукс (Mel Brooks)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0076141",
+        "title": "High Anxiety",
+        "year": 1977,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NzhiOTMtMWUzNC00NDNiLWI2YTYtMWQzYTRiMjRkMWM4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 26206
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-24-1900-revija-filmskog-stvaralastva-dec",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "МЕЛ БРУКС – 100 година од рођења",
+     "label": "РЕВИЈА ФИЛМСКОГ СТВАРАЛАШТВА ДЕЦЕ И ОМЛАДИНЕ СРБИЈЕ",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-06-24-2100-smesna-strana-istorije",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "МЕЛ БРУКС – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СМЕШНА СТРАНА ИСТОРИЈЕ",
+       "original_title": "History of the World: Part I",
+       "countries": [
+        "САД"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Мел Брукс (Mel Brooks), Дом Делуиз (Dom DeLuise)",
+       "director": "Мел Брукс (Mel Brooks)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0082517",
+        "title": "History of the World: Part I",
+        "year": 1981,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDk3Zjc4MWYtNjVjYS00NTBjLTg4NmUtNzA4ODRjYzEyMDgzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 59640
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-25",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-25-1700-revija-filmskog-stvaralastva-dec",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": null,
+     "label": "РЕВИЈА ФИЛМСКОГ СТВАРАЛАШТВА ДЕЦЕ И ОМЛАДИНЕ СРБИЈЕ",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-06-25-1900-biti-il-ne-biti",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "МЕЛ БРУКС – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БИТИ ИЛ' НЕ БИТИ",
+       "original_title": "To Be or Not to Be",
+       "countries": [
+        "САД"
+       ],
+       "year": 1983,
+       "kind": null,
+       "cast": "Мел Брукс (Mel Brooks), Ен Бенкрофт (Anne Bancroft)",
+       "director": "Мел Брукс (Mel Brooks)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0086450",
+        "title": "To Be or Not to Be",
+        "year": 1983,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTU3Y2Q3YWItZjM0NS00YTRjLWFjNjctNDRiY2E3YmI3MWFmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 13048
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-25-2100-smeh-u-svemiru",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "МЕЛ БРУКС – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СМЕХ У СВЕМИРУ",
+       "original_title": "Spaceballs",
+       "countries": [
+        "САД"
+       ],
+       "year": 1987,
+       "kind": null,
+       "cast": "Мел Брукс (Mel Brooks), Џон Кенди (John Candy)",
+       "director": "Мел Брукс (Mel Brooks)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0094012",
+        "title": "Spaceballs",
+        "year": 1987,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWNhNWM3NWQtNTMwNy00NThiLWFkZDYtYzBlZTQyZGU2YzE1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 229116
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-26",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-26-1700-revija-filmskog-stvaralastva-dec",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": null,
+     "label": "РЕВИЈА ФИЛМСКОГ СТВАРАЛАШТВА ДЕЦЕ И ОМЛАДИНЕ СРБИЈЕ",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-06-26-1900-drakula-mrtav-i-voljen",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "МЕЛ БРУКС – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДРАКУЛА, МРТАВ И ВОЉЕН",
+       "original_title": "Dracula: Dead and Loving It",
+       "countries": [
+        "ФРА",
+        "САД"
+       ],
+       "year": 1995,
+       "kind": null,
+       "cast": "Лесли Нилсен (Leslie Nielsen), Мел Брукс (Mel Brooks)",
+       "director": "Мел Брукс (Mel Brooks)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0112896",
+        "title": "Dracula: Dead and Loving It",
+        "year": 1995,
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2I2MjQzYTgtZWU5ZS00ZGZmLWFhNmQtNjVlODE0OTM4Y2JhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.9,
+        "votes": 49464
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-26-2100-predskazanje",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ШОК КОРИДОР: ПРЕДСКАЗАЊЕ – 50 ГОДИНА ОД ПРЕМИЈЕРЕ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРЕДСКАЗАЊЕ",
+       "original_title": "The Omen",
+       "countries": [
+        "САД",
+        "ВБ"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Грегори Пек (Gregory Peck), Ли Ремик (Lee Remick)",
+       "director": "Ричард Донер (Richard Donner)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0075005",
+        "title": "The Omen",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTgxNjY0OTEtYWExOC00OWJiLWEzY2ItNzNjYTY0YjhjNjlhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 147995
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-27",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-27-1700-revija-filmskog-stvaralastva-dec",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": null,
+     "label": "РЕВИЈА ФИЛМСКОГ СТВАРАЛАШТВА ДЕЦЕ И ОМЛАДИНЕ СРБИЈЕ",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-06-27-1900-daj-da-se-volimo",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "МЕРИЛИН МОНРО",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДАЈ ДА СЕ ВОЛИМО",
+       "original_title": "Let's Make Love",
+       "countries": [
+        "САД"
+       ],
+       "year": 1960,
+       "kind": null,
+       "cast": "Мерилин Монро (Marilyn Monroe), Ив Монтан (Yves Montand)",
+       "director": "Џорџ Кјукор (George Cukor)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0054022",
+        "title": "Let's Make Love",
+        "year": 1960,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzExYTgwY2UtODZhNS00MTgzLTkzNWMtZmY0NGViNDQ3MTZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.4,
+        "votes": 8811
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-27-2100-predskazanje-2",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ШОК КОРИДОР: ПРЕДСКАЗАЊЕ – 50 ГОДИНА ОД ПРЕМИЈЕРЕ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРЕДСКАЗАЊЕ 2",
+       "original_title": "Damien: Omen II",
+       "countries": [
+        "САД"
+       ],
+       "year": 1978,
+       "kind": null,
+       "cast": "Вилијам Холден (William Holden), Ли Грант (Lee Grant)",
+       "director": "Дон Тејлор (Don Taylor)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0077394",
+        "title": "Damien: Omen II",
+        "year": 1978,
+        "poster": "https://m.media-amazon.com/images/M/MV5BODBiODQ3N2UtNWY1NS00MDA1LWIyNjgtNTdmZjRlNzg1ZjIxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.2,
+        "votes": 40573
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-28",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-28-1400-revija-filmskog-stvaralastva-dec",
+     "times": [
+      "14:00",
+      "17:00"
+     ],
+     "end": null,
+     "section": null,
+     "label": "РЕВИЈА ФИЛМСКОГ СТВАРАЛАШТВА ДЕЦЕ И ОМЛАДИНЕ СРБИЈЕ",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-06-28-1900-proslava-550-godisnjice-kosovske",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ВИДОВДАН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРОСЛАВА 550. ГОДИШЊИЦЕ КОСОВСКЕ БИТКЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1939,
+       "kind": null,
+       "cast": null,
+       "director": "Драгољуб Гошић, Коста Новаковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0238535",
+        "title": "Proslava 550 godisnjice Kosovske bitke",
+        "year": 1939,
+        "poster": null,
+        "rating": 6.4,
+        "votes": 11
+       }
+      },
+      {
+       "title": "КОСОВСКИ БОЈ – СЛИКА ПЕТРА ЛУБАРДЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1959,
+       "kind": "кратки филм",
+       "cast": null,
+       "director": "Василије Брајовић",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      },
+      {
+       "title": "БИТКА НА КОСОВУ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": null,
+       "director": "Луис Сремец",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    },
+    {
+     "id": "2026-06-28-2100-predskazanje",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ШОК КОРИДОР: ПРЕДСКАЗАЊЕ – 50 ГОДИНА ОД ПРЕМИЈЕРЕ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРЕДСКАЗАЊЕ",
+       "original_title": "The Omen",
+       "countries": [
+        "САД",
+        "ВБ",
+        "МАЂ"
+       ],
+       "year": 2006,
+       "kind": null,
+       "cast": "Лив Шрајбер (Liev Schreiber), Џулија Стајлс (Julia Stiles)",
+       "director": "Џон Мур (John Moore)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0466909",
+        "title": "The Omen",
+        "year": 2006,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDhhMTBlODEtMGIxOC00MzVjLTllMzctY2NkMWNmODY3MWZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.5,
+        "votes": 66691
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-29",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-29-1800-otvaranje-izlozbe-pavle-vuisic",
+     "times": [
+      "18:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": "ОТВАРАЊЕ ИЗЛОЖБЕ „ПАВЛЕ ВУИСИЋ”",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-06-29-1900-tri-koraka-u-prazno",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТРИ КОРАКА У ПРАЗНО",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1958,
+       "kind": null,
+       "cast": "Павле Вуисић, Злата Перлић",
+       "director": "Војислав Нановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180264",
+        "title": "Tri koraka u prazno",
+        "year": 1958,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDM0M2VmOWItNDg4OS00ODE1LWJhMzgtNGFmYWZjNDBiMWIzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.9,
+        "votes": 15
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-29-2100-rafal-u-nebo",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "РАФАЛ У НЕБО",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1958,
+       "kind": null,
+       "cast": "Дара Чаленић, Павле Вуисић",
+       "director": "Војислав Бјењаш",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180077",
+        "title": "Shots in the Sky",
+        "year": 1958,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTliMTk1NmUtZTgxMC00NjA3LWE2ZWUtZTJkYWZlYTY1ZGNlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 58
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-06-30",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-06-30-1700-pogon-b",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОГОН Б",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1958,
+       "kind": null,
+       "cast": "Миливоје Живановић, Павле Вуисић",
+       "director": "Војислав Нановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180055",
+        "title": "Factory B",
+        "year": 1958,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWEwMjg5MzEtNDE0OS00MTMyLWEyODEtYTA4MzM3NzYyMWE5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 37
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-30-1900-kampo-mamula",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КАМПО МАМУЛА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1959,
+       "kind": null,
+       "cast": "Павле Вуисић, Љуба Тадић",
+       "director": "Велимир Стојановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0179701",
+        "title": "Mamula Camp",
+        "year": 1959,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGMwNTMzYWUtYzBhYS00MTg2LTk2ZmMtNDRmMzhlYWFlOWM3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 97
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-06-30-2100-drug-predsednik-centarfor",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДРУГ ПРЕДСЕДНИК ЦЕНТАРФОР",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1960,
+       "kind": null,
+       "cast": "Оливера Марковић, Павле Вуисић",
+       "director": "Жорж Скригин",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0053785",
+        "title": "Drug predsednik centarfor",
+        "year": 1960,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTIxNjMzOWYtYjA5NC00MWM5LThhNmQtYWUwZWE3NGMxYjJjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 74
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-01-1700-bolje-je-umeti",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БОЉЕ ЈЕ УМЕТИ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1960,
+       "kind": null,
+       "cast": "Павле Вуисић, Милена Дравић",
+       "director": "Војислав Нановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0179685",
+        "title": "Bolje je umeti...",
+        "year": 1960,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmRjMzYwMDQtOWQxNS00YjY5LTk3OTEtYTg0NjliZWI5ZjRlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 59
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-01-1900-parce-plavog-neba",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПАРЧЕ ПЛАВОГ НЕБА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1961,
+       "kind": null,
+       "cast": "Рахела Ферари, Павле Вуисић",
+       "director": "Тома Јанић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180040",
+        "title": "Parce plavog neba",
+        "year": 1961,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDc3OTQzM2UtMTE4YS00N2VmLWJkMGQtMmM5ZDlkZjQ2NWY0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.7,
+        "votes": 53
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-01-2100-nema-malih-bogova",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕМА МАЛИХ БОГОВА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1961,
+       "kind": null,
+       "cast": "Миодраг Петровић Чкаља, Павле Вуисић",
+       "director": "Радивоје Лола Ђукић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180004",
+        "title": "Nema malih bogova",
+        "year": 1961,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmNkMDNhOTgtZjZmZC00YjQyLTk1NDAtYmExMWFiZmU5ODY0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.8,
+        "votes": 211
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-02",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-02-1700-stepa",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СТЕПА",
+       "original_title": "La steppa",
+       "countries": [
+        "ИТА",
+        "ФРА",
+        "ЈУГ"
+       ],
+       "year": 1962,
+       "kind": null,
+       "cast": "Шарл Ванел (Charles Vanel), Павле Вуисић",
+       "director": "Алберто Латуада (Alberto Lattuada)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0057529",
+        "title": "The Steppe",
+        "year": 1962,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGIxMzQzMGYtYjMwMC00YWFjLThhMWQtODc0MjE2YmEzN2E4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.0,
+        "votes": 36
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-02-1900-dvostruki-obruc",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДВОСТРУКИ ОБРУЧ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1963,
+       "kind": null,
+       "cast": "Северин Бијелић, Павле Вуисић",
+       "director": "Никола Танхофер",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0179788",
+        "title": "Double Circle",
+        "year": 1963,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWU5YzE0NjYtMDNhNi00ODM5LWFmNGQtYjRmMzg4ZDk0ZTU1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 112
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-02-2100-desant-na-drvar",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДЕСАНТ НА ДРВАР",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1963,
+       "kind": null,
+       "cast": "Павле Вуисић, Љубиша Самарџић",
+       "director": "Фадил Хаџић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0056987",
+        "title": "Desant na Drvar",
+        "year": 1963,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmZiNjJmMDItNjRhOS00MWNkLTk4MmItMjkxZTUwOWEwZGYyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.2,
+        "votes": 318
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-03",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-03-1700-narodni-poslanik",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НАРОДНИ ПОСЛАНИК",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1964,
+       "kind": null,
+       "cast": "Петре Прличко, Павле Вуисић",
+       "director": "Столе Јанковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0179998",
+        "title": "Narodni poslanik",
+        "year": 1964,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDNkNTY5ZjEtNWY0MC00Yjc2LWE5NGYtYTRjZmQ2MzU2OTI2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 56
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-03-1900-prometej-s-otoka-visevice",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРОМЕТЕЈ С ОТОКА ВИШЕВИЦЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1964,
+       "kind": null,
+       "cast": "Слободан Димитријевић, Павле Вуисић",
+       "director": "Ватрослав Мимица",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0173063",
+        "title": "Prometej s otoka Visevice",
+        "year": 1964,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjI5YzZiZWYtMmM5NS00ZmIzLWJlYmUtNmEyMzQwOTg2MjQ3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 135
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-03-2100-doci-i-ostati",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДОЋИ И ОСТАТИ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1965,
+       "kind": null,
+       "cast": "Драгомир Бојанић Гидра, Павле Вуисић",
+       "director": "Бранко Бауер",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0169777",
+        "title": "Doci i ostati",
+        "year": 1965,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzY5ZDM4MGUtOWU1Mi00YjgwLWJkZTktNmJiNWVkMjNkOWRkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 47
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-04",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-04-1700-gorki-deo-reke",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ГОРКИ ДЕО РЕКЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ",
+        "СРН"
+       ],
+       "year": 1965,
+       "kind": null,
+       "cast": "Љуба Тадић, Павле Вуисић",
+       "director": "Јован Живановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0176781",
+        "title": "Gorki deo reke",
+        "year": 1965,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmVlZDM5OWEtNTUxMC00NjZlLTg2NzMtNWFjZDA2YjQ4MmJlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 64
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-04-1900-ponedjeljak-ili-utorak",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОНЕДЈЕЉАК ИЛИ УТОРАК",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1966,
+       "kind": null,
+       "cast": "Слободан Димитријевић, Павле Вуисић",
+       "director": "Ватрослав Мимица",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0173015",
+        "title": "Ponedjeljak ili utorak",
+        "year": 1966,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzgxYWFjZjEtZWYxYy00ZWM2LWE2ODktYTk1ODIyNGM5NmFjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 180
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-04-2100-dim",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДИМ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1967,
+       "kind": null,
+       "cast": "Павле Вуисић, Милан Милошевић",
+       "director": "Слободан Косовалић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0179770",
+        "title": "Dim",
+        "year": 1967,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzY5MThiMjYtYmJlYi00NTIyLWI1YzUtZWYyYTY1ZjYzN2Q4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 48
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-05",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-05-1700-sunce-tudjeg-neba",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СУНЦЕ ТУЂЕГ НЕБА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1968,
+       "kind": null,
+       "cast": "Мира Ступица, Павле Вуисић",
+       "director": "Милутин Косовац",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180220",
+        "title": "Sunce tudjeg neba",
+        "year": 1968,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTFhMTJkNTMtYmJmNi00MzU5LWE2ZTQtOTg1NGYwYWVhZDQ2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 46
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-05-1900-ram-za-sliku-moje-drage",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "РАМ ЗА СЛИКУ МОЈЕ ДРАГЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1968,
+       "kind": null,
+       "cast": "Зоран Радмиловић, Павле Вуисић",
+       "director": "Мирза Идризовић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180081",
+        "title": "Ram za sliku moje drage",
+        "year": 1968,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGNhMTBiM2UtYTliNi00M2FhLTg1MjUtNmMxMzJjZGIzYjFhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 38
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-05-2100-kad-cujes-zvona",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КАД ЧУЈЕШ ЗВОНА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1969,
+       "kind": null,
+       "cast": "Павле Вуисић, Борис Бузанчић",
+       "director": "Антун Врдољак",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0064529",
+        "title": "When You Hear the Bells",
+        "year": 1969,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDRhNTgyODAtYTZjOS00ZmRlLWI3MjctYmRhZWViYTQ2MjU5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 260
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-06",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-06-1700-zaseda",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЗАСЕДА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1969,
+       "kind": null,
+       "cast": "Милена Дравић, Павле Вуисић",
+       "director": "Живојин Павловић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt5277040",
+        "title": "Zasada",
+        "year": 1969,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTE5ZWYyM2EtZTE5OS00N2RiLWI4M2EtYmUyODBlNTdkYjE3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.4,
+        "votes": 14
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-06-1900-dogadjaj",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДОГАЂАЈ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1969,
+       "kind": null,
+       "cast": "Павле Вуисић, Борис Дворник",
+       "director": "Ватрослав Мимица",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0065650",
+        "title": "An Event",
+        "year": 1969,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmQ4MWFmNGItYjI0NS00NDA5LWI5YWQtNTkxZDc1NjUxNzJiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 237
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-06-2100-zarki",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЖАРКИ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Драгомир Бојанић Гидра, Павле Вуисић",
+       "director": "Ђорђе Кадијевић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180328",
+        "title": "Zarki",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM2YzhmZDMtZGEwZC00YzJmLThkYmEtZGVjMzNlNWNmYTBmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.4,
+        "votes": 45
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "notes": [
+    "ПОБЕДНИЧКИ ФИЛМОВИ СА СОФЕСТ-а 2026."
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-07-08",
+   "notes": [
+    "ПОБЕДНИЧКИ ФИЛМОВИ СА СОФЕСТ-а 2026."
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-07-09",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-09-1700-opklada",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОПКЛАДА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1971,
+       "kind": null,
+       "cast": "Павле Вуисић, Душица Жегарац",
+       "director": "Здравко Рандић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180027",
+        "title": "The Bet",
+        "year": 1971,
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2ZhYTU0MDgtOTY2OC00Mzk3LWIxMGQtOWQ2MGQ5OGRmYzc3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 53
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-09-1900-dorucak-sa-djavolom",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДОРУЧАК СА ЂАВОЛОМ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1971,
+       "kind": null,
+       "cast": "Велимир Бата Живојиновић, Павле Вуисић",
+       "director": "Мирослав Мика Антић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0179775",
+        "title": "Breakfast with the Devil",
+        "year": 1971,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmFiZThjYTAtNmZmNC00YjBhLWI5MmEtYjBjMWFhMGQ0ZTc3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.7,
+        "votes": 121
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-09-2100-majstor-i-margarita",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "МАЈСТОР И МАРГАРИТА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1972,
+       "kind": null,
+       "cast": "Уго Тоњаци (Ugo Tognazzi), Павле Вуисић",
+       "director": "Александар Петровић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0068894",
+        "title": "The Master and Margaret",
+        "year": 1972,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzM4OGJlYmUtZDVlYS00ZWIyLWFmYjYtNGI5ZmIxZjczMzdjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.2,
+        "votes": 905
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-10",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-10-1700-tragovi-crne-devojke",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТРАГОВИ ЦРНЕ ДЕВОЈКЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1972,
+       "kind": null,
+       "cast": "Борис Дворник, Павле Вуисић",
+       "director": "Здравко Рандић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180258",
+        "title": "Traces of a Black Haired Girl",
+        "year": 1972,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzc2ODhlNTMtZjRkMi00NWNiLWE3MjktZTMxNjlmNmZiMjllXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 137
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-10-1900-dr-mladen",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДР МЛАДЕН",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1975,
+       "kind": null,
+       "cast": "Павле Вуисић, Љуба Тадић",
+       "director": "Мидхат Мутапџић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0072893",
+        "title": "Doktor Mladen",
+        "year": 1975,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGMwMTZhYjktY2MzZC00ZTMyLTk1NTEtY2VhOTk2MGUwOWFiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 251
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-10-2100-seljacka-buna-1573",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СЕЉАЧКА БУНА 1573",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1975,
+       "kind": null,
+       "cast": "Фабијан Шоваговић, Павле Вуисић",
+       "director": "Ватрослав Мимица",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0070663",
+        "title": "Anno Domini 1573",
+        "year": 1975,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjg3OTMzNDItMDdmMC00ZTk0LTgzZDctZmYzNjIxOTk0MjM3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 324
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-11",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-11-1700-povratak-otpisanih",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОВРАТАК ОТПИСАНИХ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Павле Вуисић, Драган Николић",
+       "director": "Александар Ђорђевић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0075094",
+        "title": "The Written Off Return",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2MxMzhiNzUtYmIwMS00MzJlLWFiZmMtMGZmMGM3ZWIxYTY2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.1,
+        "votes": 1293
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-11-1900-vise-od-igre",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ВИШЕ ОД ИГРЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Никола Симић, Павле Вуисић",
+       "director": "Здравко Шотра",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt13552496",
+        "title": "Vise od igre",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBlZWRmMTItZjA1Mi00ZTgyLTk2N2QtOWM2YmJjNmEzODNmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.2,
+        "votes": 94
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-11-2100-bestije",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БЕШТИЈЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1977,
+       "kind": null,
+       "cast": "Велимир Бата Живојиновић, Павле Вуисић",
+       "director": "Живко Николић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0173671",
+        "title": "Beasts",
+        "year": 1977,
+        "poster": "https://m.media-amazon.com/images/M/MV5BODRjZjllNjQtMzA0OS00ODljLTk0NjktNDlkZWE0ZTFiZDdkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.2,
+        "votes": 275
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-12",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-12-1700-hajka",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ХАЈКА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1977,
+       "kind": null,
+       "cast": "Раде Шербеџија, Павле Вуисић",
+       "director": "Живојин Павловић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0124701",
+        "title": "Hajka",
+        "year": 1977,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWJhZDIyMWUtNjNkOC00ZTZiLTk3MDItZjk5OWZlMDg5NjZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 273
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-12-1900-tren",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТРЕН",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1978,
+       "kind": null,
+       "cast": "Павле Вуисић, Велимир Бата Живојиновић",
+       "director": "Столе Јанковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0180261",
+        "title": "Moment",
+        "year": 1978,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjAyZGViMzItZWJmZS00YjM3LWEwMGUtYzc5Y2E4ZDk4ODYzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 159
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-12-2100-pakleni-otok",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПАКЛЕНИ ОТОК",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1979,
+       "kind": null,
+       "cast": "Аљоша Вучковић, Павле Вуисић",
+       "director": "Владимир Тадеј",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0079692",
+        "title": "Pakleni otok",
+        "year": 1979,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTNlNTc1YTgtY2NhNS00ODJjLTk4ZDktOWQwNTZhMWNkZDU5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.9,
+        "votes": 60
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-13-1700-drugarcine",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДРУГАРЧИНЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1979,
+       "kind": null,
+       "cast": "Милан Лане Гутовић, Павле Вуисић",
+       "director": "Миливоје Мића Милошевић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0179783",
+        "title": "The Pals",
+        "year": 1979,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTM3YjNlN2YtOWZjOS00NjMxLTg4ZDAtMGY3MjcwZjUzNWVlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.1,
+        "votes": 190
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-13-1900-hajduk",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ХАЈДУК",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1980,
+       "kind": null,
+       "cast": "Светозар Цветковић, Павле Вуисић",
+       "director": "Александар Петковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0179839",
+        "title": "Hajduk",
+        "year": 1980,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDQxYjM2NjMtZmQxNS00MGVhLTg1YzAtMzczZTgzZGY2MGRjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 178
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-13-2100-sjecas-li-se-doli-bel",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СЈЕЋАШ ЛИ СЕ ДОЛИ БЕЛ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Славко Штимац, Павле Вуисић",
+       "director": "Емир Кустурица",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0083089",
+        "title": "Do You Remember Dolly Bell?",
+        "year": 1981,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2VhNDczYmYtMTg1NC00YmJiLThmYzAtNGI3YjAzZjZjN2VmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 7410
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-14-1700-sok-od-sljiva",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СОК ОД ШЉИВА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Предраг Мики Манојловић, Павле Вуисић",
+       "director": "Бранко Балетић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0083103",
+        "title": "Sok od sljiva",
+        "year": 1981,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTJmY2E4NDQtYTVmNC00NTkwLWI0MTYtZGY5NzhlOGU5NTU5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 219
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-14-1900-berlin-kaput",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БЕРЛИН КАПУТ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Милан Лане Гутовић, Павле Вуисић",
+       "director": "Миливоје Мића Милошевић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0179673",
+        "title": "Berlin kaputt",
+        "year": 1981,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTI3N2UwYjAtYjY0ZS00NGM0LThlZjEtM2QxNmU2MGM2ZjIxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.1,
+        "votes": 81
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-14-2100-13-jul",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "13. ЈУЛ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1982,
+       "kind": null,
+       "cast": "Петар Божовић, Павле Вуисић",
+       "director": "Радомир Бајо Шарановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0083507",
+        "title": "13. jul",
+        "year": 1982,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGUyYTc5ZmQtMWFjNC00MGMyLWFlZWEtYTAzMGFmMDZiYmRmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.1,
+        "votes": 154
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-15-1700-nedeljni-rucak",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕДЕЉНИ РУЧАК",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1982,
+       "kind": null,
+       "cast": "Велимир Бата Живојиновић, Павле Вуисић",
+       "director": "Милан Јелић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0085999",
+        "title": "Nedeljni rucak",
+        "year": 1982,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTY4MmYwYWYtZmNkYy00OTgzLTkwZjUtOTdiMTA5MmEyOWE3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 179
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-15-1830-otac-na-sluzbenom-putu",
+     "times": [
+      "18:30"
+     ],
+     "end": null,
+     "section": "ПАВЛЕ ВУИСИЋ – 100 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОТАЦ НА СЛУЖБЕНОМ ПУТУ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1985,
+       "kind": null,
+       "cast": "Предраг Мики Манојловић, Павле Вуисић",
+       "director": "Емир Кустурица",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0089748",
+        "title": "When Father Was Away on Business",
+        "year": 1985,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc2ODg1NTUtM2QyNy00MGFhLTg4ODItY2RmMDJhZjg4NjYyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 10923
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "first_date": "2026-06-02",
+ "last_date": "2026-07-15",
+ "id": "2026-06",
+ "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/06/KINOTEKA_JUN_2026_PROGRAM.pdf",
+ "source_page": "https://www.kinoteka.org.rs/repertoar-programi/",
+ "pdf_sha256": "56279d019d981ab046cb3fea362432ab8de3c73f7689d21b49b802a68803f3f9",
+ "parsed_at": "2026-10-01T11:33:21+00:00"
+}

@@ -1,0 +1,5223 @@
+{
+ "title": "ЈУГОСЛОВЕНСКА КИНОТЕКА – ЈУЛ/АВГУСТ 2026",
+ "venue": "УЗУН МИРКОВА 1",
+ "intro": [],
+ "days": [
+  {
+   "date": "2026-07-16",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-16-1700-u-zenitu-sunca",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "У ЗЕНИТУ СУНЦА",
+       "original_title": "Plein soleil",
+       "countries": [
+        "ФРА",
+        "ИТА"
+       ],
+       "year": 1960,
+       "kind": null,
+       "cast": "Ален Делон (Alain Delon), Морис Роне (Maurice Ronet)",
+       "director": "Рене Клеман (René Clément)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0054189",
+        "title": "Purple Noon",
+        "year": 1960,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjEyYWE3ZGItNDFkMy00MzBmLWFlNTEtYzQ3MDRjN2FkZGUxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 24586
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-16-1900-konan-varvarin",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КОНАН ВАРВАРИН",
+       "original_title": "Conan the Barbarian",
+       "countries": [
+        "САД"
+       ],
+       "year": 1982,
+       "kind": null,
+       "cast": "Арнолд Шварценегер (Arnold Schwarzenegger), Џејмс Ерл Џоунс (James Earl Jones)",
+       "director": "Џон Милијус (John Milius)",
+       "credits": [
+        {
+         "label": "Сценарио",
+         "value": "Оливер Стоун (Oliver Stone)"
+        }
+       ],
+       "extra": [],
+       "imdb": {
+        "id": "tt0082198",
+        "title": "Conan the Barbarian",
+        "year": 1982,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjUzM2YzZDAtNzk1MS00YmNmLTg1ZmQtNjgyN2U3NTY0ZjE4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 175945
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-16-2100-ponocni-ekspres",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОНОЋНИ ЕКСПРЕС",
+       "original_title": "Midnight Express",
+       "countries": [
+        "ВБ",
+        "САД"
+       ],
+       "year": 1978,
+       "kind": null,
+       "cast": "Бред Дејвис (Brad Davis), Џон Харт (John Hurt)",
+       "director": "Алан Паркер (Alan Parker)",
+       "credits": [
+        {
+         "label": "Сценарио",
+         "value": "Оливер Стоун (Oliver Stone)"
+        }
+       ],
+       "extra": [],
+       "imdb": {
+        "id": "tt0077928",
+        "title": "Midnight Express",
+        "year": 1978,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTRiOGMxYzctMTk3Ny00ODBkLWIyNTMtOGZhMWY0MjZiYzAxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 95902
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-17-1700-dugo-toplo-leto",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДУГО ТОПЛО ЛЕТО",
+       "original_title": "Long Hot Summer",
+       "countries": [
+        "САД"
+       ],
+       "year": 1958,
+       "kind": null,
+       "cast": "Пол Њумен (Paul Newman), Орсон Велс (Orson Welles)",
+       "director": "Мартин Рит (Martin Ritt)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0051878",
+        "title": "The Long, Hot Summer",
+        "year": 1958,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGNhZTlkMzAtZjY2Ny00YjlhLThlOWEtOWExYTVmMzI2OWExXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 13861
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-17-1900-nocni-razgovori",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НОЋНИ РАЗГОВОРИ",
+       "original_title": "Talk Radio",
+       "countries": [
+        "КАН"
+       ],
+       "year": 1988,
+       "kind": null,
+       "cast": "Ерик Богосијан (Eric Bogosian), Алек Болдвин (Alec Baldwin)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0096219",
+        "title": "Talk Radio",
+        "year": 1988,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGVjYzZjYWEtYzVkOS00ZWM0LWEwZWYtMGI3OTQ4YWVlMTU0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 15751
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-17-2100-lice-sa-oziljkom",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛИЦЕ СА ОЖИЉКОМ",
+       "original_title": "Scarface",
+       "countries": [
+        "САД"
+       ],
+       "year": 1983,
+       "kind": null,
+       "cast": "Ал Паћино (Al Pacino), Мишел Фајфер (Michelle Pfeiffer)",
+       "director": "Брајан де Палма (Brian de Palma)",
+       "credits": [
+        {
+         "label": "Сценарио",
+         "value": "Оливер Стоун (Oliver Stone)"
+        }
+       ],
+       "extra": [],
+       "imdb": {
+        "id": "tt0086250",
+        "title": "Scarface",
+        "year": 1983,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.3,
+        "votes": 1036691
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-18",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-18-1700-mediteraneo",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "МЕДИТЕРАНЕО",
+       "original_title": "Mediterraneo",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 1991,
+       "kind": null,
+       "cast": "Дијего Абатантуоно (Diego Abatantuono), Клаудио Бигаљи (Claudio Bigagli)",
+       "director": "Габријеле Салваторес (Gabriele Salvatores)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0102426",
+        "title": "Mediterraneo",
+        "year": 1991,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTliYzY5OTktZDg3OC00NDA0LTlhYzAtNTE3ZmU1YWU1NWUwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 18017
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-18-1900-auto-put",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АУТО-ПУТ",
+       "original_title": "Freeway",
+       "countries": [
+        "САД",
+        "ФРА"
+       ],
+       "year": 1996,
+       "kind": null,
+       "cast": "Риз Видерспун (Reese Witherspoon), Кифер Садерленд (Kiefer Sutherland)",
+       "director": "Метју Брајт (Matthew Bright)",
+       "credits": [
+        {
+         "label": "Продуцент",
+         "value": "Оливер Стоун (Oliver Stone)"
+        }
+       ],
+       "extra": [],
+       "imdb": {
+        "id": "tt0116361",
+        "title": "Freeway",
+        "year": 1996,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTliYjdlMTctMjgxZC00MDExLThhODktZjk3NGI4ZDE3YjEyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 34691
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-18-2100-godina-zmaja",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ГОДИНА ЗМАЈА",
+       "original_title": "The Year of the Dragon",
+       "countries": [
+        "САД"
+       ],
+       "year": 1985,
+       "kind": null,
+       "cast": "Мики Рорк (Mickey Rourke), Џон Лоун (John Lone)",
+       "director": "Мајкл Ћимино (Michael Cimino)",
+       "credits": [
+        {
+         "label": "Сценарио",
+         "value": "Оливер Стоун (Oliver Stone)"
+        }
+       ],
+       "extra": [],
+       "imdb": {
+        "id": "tt0090350",
+        "title": "Year of the Dragon",
+        "year": 1985,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWY1MzE0MjMtM2VlYS00Njk5LWE2ZGYtZDQ0ZjM3ODUzM2ZjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 20035
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-19",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-19-1700-divlji-u-srcu",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДИВЉИ У СРЦУ",
+       "original_title": "Wild at Heart",
+       "countries": [
+        "САД"
+       ],
+       "year": 1990,
+       "kind": null,
+       "cast": "Николас Кејџ (Nicolas Cage), Лора Дерн (Laura Dern)",
+       "director": "Дејвид Линч (David Lynch)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0100935",
+        "title": "Wild at Heart",
+        "year": 1990,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmUyNjMzMjEtMGFkNy00MDA1LWI0NGEtMDY5OGU1N2NmNDg1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 113408
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-19-1900-potpuni-zaokret",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОТПУНИ ЗАОКРЕТ",
+       "original_title": "U Turn",
+       "countries": [
+        "САД",
+        "ФРА"
+       ],
+       "year": 1997,
+       "kind": null,
+       "cast": "Шон Пен (Sean Penn), Џенифер Лопез (Jennifer Lopez)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0120399",
+        "title": "U Turn",
+        "year": 1997,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDdkNzFmMmItNTNkOS00MzJkLTg4MjItN2Q4ZDQ1ZWI3YWUxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.7,
+        "votes": 58107
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-19-2100-volstrit",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ВОЛСТРИТ",
+       "original_title": "Wall Street",
+       "countries": [
+        "САД"
+       ],
+       "year": 1987,
+       "kind": null,
+       "cast": "Мајкл Даглас (Michael Douglas), Чарли Шин (Charlie Sheen)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0094291",
+        "title": "Wall Street",
+        "year": 1987,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4NDY4NTktYjE5NS00MWQ5LWFmZTUtNjk5NjA4Mzc3ODNhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 176163
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-20-1700-neki-to-vole-vruce",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕКИ ТО ВОЛЕ ВРУЋЕ",
+       "original_title": "Some Like It Hot",
+       "countries": [
+        "САД"
+       ],
+       "year": 1959,
+       "kind": null,
+       "cast": "Мерилин Монро (Marilyn Monroe), Тони Кертис (Tony Curtis), Џек Лемон",
+       "director": "Били Вајлдер (Billy Wilder)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0053291",
+        "title": "Some Like It Hot",
+        "year": 1959,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.2,
+        "votes": 307769
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-20-1900-spasitelj",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СПАСИТЕЉ",
+       "original_title": "Savior",
+       "countries": [
+        "САД"
+       ],
+       "year": 1998,
+       "kind": null,
+       "cast": "Денис Квејд (Dennis Quaid), Наташа Нинковић",
+       "director": "Предраг Гага Антонијевић",
+       "credits": [
+        {
+         "label": "Продуцент",
+         "value": "Оливер Стоун (Oliver Stone)"
+        }
+       ],
+       "extra": [],
+       "imdb": {
+        "id": "tt0120070",
+        "title": "Savior",
+        "year": 1998,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGFjNTZiNzItZjAwYS00NTc3LWI0YjgtYjIxMGQ3OTIxY2Y3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 12263
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-20-2100-rodjen-4-jula",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "РОЂЕН 4. ЈУЛА",
+       "original_title": "Born on the Fourth of July",
+       "countries": [
+        "САД"
+       ],
+       "year": 1989,
+       "kind": null,
+       "cast": "Том Круз (Tom Cruise), Кира Сеџвик (Kyra Sedgwick)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0096969",
+        "title": "Born on the Fourth of July",
+        "year": 1989,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDk5NTA0NF5BMl5BanBnXkFtZTgwMTkyMDUxMDE@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 126283
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-21-1700-hirovito-leto",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ХИРОВИТО ЛЕТО",
+       "original_title": "Rozmarné léto",
+       "countries": [
+        "ЧССР"
+       ],
+       "year": 1968,
+       "kind": null,
+       "cast": "Рудолф Хрусински (Rudolf Hrusínský), Властимил Бродски (Vlastimil Brodský)",
+       "director": "Јиржи Менцел (Jirí Menzel)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0063527",
+        "title": "Capricious Summer",
+        "year": 1968,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDdiNjIyNDQtZmU5OS00NGRmLWEzNTEtYzY3MjA3OGE3YTZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 1779
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-21-1900-letnja-igra",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛЕТЊА ИГРА",
+       "original_title": "Sommarlek",
+       "countries": [
+        "ШВЕ"
+       ],
+       "year": 1951,
+       "kind": null,
+       "cast": "Мај-Брит Нилсон (Maj-Britt Nilsson), Биргер Малмстен (Birger Malmsten)",
+       "director": "Ингмар Бергман (Ingmar Bergman)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0044060",
+        "title": "Summer Interlude",
+        "year": 1951,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGI0YzcxOTMtMTU1OC00MmFjLWE2MjgtYTYyYTQ0NGY2NjVkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 7426
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-21-2100-dz-f-k",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "Џ. Ф. К.",
+       "original_title": "JFK",
+       "countries": [
+        "САД",
+        "ФРА"
+       ],
+       "year": 1991,
+       "kind": null,
+       "cast": "Кевин Костнер (Kevin Costner), Џек Лемон (Jack Lemmon)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0102138",
+        "title": "JFK",
+        "year": 1991,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDhhZTc0MWUtZmVjOS00YTNkLTk0YzgtNTNlNzY5ZWU4MTMyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 183681
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-22-1700-ljubavnici-leta",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЉУБАВНИЦИ ЛЕТА",
+       "original_title": "Summer Lovers",
+       "countries": [
+        "САД"
+       ],
+       "year": 1982,
+       "kind": null,
+       "cast": "Питер Галагер (Peter Gallagher), Дерил Хана (Daryl Hannah)",
+       "director": "Рандал Клајсер (Randal Kleiser)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0084737",
+        "title": "Summer Lovers",
+        "year": 1982,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNjk0Mjg1NF5BMl5BanBnXkFtZTcwNzAyMTM3NA@@._V1_QL75_UX300_.jpg",
+        "rating": 5.8,
+        "votes": 4912
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-22-1900-letnje-price",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛЕТЊЕ ПРИЧЕ",
+       "original_title": "Racconti d'estate",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1958,
+       "kind": null,
+       "cast": "Алберто Сорди (Alberto Sordi), Мишел Морган (Michèle Morgan)",
+       "director": "Ђани Франчолини (Gianni Franciolini)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0052110",
+        "title": "Love on the Riviera",
+        "year": 1958,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjJjNWI3N2MtM2E2MS00YmFjLWE5NjctNGM4MTQ1MDM0ZTNlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.0,
+        "votes": 225
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-22-2100-dors",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДОРС",
+       "original_title": "The Doors",
+       "countries": [
+        "ФРА",
+        "САД"
+       ],
+       "year": 1991,
+       "kind": null,
+       "cast": "Вал Килмер (Val Kilmer), Мег Рајан (Meg Ryan)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0101761",
+        "title": "The Doors",
+        "year": 1991,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2JlMDYyYWEtMmY3Ny00ODgyLWFiMDMtZjFmNzQ3NzE3Njg5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 108241
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-23-1700-put-u-italiju",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПУТ У ИТАЛИЈУ",
+       "original_title": "Viaggio in Italia",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1954,
+       "kind": null,
+       "cast": "Ингрид Бергман (Ingrid Bergman), Џорџ Сандерс (Georges Sanders)",
+       "director": "Роберто Роселини (Roberto Rossellini)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0046511",
+        "title": "Journey to Italy",
+        "year": 1954,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTkwZjdlMjMtYTM5MC00NjhlLWJkOTgtNDVlOWRhY2M0ODRhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 14118
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-23-1900-osmeh-letnje-noci",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОСМЕХ ЛЕТЊЕ НОЋИ",
+       "original_title": "Sommarnattens leende",
+       "countries": [
+        "ШВЕ"
+       ],
+       "year": 1955,
+       "kind": null,
+       "cast": "Ула Јакобсон (Ulla Jacobsson), Ева Далбек (Eva Dahlbeck)",
+       "director": "Ингмар Бергман (Ingmar Bergman)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0048641",
+        "title": "Smiles of a Summer Night",
+        "year": 1955,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGU0MmI5OTAtZGZjZi00ODhjLTkzNDctZjY5MjllODUxOWNlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 15901
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-23-2100-nikson",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НИКСОН",
+       "original_title": "Nixon",
+       "countries": [
+        "САД"
+       ],
+       "year": 1995,
+       "kind": null,
+       "cast": "Ентони Хопкинс (Anthony Hopkins), Џоун Ален (Joan Allen)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0113987",
+        "title": "Nixon",
+        "year": 1995,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzY0YWZiOWEtNzU3OS00MjAzLTlmMDMtMWNlNWNjM2EwNjZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 34877
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-24-1700-starac-i-more",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СТАРАЦ И МОРЕ",
+       "original_title": "The Old Man and the Sea",
+       "countries": [
+        "САД"
+       ],
+       "year": 1958,
+       "kind": null,
+       "cast": "Спенсер Трејси (Spencer Tracy), Фелипе Пазос (Felipe Pazos)",
+       "director": "Џон Стерџес (John Sturges)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0052027",
+        "title": "The Old Man and the Sea",
+        "year": 1958,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzI0NWRkMTMtMWY3NS00MDMwLWFiMzItMWRiMDk0MDcyOGZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 9424
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-24-1900-ziveti-i-umreti-u-l-a",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЖИВЕТИ И УМРЕТИ У Л. А.",
+       "original_title": "To Live and Die in L.A.",
+       "countries": [
+        "САД"
+       ],
+       "year": 1985,
+       "kind": null,
+       "cast": "Вилем Дафо (Willem Dafoe), Вилијам Питерсен (William Petersen)",
+       "director": "Вилијам Фридкин (William Friedkin)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0090180",
+        "title": "To Live and Die in L.A.",
+        "year": 1985,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjk1ODQ4NTgtNjAyZi00NjMyLTg4MzktOWQ3YTU3N2MxMTdlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 50712
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-24-2100-narod-protiv-larija-flinta",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НАРОД ПРОТИВ ЛАРИЈА ФЛИНТА",
+       "original_title": "The People vs. Larry Flynt",
+       "countries": [
+        "САД"
+       ],
+       "year": 1996,
+       "kind": null,
+       "cast": "Вуди Харелсон (Woody Harrelson), Кортни Лав (Courtney Love)",
+       "director": "Милош Форман (Milos Forman)",
+       "credits": [
+        {
+         "label": "Продуцент",
+         "value": "Оливер Стоун (Oliver Stone)"
+        }
+       ],
+       "extra": [],
+       "imdb": {
+        "id": "tt0117318",
+        "title": "The People vs. Larry Flynt",
+        "year": 1996,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxMDItNzRjNy00YWNkLTg1YTAtYmZlYTQxMzA3NjFmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 106955
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-25",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-25-1700-africka-kraljica",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АФРИЧКА КРАЉИЦА",
+       "original_title": "The African Queen",
+       "countries": [
+        "САД"
+       ],
+       "year": 1951,
+       "kind": null,
+       "cast": "Кетрин Хепберн (Katherine Hepburn), Хемфри Богарт (Humphrey Bogart)",
+       "director": "Џон Хјустон (John Huston)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0043265",
+        "title": "The African Queen",
+        "year": 1951,
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2Y0OWQ4Y2QtNGE5NC00MDk4LWFlYmQtYWVmNzZlZWVhMTg4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 88249
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-25-1900-goli-u-sedlu",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ГОЛИ У СЕДЛУ",
+       "original_title": "Easy Rider",
+       "countries": [
+        "САД"
+       ],
+       "year": 1969,
+       "kind": null,
+       "cast": "Денис Хопер (Dennis Hopper), Питер Фонда (Peter Fonda)",
+       "director": "Денис Хопер (Dennis Hopper)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0064276",
+        "title": "Easy Rider",
+        "year": 1969,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MjI2NDc4Ml5BMl5BanBnXkFtZTgwODI4NzU0MTI@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 123724
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-25-2100-aleksandar",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АЛЕКСАНДАР",
+       "original_title": "Alexander",
+       "countries": [
+        "САД",
+        "ВБ",
+        "НЕМ",
+        "ХОЛ",
+        "ФРА",
+        "ИТА"
+       ],
+       "year": 2004,
+       "kind": null,
+       "cast": "Колин Фарел (Colin Farrell), Анџелина Џоли (Angelina Jolie)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0346491",
+        "title": "Alexander",
+        "year": 2004,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3OTY2NDVeQTJeQWpwZ15BbWU3MDI5MDc0MzM@._V1_QL75_UX300_.jpg",
+        "rating": 5.6,
+        "votes": 185031
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-26",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-26-1700-leto-kad-sam-naucila-da-letim",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛЕТО КАД САМ НАУЧИЛА ДА ЛЕТИМ",
+       "original_title": null,
+       "countries": [
+        "СРБ",
+        "ХРВ",
+        "БУГ",
+        "СЛЧ"
+       ],
+       "year": 2022,
+       "kind": null,
+       "cast": "Клара Караулић, Олга Одановић",
+       "director": "Радивоје Раша Андрић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt12885338",
+        "title": "How I Learned to Fly",
+        "year": 2022,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDJiM2Y2MWYtYTdmYS00NDY1LThmZjMtZGQ1MzdkNjQ1OGZhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.9,
+        "votes": 2048
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-26-1900-surova-zemlja",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СУРОВА ЗЕМЉА",
+       "original_title": "Badlands",
+       "countries": [
+        "САД"
+       ],
+       "year": 1973,
+       "kind": null,
+       "cast": "Мартин Шин (Martin Sheen), Сиси Спејсек (Sissy Spacek)",
+       "director": "Теренс Малик (Terence Malick)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0069762",
+        "title": "Badlands",
+        "year": 1973,
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2U3ZjE1ZjUtYTRkMy00NTJiLTgyNzktMmE1OTUzYmRlOTUzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 85619
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-26-2100-svetski-trgovinski-centar",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СВЕТСКИ ТРГОВИНСКИ ЦЕНТАР",
+       "original_title": "World Trade Center",
+       "countries": [
+        "НЕМ",
+        "САД"
+       ],
+       "year": 2006,
+       "kind": null,
+       "cast": "Николас Кејџ (Nicolas Cage), Мајкл Пења (Michael Peña)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0469641",
+        "title": "World Trade Center",
+        "year": 2006,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTIxMzE5ODEwOV5BMl5BanBnXkFtZTcwMzM3MzIzMQ@@._V1_QL75_UX300_.jpg",
+        "rating": 6.0,
+        "votes": 93178
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-27-1700-sedam-godina-vernosti",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СЕДАМ ГОДИНА ВЕРНОСТИ",
+       "original_title": "The Seven Year Itch",
+       "countries": [
+        "САД"
+       ],
+       "year": 1955,
+       "kind": null,
+       "cast": "Мерилин Монро (Marilyn Monroe), Томи Јуел (Tommy Ewell)",
+       "director": "Били Вајлдер (Billy Wilder)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0048605",
+        "title": "The Seven Year Itch",
+        "year": 1955,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzE3OWRkMzUtYmYzNS00ZmRmLTkzMjctZjEwMDFmYmZlYjEzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 46160
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-27-1900-haloa-praznik-kurvi",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ХАЛОА – ПРАЗНИК КУРВИ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1988,
+       "kind": null,
+       "cast": "Неда Арнерић, Ранко Зидарић",
+       "director": "Лордан Зафрановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0176797",
+        "title": "Aloa: Festivity of the Whores",
+        "year": 1988,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmYyOTlkNWUtNGQxZi00ZGJlLTkzZDQtNWVmMzQyNWRmZjIwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.8,
+        "votes": 314
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-27-2100-volstrit-novac-nikad-ne-spava",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ВОЛСТРИТ: НОВАЦ НИКАД НЕ СПАВА",
+       "original_title": "Wall Street: Money Never Sleeps",
+       "countries": [
+        "САД"
+       ],
+       "year": 2010,
+       "kind": null,
+       "cast": "Шаја Лабуф (Shia LaBeouf), Мајкл Даглас (Michael Douglas)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt1027718",
+        "title": "Wall Street: Money Never Sleeps",
+        "year": 2010,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDEzMzYwMF5BMl5BanBnXkFtZTcwNTcwMjUxMw@@._V1_QL75_UX300_.jpg",
+        "rating": 6.2,
+        "votes": 110461
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-28-1700-tokijska-prica",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТОКИЈСКА ПРИЧА",
+       "original_title": "Tôkyô monogatari",
+       "countries": [
+        "ЈАП"
+       ],
+       "year": 1953,
+       "kind": null,
+       "cast": "Чишу Рју (Chishû Ryû), Чиеко Хигашијама (Chieko Higashiyama)",
+       "director": "Јасуџиро Озу (Yasujirô Ozu)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0046438",
+        "title": "Tokyo Story",
+        "year": 1953,
+        "poster": "https://m.media-amazon.com/images/M/MV5BODdkNzcxZjItMDU2Yy00Y2JlLWFkYTQtNzIwM2Q4MWU5MTU2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.1,
+        "votes": 78992
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-28-1900-cudnije-od-raja",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЧУДНИЈЕ ОД РАЈА",
+       "original_title": "Stranger Than Paradise",
+       "countries": [
+        "САД",
+        "СРН"
+       ],
+       "year": 1984,
+       "kind": null,
+       "cast": "Џон Лури (John Lurie), Естер Балинт (Eszter Balint)",
+       "director": "Џим Џармуш (Jim Jarmusch)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0088184",
+        "title": "Stranger Than Paradise",
+        "year": 1984,
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2Y2MWY1ZTktYTExOS00M2E0LWI0NDQtMTM2M2E3ODYwYjk4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 43741
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-28-2100-divljaci",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ОЛИВЕР СТОУН",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДИВЉАЦИ",
+       "original_title": "Savages",
+       "countries": [
+        "САД"
+       ],
+       "year": 2012,
+       "kind": null,
+       "cast": "Арон Џонсон (Aaron Johnson), Тејлор Кич (Taylor Kitsch)",
+       "director": "Оливер Стоун (Oliver Stone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt1615065",
+        "title": "Savages",
+        "year": 2012,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk0ODIyNDAyMF5BMl5BanBnXkFtZTcwMTQ5Nzg3Nw@@._V1_QL75_UX300_.jpg",
+        "rating": 6.4,
+        "votes": 139446
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-29-1700-sest-dana-juna",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ШЕСТ ДАНА ЈУНА",
+       "original_title": null,
+       "countries": [
+        "КАН",
+        "ЈУГ"
+       ],
+       "year": 1985,
+       "kind": null,
+       "cast": "Небојша Крстић, Цинтија Ашпрегер",
+       "director": "Динко Туцаковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0088091",
+        "title": "Sest dana juna",
+        "year": 1985,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWZlMTc4ZGUtMGVjZi00Y2ZhLWE1NjQtZjg1YTU2MTcyM2JjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.7,
+        "votes": 168
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-29-1900-pet-lakih-komada",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПЕТ ЛАКИХ КОМАДА",
+       "original_title": "Five Easy Pieces",
+       "countries": [
+        "САД"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Џек Николсон (Jack Nicholson), Карен Блек (Karen Black)",
+       "director": "Боб Рафелсон (Bob Rafelson)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0065724",
+        "title": "Five Easy Pieces",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzgzZWVjNTQtOGFiNi00OGY0LWFmMGItYTQxNThkMjBjMjg1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 45180
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-29-2100-pasje-popodne",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПАСЈЕ ПОПОДНЕ",
+       "original_title": "Dog Day Afternoon",
+       "countries": [
+        "САД"
+       ],
+       "year": 1975,
+       "kind": null,
+       "cast": "Ал Паћино (Al Pacino), Џон Казале (John Cazale)",
+       "director": "Сидни Лумет (Sidney Lumet)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0072890",
+        "title": "Dog Day Afternoon",
+        "year": 1975,
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2RjNTg2ODMtZWQ4NC00MDdhLWE4MDgtMWFjMjI4ZTIxMGY4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 295016
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-30-1700-drage-zvezde-velikog-medveda",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДРАГЕ ЗВЕЗДЕ ВЕЛИКОГ МЕДВЕДА",
+       "original_title": "Vaghe stelle del'orsa... / Sandra",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 1965,
+       "kind": null,
+       "cast": "Клаудија Кардинале (Claudia Cardinale), Жан Сорел (Jean Sorel)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0059856",
+        "title": "Sandra",
+        "year": 1965,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzdhNjNlNTgtZWJkZS00MWI0LWI1NGYtYjA0MGZkNTgyNjUxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 2610
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-30-1900-overena-kopija",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОВЕРЕНА КОПИЈА",
+       "original_title": "Copie conforme",
+       "countries": [
+        "ФРА",
+        "ИТА",
+        "БЕЛ",
+        "ИРН"
+       ],
+       "year": 2010,
+       "kind": null,
+       "cast": "Жилијет Бинош (Juliette Binoche), Вилијам Шимел (William Shimell)",
+       "director": "Абас Кијаростами (Abbas Kiarostami)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt1020773",
+        "title": "Certified Copy",
+        "year": 2010,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmY5OWY2MTQtZDZmYS00YTczLWEwMTktMDNjZWMzYzEwYzFjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 29359
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-30-2100-smrt-u-veneciji",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СМРТ У ВЕНЕЦИЈИ",
+       "original_title": "Morte a Venezia",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1971,
+       "kind": null,
+       "cast": "Дирк Богард (Dirk Bogarde), Ромоло Вали (Romolo Valli)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0067445",
+        "title": "Death in Venice",
+        "year": 1971,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWQ3ODc3ODctZjc0Ni00MWVkLWIzZjAtNDA1OGU2N2VkNzAxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 25282
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-07-31",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-07-31-1700-praznik-u-rimu",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРАЗНИК У РИМУ",
+       "original_title": "Roman Holiday",
+       "countries": [
+        "САД"
+       ],
+       "year": 1953,
+       "kind": null,
+       "cast": "Одри Хепберн (Audrey Hepburn), Грегори Пек (Gregory Peck)",
+       "director": "Вилијам Вајлер (William Wyler)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0046250",
+        "title": "Roman Holiday",
+        "year": 1953,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGE5MTA2NDUtYTQ3Yi00YzM4LWJlODItNDE1ZTRjYjY0M2E5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 159086
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-31-1900-banditi-sa-rivijere",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БАНДИТИ СА РИВИЈЕРЕ",
+       "original_title": "That Riviera Touch",
+       "countries": [
+        "ВБ"
+       ],
+       "year": 1966,
+       "kind": null,
+       "cast": "Ерик Моркам (Eric Morecambe), Ерни Вајз (Ernie Wise)",
+       "director": "Клиф Овен (Cliff Owen)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0061085",
+        "title": "That Riviera Touch",
+        "year": 1966,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjJhNmM3OGYtYmQ0Yi00OTc3LWIxNDgtMTgxYzNjOGZmNjUzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.8,
+        "votes": 834
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-07-31-2100-beti-blu",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БЕТИ БЛУ",
+       "original_title": "37°2 Le Matin / Betty Blue",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1986,
+       "kind": null,
+       "cast": "Беатрис Дал (Beatrice Dalle), Жан Иг Англад (Jean Hugues Anglade)",
+       "director": "Жан Жак Бене (Jean Jacques Beineix)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0090563",
+        "title": "Betty Blue",
+        "year": 1986,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTFlM2VmMWQtMmU2My00MDBiLTllZGYtZmU4YWE3MTg2OTE1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 24267
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-01-1700-leto-42",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛЕТО '42",
+       "original_title": "Summer of '42",
+       "countries": [
+        "САД"
+       ],
+       "year": 1971,
+       "kind": null,
+       "cast": "Џенифер О'Нил (Jennifer O'Neill), Гари Грајмс (Gary Grimes)",
+       "director": "Роберт Малиган (Robert Mulligan)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0067803",
+        "title": "Summer of '42",
+        "year": 1971,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzk2MDcxZTgtYTdmYi00MzlmLTk0ZjgtNmMxNGE4ZTdlM2ZjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 10210
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-01-1900-ostrvo-s-blagom",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОСТРВО С БЛАГОМ",
+       "original_title": "Treasure Island",
+       "countries": [
+        "САД"
+       ],
+       "year": 1934,
+       "kind": null,
+       "cast": "Волас Бири (Wallace Beery), Џеки Купер (Jackie Cooper)",
+       "director": "Виктор Флеминг (Victor Fleming)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0025907",
+        "title": "Treasure Island",
+        "year": 1934,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTA5YmM4NjYtMTcwYy00ODEwLTljODItMzdhYTYxNzYwNTZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 3603
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-01-2100-otkrice-ljubavi",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОТКРИЋЕ ЉУБАВИ",
+       "original_title": "Sytten",
+       "countries": [
+        "ДАН"
+       ],
+       "year": 1965,
+       "kind": null,
+       "cast": "Оле Селтофт (Ole Søltoft), Гита Нерби (Ghita Nørby)",
+       "director": "Анелисе Мејнехе (Annelise Meineche)",
+       "credits": [],
+       "extra": [
+        "1969"
+       ],
+       "imdb": {
+        "id": "tt0059775",
+        "title": "Eric Soya's '17'",
+        "year": 1965,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGExMGJiOWUtMzUzYS00NjBlLTkwZGYtOTY1MTI2YmZkY2Q0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 4.8,
+        "votes": 128
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-02",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-02-1700-iznenada-proslog-leta",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ИЗНЕНАДА ПРОШЛОГ ЛЕТА",
+       "original_title": "Suddenly, Last Summer",
+       "countries": [
+        "ВБ",
+        "САД"
+       ],
+       "year": 1959,
+       "kind": null,
+       "cast": "Елизабет Тејлор (Elizabeth Taylor), Кетрин Хепберн (Katharine Hepburn)",
+       "director": "Џозеф Л. Манкевиц (Joseph L. Mankiewicz)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0053318",
+        "title": "Suddenly, Last Summer",
+        "year": 1959,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWQ5MDE3YmYtMDg4Yy00MDdjLTllY2ItMDYyNDE1MTI3ZjQ1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 19389
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-02-1900-kraljevic-i-prosjak",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КРАЉЕВИЋ И ПРОСЈАК",
+       "original_title": "The Prince and the Pauper",
+       "countries": [
+        "САД"
+       ],
+       "year": 1937,
+       "kind": null,
+       "cast": "Ерол Флин (Errol Flynn), Клод Рејнс (Claude Rains)",
+       "director": "Вилијам Китли (William Keighley), Вилијам Дитерле (William Dieterle)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0029440",
+        "title": "The Prince and the Pauper",
+        "year": 1937,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzVlMDU4OGQtNjZjNC00MmUyLWE3ZTYtMjZlMzkyNTBjNWZhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 3205
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-02-2100-doktor-zivago",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДОКТОР ЖИВАГО",
+       "original_title": "Doctor Zhivago",
+       "countries": [
+        "САД"
+       ],
+       "year": 1965,
+       "kind": null,
+       "cast": "Омар Шариф (Omar Sharif), Џули Кристи (Julie Christie)",
+       "director": "Дејвид Лин (David Lean)",
+       "credits": [],
+       "extra": [
+        "1970/71"
+       ],
+       "imdb": {
+        "id": "tt0059113",
+        "title": "Doctor Zhivago",
+        "year": 1965,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWQyZGNmZWItNjc0OS00M2YyLWJkZmYtZWNlNDE2MzMwYzUzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.9,
+        "votes": 88143
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-03-1700-lito-vilovito",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛИТО ВИЛОВИТО",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1964,
+       "kind": null,
+       "cast": "Милена Дравић, Десанка Беба Лончар",
+       "director": "Обрад Глушчевић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0058295",
+        "title": "Lito vilovito",
+        "year": 1964,
+        "poster": "https://m.media-amazon.com/images/M/MV5BODc0MmM4MWQtMmE1Ny00YzkxLWEzNjMtNzJmZTU4NDNkNjBhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 135
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-03-1900-robin-hud",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "РОБИН ХУД",
+       "original_title": "The Adventures of Robin Hood",
+       "countries": [
+        "САД"
+       ],
+       "year": 1938,
+       "kind": null,
+       "cast": "Ерол Флин (Errol Flynn), Оливија де Хевиленд (Olivia de Havilland)",
+       "director": "Мајкл Кертиз (Michael Curtiz), Вилијам Китли (William Keighley)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0029843",
+        "title": "The Adventures of Robin Hood",
+        "year": 1938,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmFlZDg5MTItNDNmNi00NjFmLThlYmMtY2RiMzY2NmZkNDgyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.9,
+        "votes": 58262
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-03-2100-ljubavna-prica",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЉУБАВНА ПРИЧА",
+       "original_title": "Love Story",
+       "countries": [
+        "САД"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Али Макгро (Ali MacGraw), Рајан О'Нил (Ryan O'Neal)",
+       "director": "Артур Хилер (Arthur Hiller)",
+       "credits": [],
+       "extra": [
+        "1972"
+       ],
+       "imdb": {
+        "id": "tt0066011",
+        "title": "Love Story",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5YjEzZjItOWM2MC00NDA3LWFhMTctMWM0ZTk3NjgwMzc5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 40774
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-04-1700-plaza",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПЛАЖА",
+       "original_title": "The Beach",
+       "countries": [
+        "САД",
+        "ВБ"
+       ],
+       "year": 2000,
+       "kind": null,
+       "cast": "Леонардо Дикаприо (Leonardo DiCaprio), Тилда Свинтон (Tilda Swinton)",
+       "director": "Дени Бојл (Danny Boyle)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0163978",
+        "title": "The Beach",
+        "year": 2000,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTljNTg1YjktY2I3MS00MmQwLWJkYTAtYzcwZjRjM2ExNDJjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 271648
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-04-1900-bo-zest",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БО ЖЕСТ",
+       "original_title": "Beau Geste",
+       "countries": [
+        "САД"
+       ],
+       "year": 1939,
+       "kind": null,
+       "cast": "Гари Купер (Gary Cooper), Реј Миланд (Ray Milland)",
+       "director": "Вилијам А. Велман (William A. Wellman)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0031088",
+        "title": "Beau Geste",
+        "year": 1939,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjc2YWE3NjAtZmMwOS00NjM2LTk1NWUtNjdkMzJhYTc4MDhhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 7161
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-04-2100-kum",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КУМ",
+       "original_title": "The Godfather",
+       "countries": [
+        "САД"
+       ],
+       "year": 1972,
+       "kind": null,
+       "cast": "Марлон Брандо (Marlon Brando), Роберт Дувал (Robert Duvall)",
+       "director": "Френсис Форд Копола (Francis Ford Coppola)",
+       "credits": [],
+       "extra": [
+        "1973"
+       ],
+       "imdb": {
+        "id": "tt0068646",
+        "title": "The Godfather",
+        "year": 1972,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 9.2,
+        "votes": 2260464
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-05-1700-letnje-doba",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛЕТЊЕ ДОБА",
+       "original_title": "Summertime",
+       "countries": [
+        "ВБ",
+        "САД"
+       ],
+       "year": 1955,
+       "kind": null,
+       "cast": "Кетрин Хепберн (Katherine Hepburn), Росано Браци (Rossano Brazzi)",
+       "director": "Дејвид Лин (David Lean)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0048673",
+        "title": "Summertime",
+        "year": 1955,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjJiM2QwNmQtMjNlYy00Zjc2LTljNTctZWNjZDgyZTdlMjljXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 11615
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-05-1900-obazrivi-kapetan",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОБАЗРИВИ КАПЕТАН",
+       "original_title": "Captain Caution",
+       "countries": [
+        "САД"
+       ],
+       "year": 1940,
+       "kind": null,
+       "cast": "Виктор Матјур (Victor Mature), Луиза Плат (Louise Platt)",
+       "director": "Ричард Волас (Richard Wallace)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0032304",
+        "title": "Captain Caution",
+        "year": 1940,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDMzMjk3YTgtMTA0YS00NWZhLWExYWMtYmU5MTg3NGVkZDg1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.5,
+        "votes": 364
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-05-2100-poslednji-tango-u-parizu",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОСЛЕДЊИ ТАНГО У ПАРИЗУ",
+       "original_title": "Ultimo tango a Parigi",
+       "countries": [
+        "ФРА",
+        "ИТА"
+       ],
+       "year": 1972,
+       "kind": null,
+       "cast": "Марлон Брандо (Marlon Brando), Марија Шнајдер (Maria Schneider)",
+       "director": "Бернардо Бертолучи (Bernardo Bertolucci)",
+       "credits": [],
+       "extra": [
+        "1974"
+       ],
+       "imdb": {
+        "id": "tt0070849",
+        "title": "Last Tango in Paris",
+        "year": 1972,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjkwYjdhM2ItZmVkMi00M2Y2LWJmNjEtN2Y2ZGU3MjdmZjE0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 63285
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-06-1700-kvaka-22",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КВАКА 22",
+       "original_title": "Catch 22",
+       "countries": [
+        "САД"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Алан Аркин (Alan Arkin), Мартин Балсам (Martin Balsam)",
+       "director": "Мајк Николс (Mike Nichols)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0065528",
+        "title": "Catch-22",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2RmMGI3NTMtNGIwOS00MjliLWI1Y2YtNjRmYWIzMzFmYTJjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 27366
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-06-1900-arabljanske-noci",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АРАБЉАНСКЕ НОЋИ",
+       "original_title": "Arabian Nights",
+       "countries": [
+        "САД"
+       ],
+       "year": 1942,
+       "kind": null,
+       "cast": "Сабу (Sabu), Марија Монтез (Maria Montez)",
+       "director": "Џон Ролинс (John Rawlins)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0034465",
+        "title": "Arabian Nights",
+        "year": 1942,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGQ1NjRiYzUtYzliYi00Y2QzLWI5ZjItYmY1ODEzZmM4ZjEyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.1,
+        "votes": 1884
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-06-2100-cvet-1001-noci",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЦВЕТ 1001 НОЋИ",
+       "original_title": "Il fiore delle mille e una notte",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1974,
+       "kind": null,
+       "cast": "Франко Чити (Franco Citti), Нинето Даволи (Ninetto Davoli)",
+       "director": "Пјер Паоло Пазолини (Pier Paolo Pasolini)",
+       "credits": [],
+       "extra": [
+        "1975"
+       ],
+       "imdb": {
+        "id": "tt0071502",
+        "title": "Arabian Nights",
+        "year": 1974,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzc4NWIxYWUtYjg3NS00NDkwLThhZDgtNWFmNTFjM2VlMzQzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 10138
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-07-1700-tacka-prekida",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТАЧКА ПРЕКИДА",
+       "original_title": "Point Break",
+       "countries": [
+        "ЈАП",
+        "САД"
+       ],
+       "year": 1991,
+       "kind": null,
+       "cast": "Кијану Ривс (Keanu Reeves), Патрик Свејзи (Patrick Swayze)",
+       "director": "Кетрин Бигелоу (Kathryn Bigelow)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0102685",
+        "title": "Point Break",
+        "year": 1991,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTI3YzY3N2MtODI1OC00NmU0LThlMDYtNmFjMGFkNzhhNTRlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 230147
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-07-1900-osveta-crvene-vestice",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОСВЕТА ЦРВЕНЕ ВЕШТИЦЕ",
+       "original_title": "Wake of the Red Witch",
+       "countries": [
+        "САД"
+       ],
+       "year": 1948,
+       "kind": null,
+       "cast": "Џон Вејн (John Wayne), Гејл Расел (Gail Russell)",
+       "director": "Едвард Лудвиг (Edward Ludwig)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0040946",
+        "title": "Wake of the Red Witch",
+        "year": 1948,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDkzOTk1MjUtZjZjNS00ZGJmLTg3ZmQtYmQyNDliZjEzMWM1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 3236
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-07-2100-ajkula",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АЈКУЛА",
+       "original_title": "The Jaws",
+       "countries": [
+        "САД"
+       ],
+       "year": 1975,
+       "kind": null,
+       "cast": "Рој Шајдер (Roy Scheider), Ричард Драјфус (Richard Dreyfuss)",
+       "director": "Стивен Спилберг (Steven Spielberg)",
+       "credits": [],
+       "extra": [
+        "1976"
+       ],
+       "imdb": {
+        "id": "tt0073195",
+        "title": "Jaws",
+        "year": 1975,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.1,
+        "votes": 751051
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-08",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-08-1700-leto-je-krivo-za-sve",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛЕТО ЈЕ КРИВО ЗА СВЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1961,
+       "kind": null,
+       "cast": "Милена Дравић, Мија Алексић",
+       "director": "Пуриша Ђорђевић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0170154",
+        "title": "Leto je krivo za sve",
+        "year": 1961,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjZkMzhjMDgtMDMzYy00YjBkLTkwNDctMWZkNzgxOGY1ZTBjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.8,
+        "votes": 71
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-08-1900-plamen-i-strela",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПЛАМЕН И СТРЕЛА",
+       "original_title": "The Flame and the Arrow",
+       "countries": [
+        "САД"
+       ],
+       "year": 1950,
+       "kind": null,
+       "cast": "Берт Ланкастер (Burt Lancaster), Вирџинија Мејо (Virginia Mayo)",
+       "director": "Жак Турнер (Jacques Tourner)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0042464",
+        "title": "The Flame and the Arrow",
+        "year": 1950,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDFhY2YwMDUtYmM5Ny00MDFmLWI3NmItOWExMGU0YzQ4YTU1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 4738
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-08-2100-na-zmajevom-putu",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НА ЗМАЈЕВОМ ПУТУ",
+       "original_title": "The Way of the Dragon",
+       "countries": [
+        "ХК"
+       ],
+       "year": 1972,
+       "kind": null,
+       "cast": "Брус Ли (Bruce Lee), Чак Норис (Chuck Norris)",
+       "director": "Брус Ли (Bruce Lee)",
+       "credits": [],
+       "extra": [
+        "1977"
+       ],
+       "imdb": {
+        "id": "tt0068935",
+        "title": "The Way of the Dragon",
+        "year": 1972,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDQ3MWJiZmUtYThhMi00OGM5LWExZGMtOGE2MjMzYWViN2I3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 44570
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-09",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-09-1700-ostani-uz-mene",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОСТАНИ УЗ МЕНЕ",
+       "original_title": "Stand By Me",
+       "countries": [
+        "САД"
+       ],
+       "year": 1986,
+       "kind": null,
+       "cast": "Ривер Феникс (River Phoenix), Кори Фелдман (Corey Feldman)",
+       "director": "Роб Рајнер (Rob Reiner)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0092005",
+        "title": "Stand by Me",
+        "year": 1986,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.1,
+        "votes": 495866
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-09-1900-zlato-u-dzungli",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЗЛАТО У ЏУНГЛИ",
+       "original_title": "Crosswinds",
+       "countries": [
+        "САД"
+       ],
+       "year": 1951,
+       "kind": null,
+       "cast": "Џон Пејн (John Payne), Ронда Флеминг (Rhonda Fleming)",
+       "director": "Луис Р. Фостер (Lewis R. Foster)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0043434",
+        "title": "Crosswinds",
+        "year": 1951,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTAxODI1MTU5NjNeQTJeQWpwZ15BbWU4MDQ5NDc5NTAx._V1_QL75_UX300_.jpg",
+        "rating": 5.9,
+        "votes": 242
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-09-2100-hopa-cupa-u-krevetu",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ХОПА-ЦУПА У КРЕВЕТУ",
+       "original_title": "Hopla på sengekanten",
+       "countries": [
+        "ДАН"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Оле Селтофт (Ole Søltoft), Виви Рав (Vivi Rau)",
+       "director": "Џон Хилбард (John Hilbard)",
+       "credits": [],
+       "extra": [
+        "1978"
+       ],
+       "imdb": {
+        "id": "tt0073123",
+        "title": "Jumpin' at the Bedside",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzM1NWMwNGQtYmQ3Ny00NjJkLWJlZjQtMjIwOTgyZmVhZWRjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 4.8,
+        "votes": 228
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-10-1700-dama-iz-sangaja",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДАМА ИЗ ШАНГАЈА",
+       "original_title": "The Lady from Shanghai",
+       "countries": [
+        "САД"
+       ],
+       "year": 1947,
+       "kind": null,
+       "cast": "Рита Хејворт (Rita Haywarth), Орсон Велс (Orson Welles)",
+       "director": "Орсон Велс (Orson Welles)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0040525",
+        "title": "The Lady from Shanghai",
+        "year": 1947,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzg0MjA0OTAtYzA5YS00ZWNhLThiODQtMThhMjY2ZTVlMjhiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 37097
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-10-1900-dozivljaji-kapetana-vajta",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДОЖИВЉАЈИ КАПЕТАНА ВАЈТА",
+       "original_title": "Distant Drums",
+       "countries": [
+        "САД"
+       ],
+       "year": 1951,
+       "kind": null,
+       "cast": "Гари Купер (Gary Cooper), Мари Алдон (Mari Aldon)",
+       "director": "Раул Волш (Raoul Walsh)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0043469",
+        "title": "Distant Drums",
+        "year": 1951,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzBiODAxMzQtMTYxNC00OWY3LWI2MjUtNjVkNzZhMjFiNjRlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.3,
+        "votes": 2654
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-10-2100-briljantin",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БРИЉАНТИН",
+       "original_title": "Grease",
+       "countries": [
+        "САД"
+       ],
+       "year": 1978,
+       "kind": null,
+       "cast": "Оливија Њутон-Џон (Olivia Newton-John), Џон Траволта (John Travolta)",
+       "director": "Рандал Клајсер (Randal Kleiser)",
+       "credits": [],
+       "extra": [
+        "1979"
+       ],
+       "imdb": {
+        "id": "tt0077631",
+        "title": "Grease",
+        "year": 1978,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGY0NzE0ZTctN2YzNC00M2IwLWI0OWYtMTAwZWU2NjZhMTQwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 330482
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-11-1700-noc-iguane",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НОЋ ИГУАНЕ",
+       "original_title": "The Night of the Iguana",
+       "countries": [
+        "САД"
+       ],
+       "year": 1964,
+       "kind": null,
+       "cast": "Ава Гарднер (Ava Gardner), Ричард Бартон (Richard Burton)",
+       "director": "Џон Хјустон (John Huston)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0058404",
+        "title": "The Night of the Iguana",
+        "year": 1964,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzljNzFjMWYtZTNjMi00ZWVhLWFkYmItY2QxODNjY2VjZjBiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 14251
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-11-1900-crveni-gusar",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЦРВЕНИ ГУСАР",
+       "original_title": "The Crimson Pirate",
+       "countries": [
+        "САД"
+       ],
+       "year": 1952,
+       "kind": null,
+       "cast": "Берт Ланкастер (Burt Lancaster), Ева Барток (Eva Bartok)",
+       "director": "Роберт Сиодмак (Robert Siodmak)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0044517",
+        "title": "The Crimson Pirate",
+        "year": 1952,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmZmNDU4N2QtZmI3Ni00NzZiLWEyYjctYmRjOTk2OTVhZDZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 7756
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-11-2100-nemoralne-kaludjerice",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕМОРАЛНЕ КАЛУЂЕРИЦЕ",
+       "original_title": "Interno di un convento",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 1978,
+       "kind": null,
+       "cast": "Лигија Бранице (Ligia Branice), Хауард Рос (Howard Ross)",
+       "director": "Валеријан Боровчик (Walerian Borowczyk)",
+       "credits": [],
+       "extra": [
+        "1980"
+       ],
+       "imdb": {
+        "id": "tt0076200",
+        "title": "Behind Convent Walls",
+        "year": 1978,
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2EzMTY0ZGEtZGNkNS00Y2M5LThmMGUtYjhjZjE0ZDU2MWQ4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 4.8,
+        "votes": 1842
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-12-1500-dr",
+     "times": [
+      "15:00"
+     ],
+     "end": null,
+     "section": "ДАН КОМЕДИЈЕ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДР",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1962,
+       "kind": null,
+       "cast": "Мија Алексић, Велимир Бата Живојиновић",
+       "director": "Софија Соја Јовановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0057011",
+        "title": "Dr",
+        "year": 1962,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGRkNWRlNGMtZGY2MC00MTE3LWFjZGQtNjhkNzI4OWI5MDI1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.8,
+        "votes": 230
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-12-1700-vlaznost",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ВЛАЖНОСТ",
+       "original_title": null,
+       "countries": [
+        "СРБ",
+        "ХОЛ",
+        "ГРЧ"
+       ],
+       "year": 2016,
+       "kind": null,
+       "cast": "Милош Тимотијевић, Тамара Крцуновић",
+       "director": "Никола Љуца",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt2011936",
+        "title": "Humidity",
+        "year": 2016,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NDlmNDAtNWY3Ni00ZmEyLTkxZWItZGRiNGM1Zjc4YWRiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.8,
+        "votes": 889
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-12-1900-protiv-svih-zastava",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРОТИВ СВИХ ЗАСТАВА",
+       "original_title": "Against All Flags",
+       "countries": [
+        "САД"
+       ],
+       "year": 1952,
+       "kind": null,
+       "cast": "Ерол Флин (Errol Flynn), Морин О'Хара (Maureen O'Hara)",
+       "director": "Џорџ Шерман (George Sherman)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0044333",
+        "title": "Against All Flags",
+        "year": 1952,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGQyMjA4ODUtOGZjOC00NTEzLTljNWMtNzNkOTQyMTdhYjcyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 3336
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-12-2100-emanuela",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЕМАНУЕЛА",
+       "original_title": "Emmanuelle",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1974,
+       "kind": null,
+       "cast": "Силвија Кристел (Sylvia Kristel), Ален Кини (Alain Cuny)",
+       "director": "Жист Жакен (Just Jaeckin)",
+       "credits": [],
+       "extra": [
+        "1981"
+       ],
+       "imdb": {
+        "id": "tt0071464",
+        "title": "Emmanuelle",
+        "year": 1974,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGQ0ODJkYTMtMGI4Yy00YmM3LWFkMGEtOTZmMjk3OTJkOWUyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.2,
+        "votes": 12500
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-13-1700-diplomac",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДИПЛОМАЦ",
+       "original_title": "The Graduate",
+       "countries": [
+        "САД"
+       ],
+       "year": 1967,
+       "kind": null,
+       "cast": "Дастин Хофман (Dustin Hoffman), Ен Бенкрофт (Anne Bancroft)",
+       "director": "Мајк Николс (Mike Nichols)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0061722",
+        "title": "The Graduate",
+        "year": 1967,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 304463
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-13-1900-ajvanho",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АЈВАНХО",
+       "original_title": "Ivanhoe",
+       "countries": [
+        "САД"
+       ],
+       "year": 1952,
+       "kind": null,
+       "cast": "Роберт Тејлор (Robert Taylor), Елизабет Тејлор (Elizabeth Taylor)",
+       "director": "Ричард Торп (Richard Thorpe)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0044760",
+        "title": "Ivanhoe",
+        "year": 1952,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDhlNDZhMzctMmM4OC00Y2Q2LWEyMjktYjAxZmI3NzBhYWRjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.7,
+        "votes": 11489
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-13-2100-otimaci-izgubljenog-kovcega",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОТИМАЧИ ИЗГУБЉЕНОГ КОВЧЕГА",
+       "original_title": "Raiders of the Lost Ark",
+       "countries": [
+        "САД"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Харисон Форд (Harrison Ford), Карен Ален (Karen Allen)",
+       "director": "Стивен Спилберг (Steven Spielberg)",
+       "credits": [],
+       "extra": [
+        "1982"
+       ],
+       "imdb": {
+        "id": "tt0082971",
+        "title": "Raiders of the Lost Ark",
+        "year": 1981,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.4,
+        "votes": 1122223
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-14-1700-ukradena-lepota",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "УКРАДЕНА ЛЕПОТА",
+       "original_title": "Stealing Beauty",
+       "countries": [
+        "ИТА",
+        "ФРА",
+        "ВБ"
+       ],
+       "year": 1996,
+       "kind": null,
+       "cast": "Лив Тајлер (Liv Tyler), Џереми Ајронс (Jeremy Irons)",
+       "director": "Бернардо Бертолучи (Bernardo Bertolucci)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0117737",
+        "title": "Stealing Beauty",
+        "year": 1996,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWRhYWZjNGQtNmQxOC00ZDY3LTlkOTktNzU1ZTE3MTE0YmM2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 32748
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-14-1900-na-dalekom-severu",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НА ДАЛЕКОМ СЕВЕРУ",
+       "original_title": "Back to God's Country",
+       "countries": [
+        "САД"
+       ],
+       "year": 1952,
+       "kind": null,
+       "cast": "Рок Хадсон (Rock Hudson), Марша Хендерсон (Marcia Henderson)",
+       "director": "Џозеф Певни (Joseph Pevney)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0045531",
+        "title": "Back to God's Country",
+        "year": 1953,
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2I3MWFkMzgtMGUxNy00M2ZhLWEzYzAtZTYyMjM2OGE4NWQwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.9,
+        "votes": 291
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-14-2100-drumski-ratnik",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДРУМСКИ РАТНИК",
+       "original_title": "Mad Max 2: Road Warrior",
+       "countries": [
+        "АУС"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Мел Гибсон (Mel Gibson), Брус Спенс (Bruce Spence)",
+       "director": "Џорџ Милер (George Miller)",
+       "credits": [],
+       "extra": [
+        "1983"
+       ],
+       "imdb": {
+        "id": "tt0082694",
+        "title": "The Road Warrior",
+        "year": 1981,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTAyNzBiZWUtMGY4YS00YzkzLWJhNGUtNTU5OThlZjZhZTYyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.6,
+        "votes": 215360
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-15",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-15-1700-dvoje",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДВОЈЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1961,
+       "kind": null,
+       "cast": "Десанка Беба Лончар, Миха Балох",
+       "director": "Александар Саша Петровић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0124452",
+        "title": "And Love Has Vanished",
+        "year": 1961,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGZhZjRjMDQtM2YxZS00NDc1LWFmYjgtMDA0MjdiYzVlYzM4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 279
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-15-1900-razbojnik",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "РАЗБОЈНИК",
+       "original_title": "O Cangaceiro",
+       "countries": [
+        "БРА"
+       ],
+       "year": 1953,
+       "kind": null,
+       "cast": "Алберто Рушел (Alberto Ruschel), Мариза Прадо (Marisa Prado)",
+       "director": "Лима Виктор Барето (Lima Victor Barreto)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0045595",
+        "title": "The Bandit",
+        "year": 1953,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDQyNDIzNWUtZjE5Ni00NTQ2LWJmNGQtYjE4NzE0OTI1NWNiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 791
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-15-2100-oficir-i-dzentlmen",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОФИЦИР И ЏЕНТЛМЕН",
+       "original_title": "An Officer and a Gentleman",
+       "countries": [
+        "САД"
+       ],
+       "year": 1982,
+       "kind": null,
+       "cast": "Ричард Гир (Richard Gere), Дебра Вингер (Debra Winger)",
+       "director": "Тејлор Хакфорд (Taylor Hackford)",
+       "credits": [],
+       "extra": [
+        "1984"
+       ],
+       "imdb": {
+        "id": "tt0084434",
+        "title": "An Officer and a Gentleman",
+        "year": 1982,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjhiOWY0N2MtODhmYi00YjZiLWJlYWQtZTc5NzkwYzZhYWU5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 67160
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-16",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-16-1700-dan-velikih-valova",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДАН ВЕЛИКИХ ВАЛОВА",
+       "original_title": "Big Wednesday",
+       "countries": [
+        "САД"
+       ],
+       "year": 1978,
+       "kind": null,
+       "cast": "Џен-Мајкл Винсент (Jan-Michael Vincent), Гари Бјуси (Gary Busey)",
+       "director": "Џон Милијус (John Milius)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0077235",
+        "title": "Big Wednesday",
+        "year": 1978,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjAyODk5OTItNmZiZC00ZmI3LWE5MzctNGZhNTM4MTk3MDA3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 8194
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-16-1900-duel-u-dzungli",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДУЕЛ У ЏУНГЛИ",
+       "original_title": "Duel in the Jungle",
+       "countries": [
+        "САД"
+       ],
+       "year": 1954,
+       "kind": null,
+       "cast": "Дејна Ендруз (Dana Andrews), Џин Крејн (Jeanne Crain)",
+       "director": "Џорџ Маршал (George Marshall)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0046942",
+        "title": "Duel in the Jungle",
+        "year": 1954,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDFhNjM4YTctZDljNC00ZDRmLTk1MDItMjFhYTdlNzI5MGRlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.8,
+        "votes": 384
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-16-2100-policijska-akademija",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОЛИЦИЈСКА АКАДЕМИЈА",
+       "original_title": "Police Academy",
+       "countries": [
+        "САД"
+       ],
+       "year": 1984,
+       "kind": null,
+       "cast": "Стив Гутенберг (Steve Guttenberg), Ким Катрал (Kim Cattrall)",
+       "director": "Хју Вилсон (Hugh Wilson)",
+       "credits": [],
+       "extra": [
+        "1985"
+       ],
+       "imdb": {
+        "id": "tt0087928",
+        "title": "Police Academy",
+        "year": 1984,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmY2Zjk3ZmYtZGQwYS00NGM4LTk1MWMtZjI4MmRkNmM2ZDYwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.7,
+        "votes": 150837
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-17-1700-telesna-strast",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТЕЛЕСНА СТРАСТ",
+       "original_title": "Body Heat",
+       "countries": [
+        "САД"
+       ],
+       "year": 1981,
+       "kind": null,
+       "cast": "Вилијам Харт (William Hurt), Кетлин Тарнер (Kathleen Turner)",
+       "director": "Лоренс Каздан (Lawrence Kasdan)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0082089",
+        "title": "Body Heat",
+        "year": 1981,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWZjNDE0ZDUtZTg3Ny00ZWNiLWExZDMtNTY3OWYxZDUzZjg1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 44900
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-17-1900-mobi-dik",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "МОБИ ДИК",
+       "original_title": "Moby Dick",
+       "countries": [
+        "САД"
+       ],
+       "year": 1956,
+       "kind": null,
+       "cast": "Грегори Пек (Gregory Peck), Ричард Бејсхарт (Richard Basehart)",
+       "director": "Џон Хјустон (John Huston)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0049513",
+        "title": "Moby Dick",
+        "year": 1956,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTliZjZlNGQtOTZhYS00OGI4LTlkMWUtOTBiYzIxYTBiZmVmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 23418
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-17-2100-policajac-sa-beverli-hilsa",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОЛИЦАЈАЦ СА БЕВЕРЛИ ХИЛСА",
+       "original_title": "Beverly Hills Cop",
+       "countries": [
+        "САД"
+       ],
+       "year": 1984,
+       "kind": null,
+       "cast": "Еди Марфи (Eddie Murphy), Џаџ Рејнхолд (Judge Reinhold)",
+       "director": "Мартин Брест (Martin Brest)",
+       "credits": [],
+       "extra": [
+        "1986"
+       ],
+       "imdb": {
+        "id": "tt0086960",
+        "title": "Beverly Hills Cop",
+        "year": 1984,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjU4OGM2MzctNGU3ZC00M2EzLThiN2ItOTlmN2FjODM0MzFhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 234862
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-18-1700-stranac",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СТРАНАЦ",
+       "original_title": "Lo Straniero",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 1967,
+       "kind": null,
+       "cast": "Марчело Мастројани (Marcello Mastroianni), Ана Карина (Anna Karina)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0062310",
+        "title": "The Stranger",
+        "year": 1967,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWE3MDQzMTgtMGYyNS00ZTc0LWJkOTAtNjIzMjkzYzQyYTk3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 3787
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-18-1900-covek-iz-hongkonga",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЧОВЕК ИЗ ХОНГКОНГА",
+       "original_title": "Les tribulations d'un Chinois en Chine",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 1956,
+       "kind": null,
+       "cast": "Жан Пол Белмондо (Jean-Paul Belmondo), Урсула Андрес (Ursula Andress)",
+       "director": "Филип де Брока (Philippe de Brocca)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    },
+    {
+     "id": "2026-08-18-2100-top-gan",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТОП ГАН",
+       "original_title": "Top Gun",
+       "countries": [
+        "САД"
+       ],
+       "year": 1986,
+       "kind": null,
+       "cast": "Том Круз (Tom Cruise), Кели Мекгилис (Kelly McGillis)",
+       "director": "Тони Скот (Tony Scott)",
+       "credits": [],
+       "extra": [
+        "1987"
+       ],
+       "imdb": {
+        "id": "tt0092099",
+        "title": "Top Gun",
+        "year": 1986,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmVjNzQ3MjYtYTZiNC00Y2YzLWExZTEtMTM2ZDllNDI0MzgyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 562005
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-19-1700-nesreca",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕСРЕЋА",
+       "original_title": "Accident",
+       "countries": [
+        "ВБ"
+       ],
+       "year": 1967,
+       "kind": null,
+       "cast": "Дирк Богард (Dirk Bogarde), Стенли Бејкер (Stanley Baker)",
+       "director": "Џозеф Лоузи (Joseph Losey)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0061328",
+        "title": "Accident",
+        "year": 1967,
+        "poster": "https://m.media-amazon.com/images/M/MV5BODk4NGRjZTgtYTgzYi00OWVlLWIzN2MtOGNjMjZiOTEyYjBmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 5490
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-19-1900-poslednji-safari",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОСЛЕДЊИ САФАРИ",
+       "original_title": "The Last Safari",
+       "countries": [
+        "САД"
+       ],
+       "year": 1967,
+       "kind": null,
+       "cast": "Каз Гарас (Kaz Garas), Стјуарт Грејнџер (Stewart Granger)",
+       "director": "Хенри Хатавеј (Henry Hathaway)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0061894",
+        "title": "The Last Safari",
+        "year": 1967,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTNjNjYwYWItNjI2NS00ZTliLTg5ZjEtM2NlNWMyYjNhMGE1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.3,
+        "votes": 308
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-19-2100-fatalna-privlacnost",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ФАТАЛНА ПРИВЛАЧНОСТ",
+       "original_title": "Fatal Attraction",
+       "countries": [
+        "САД"
+       ],
+       "year": 1987,
+       "kind": null,
+       "cast": "Мајкл Даглас (Michael Douglas), Глен Клоуз (Glenn Close)",
+       "director": "Адријан Лин (Adrian Lyne)",
+       "credits": [],
+       "extra": [
+        "1988"
+       ],
+       "imdb": {
+        "id": "tt0093010",
+        "title": "Fatal Attraction",
+        "year": 1987,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTYxY2MxZGUtYWMwYi00YTI4LWE5MTItZjRiZDIzNzdhNWY3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 113142
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-20-1700-noz-u-vodi",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НОЖ У ВОДИ",
+       "original_title": "Nóz w wodzie",
+       "countries": [
+        "ПОЉ"
+       ],
+       "year": 1962,
+       "kind": null,
+       "cast": "Леон Њемчик (Leon Niemczyk), Јоланта Умецка (Jolanta Umecka)",
+       "director": "Роман Полански (Roman Polanski)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0056291",
+        "title": "Knife in the Water",
+        "year": 1962,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1ODZkNDItNWU4MC00NDhmLTliNWItMzYxYTlmMDMyZmU5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 25442
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-20-1900-hici-ispod-vesala",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ХИЦИ ИСПОД ВЕШАЛА",
+       "original_title": "Schüsse unterm Galgen",
+       "countries": [
+        "ДРН"
+       ],
+       "year": 1968,
+       "kind": null,
+       "cast": "Вернер Каниц (Werner Kanitz), Алена Прохаскова (Alena Procházková)",
+       "director": "Хорст Земан (Horst Seemann)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0063567",
+        "title": "Schüsse unterm Galgen",
+        "year": 1968,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWM2YWUxYTgtYTllMy00NTI2LTlhOGQtMzY1N2FiNzg1NDkyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 23
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-20-2100-kisni-covek",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КИШНИ ЧОВЕК",
+       "original_title": "Rain Man",
+       "countries": [
+        "САД"
+       ],
+       "year": 1988,
+       "kind": null,
+       "cast": "Дастин Хофман (Dustin Hoffman), Том Круз (Tom Cruise)",
+       "director": "Бари Левинсон (Barry Levinson)",
+       "credits": [],
+       "extra": [
+        "1989"
+       ],
+       "imdb": {
+        "id": "tt0095953",
+        "title": "Rain Man",
+        "year": 1988,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDUzODNkNGUtNzJjNi00ODFlLTkzMzktMGNkOTIwYWM2YTQzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 590787
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-21",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-21-1700-lepota-poroka",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛЕПОТА ПОРОКА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1986,
+       "kind": null,
+       "cast": "Мира Фурлан, Милутин Мима Караџић",
+       "director": "Живко Николић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0091398",
+        "title": "The Beauty of Vice",
+        "year": 1986,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGNkY2RlZmQtNzQ1MS00YWNlLTk3ZDAtYjc1ZTMwZjM5Zjk4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 2897
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-21-1900-dijamantska-dzungla",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДИЈАМАНТСКА ЏУНГЛА",
+       "original_title": "The Pink Jungle",
+       "countries": [
+        "САД"
+       ],
+       "year": 1968,
+       "kind": null,
+       "cast": "Џејмс Гарнер (James Garner), Ева Ренци (Eva Renzi)",
+       "director": "Делберт Мен (Delbert Mann)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0063429",
+        "title": "The Pink Jungle",
+        "year": 1968,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDVjNmVkMmMtMDIwYi00ZTQ0LThmNjYtNTQ5ZTUwNDE4NzE2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.9,
+        "votes": 476
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-21-2100-zgodna-zena",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЗГОДНА ЖЕНА",
+       "original_title": "Pretty Woman",
+       "countries": [
+        "САД"
+       ],
+       "year": 1990,
+       "kind": null,
+       "cast": "Ричард Гир (Richard Gere), Џулија Робертс (Julia Roberts)",
+       "director": "Гари Маршал (Garry Marshall)",
+       "credits": [],
+       "extra": [
+        "1990"
+       ],
+       "imdb": {
+        "id": "tt0100405",
+        "title": "Pretty Woman",
+        "year": 1990,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 412689
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-22",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-22-1700-dani",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДАНИ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1963,
+       "kind": null,
+       "cast": "Олга Вујадиновић, Љубиша Самарџић",
+       "director": "Александар Саша Петровић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0124330",
+        "title": "Dani",
+        "year": 1963,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWI4ZjlhMmUtNmQ3Ni00YjZhLTkwMDAtODlhYWEzNTBiYTFlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 187
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-22-1900-ned-keli",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕД КЕЛИ",
+       "original_title": "Ned Kelly",
+       "countries": [
+        "САД",
+        "АУС"
+       ],
+       "year": 1979,
+       "kind": null,
+       "cast": "Мик Џегер (Mick Jagger), Клариса Кеј (Clarissa Kaye)",
+       "director": "Тони Ричардсон (Tony Richardson)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    },
+    {
+     "id": "2026-08-22-2100-terminator-2-sudnji-dan",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТЕРМИНАТОР 2: СУДЊИ ДАН",
+       "original_title": "Terminator 2: Judgment Day",
+       "countries": [
+        "САД",
+        "ФРА"
+       ],
+       "year": 1991,
+       "kind": null,
+       "cast": "Арнолд Шварценегер (Arnold Schwarzenegger), Линда Хамилтон (Linda Hamilton)",
+       "director": "Џејмс Камерон (James Cameron)",
+       "credits": [],
+       "extra": [
+        "1991"
+       ],
+       "imdb": {
+        "id": "tt0103064",
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.6,
+        "votes": 1303568
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-23",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-23-1700-miris-poljskog-cveca",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "МИРИС ПОЉСКОГ ЦВЕЋА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1977,
+       "kind": null,
+       "cast": "Љуба Тадић, Александар Берчек",
+       "director": "Срђан Карановић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0079171",
+        "title": "Fragrance of Wild Flowers",
+        "year": 1977,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzcxNzJmM2EtOWVjYy00Njg5LWE0ZjktMWM2Yzg2NTVlNDNlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 325
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-23-1900-protuva",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПРОТУВА",
+       "original_title": "Scalawag / Un magnifico ceffo di galera",
+       "countries": [
+        "ИТА",
+        "ЈУГ",
+        "САД"
+       ],
+       "year": 1973,
+       "kind": null,
+       "cast": "Кирк Даглас (Kirk Douglas), Марк Лестер (Mark Lester)",
+       "director": "Кирк Даглас (Kirk Douglas), Зоран Чалић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0070642",
+        "title": "Peg Leg, Musket & Sabre",
+        "year": 1973,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWEyMGRiYjUtZmFhZS00YzA5LWExYmUtOGQ3YTY0MDYwZTE1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.1,
+        "votes": 451
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-23-2100-niske-strasti",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НИСКЕ СТРАСТИ",
+       "original_title": "Basic Instinct",
+       "countries": [
+        "САД",
+        "ВБ",
+        "ФРА"
+       ],
+       "year": 1992,
+       "kind": null,
+       "cast": "Мајкл Даглас (Michael Douglas), Шерон Стоун (Sharon Stone)",
+       "director": "Паул Верхувен (Paul Verhoeven)",
+       "credits": [],
+       "extra": [
+        "1992"
+       ],
+       "imdb": {
+        "id": "tt0103772",
+        "title": "Basic Instinct",
+        "year": 1992,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjlhMGM2ZWItN2ZhZi00YzU0LTg1MTQtNzczZmY3OGJlOGM4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 247576
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-24-1700-kineska-cetvrt",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КИНЕСКА ЧЕТВРТ",
+       "original_title": "Chinatown",
+       "countries": [
+        "САД"
+       ],
+       "year": 1974,
+       "kind": null,
+       "cast": "Џек Николсон (Jack Nicholson), Феј Данавеј (Faye Dunaway)",
+       "director": "Роман Полански (Roman Polanski)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0071315",
+        "title": "Chinatown",
+        "year": 1974,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.1,
+        "votes": 380653
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-24-1900-gusar-s-jamajke",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ГУСАР С ЈАМАЈКЕ",
+       "original_title": "Swashbuckler",
+       "countries": [
+        "САД"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Роберт Шо (Robert Shaw), Џејмс Ерл Џоунс (James Earl Jones)",
+       "director": "Џејмс Голдстоун (James Goldstone)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0075294",
+        "title": "Swashbuckler",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzk3NTQwYmQtYTAzZS00MThmLWEzMDItZjZlZDgyMDA0ZTY5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.0,
+        "votes": 2176
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-24-2100-zvezdana-kapija",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЗВЕЗДАНА КАПИЈА",
+       "original_title": "Stargate",
+       "countries": [
+        "САД"
+       ],
+       "year": 1994,
+       "kind": null,
+       "cast": "Џејмс Спејдер (James Spader), Курт Расел (Kurt Russell)",
+       "director": "Роланд Емерих (Roland Emmerich)",
+       "credits": [],
+       "extra": [
+        "1995"
+       ],
+       "imdb": {
+        "id": "tt0111282",
+        "title": "Stargate",
+        "year": 1994,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGRmZmNhMTctZTBiMy00ZmJhLWE3MmMtMDNmZWRkZjczMGVkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 221740
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-25-1700-leto-sa-monikom",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛЕТО СА МОНИКОМ",
+       "original_title": "Sommaren med Monika",
+       "countries": [
+        "ШВЕ"
+       ],
+       "year": 1953,
+       "kind": null,
+       "cast": "Харијет Андерсон (Harriet Andersson), Ларс Екборг (Lars Ekborg)",
+       "director": "Ингмар Бергман (Ingmar Bergman)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0046345",
+        "title": "Summer with Monika",
+        "year": 1953,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTRkYmVkM2EtYjVjMi00MDJjLWFhYzQtZTk4NjE4MmE0NWJhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 18108
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-25-1900-osvetnikova-zakletva",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОСВЕТНИКОВА ЗАКЛЕТВА",
+       "original_title": "Hawk the Slayer",
+       "countries": [
+        "ВБ"
+       ],
+       "year": 1980,
+       "kind": null,
+       "cast": "Џон Тери (John Terry), Џек Паланс (Jack Palance)",
+       "director": "Тери Марсел (Terry Marcel)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0080846",
+        "title": "Hawk the Slayer",
+        "year": 1980,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGVhNTBkNGEtMzU0OC00OWE3LWE4ZWUtYTY3NmFkOTgyMTMzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.3,
+        "votes": 4726
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-25-2100-otkaceni-profesor",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОТКАЧЕНИ ПРОФЕСОР",
+       "original_title": "The Nutty Professor",
+       "countries": [
+        "САД"
+       ],
+       "year": 1996,
+       "kind": null,
+       "cast": "Еди Марфи (Eddie Murphy), Џејда Пинкет (Jada Pinkett)",
+       "director": "Том Шадијак (Tom Shadyac)",
+       "credits": [],
+       "extra": [
+        "1996"
+       ],
+       "imdb": {
+        "id": "tt0117218",
+        "title": "The Nutty Professor",
+        "year": 1996,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NjI1YTMtYWFiZi00Zjc1LWE5NzgtMTdlMWMwOTczZWJkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.7,
+        "votes": 132715
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-26",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-26-1700-razbesnelo-more",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "РАЗБЕСНЕЛО МОРЕ",
+       "original_title": "As the Sea Rages",
+       "countries": [
+        "СРН",
+        "ЈУГ",
+        "ЛИХ",
+        "САД"
+       ],
+       "year": 1959,
+       "kind": null,
+       "cast": "Марија Шел (Maria Schell), Клиф Робертсон (Cliff Robertson)",
+       "director": "Хорст Хехлер (Horst Hächler)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0052582",
+        "title": "As the Sea Rages",
+        "year": 1959,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDEyOTcyNTAtNDVlNy00YjU5LTk3YzctNGI5N2QwNDFjMGM5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 38
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-26-1900-konan-varvarin",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КОНАН ВАРВАРИН",
+       "original_title": "Conan the Barbarian",
+       "countries": [
+        "САД"
+       ],
+       "year": 1982,
+       "kind": null,
+       "cast": "Арнолд Шварценегер (Arnold Schwarzenegger), Џејмс Ерл Џоунс (James Earl Jones)",
+       "director": "Џон Милијус (John Milius)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0082198",
+        "title": "Conan the Barbarian",
+        "year": 1982,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjUzM2YzZDAtNzk1MS00YmNmLTg1ZmQtNjgyN2U3NTY0ZjE4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 175945
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-26-2100-bin",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БИН",
+       "original_title": "Bean",
+       "countries": [
+        "ВБ",
+        "САД"
+       ],
+       "year": 1997,
+       "kind": null,
+       "cast": "Роуан Аткинсон (Rowan Atkinson), Питер Макникол (Peter MacNicol)",
+       "director": "Мел Смит (Mel Smith)",
+       "credits": [],
+       "extra": [
+        "1997"
+       ],
+       "imdb": {
+        "id": "tt0118689",
+        "title": "Bean",
+        "year": 1997,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjJiMmNlNGItOGQyOC00ZDczLWEzODYtYmM2MTE1YTczYzA0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 117510
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-27-1700-kota-zabriski",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КОТА ЗАБРИСКИ",
+       "original_title": "Zabriskie Point",
+       "countries": [
+        "САД"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Марк Фрешет (Mark Frechette), Род Тејлор (Rod Taylor)",
+       "director": "Микеланђело Антониони (Michelangelo Antonioni)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0066601",
+        "title": "Zabriskie Point",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmY0MzM2NDEtZWVmYi00MmM4LWFhOGUtYTIyYzEzNTA5MDEyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 18609
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-27-1830-grejstok-legenda-o-tarzanu",
+     "times": [
+      "18:30"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ГРЕЈСТОК – ЛЕГЕНДА О ТАРЗАНУ",
+       "original_title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+       "countries": [
+        "ВБ",
+        "САД"
+       ],
+       "year": 1984,
+       "kind": null,
+       "cast": "Кристофер Ламберт (Christopher Lambert), Енди Макдауел (Andie MacDowell)",
+       "director": "Хју Хадсон (Hugh Hudson)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0087365",
+        "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+        "year": 1984,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmNiYWZmNTMtNzc1MC00OTg4LWJiNWYtMzNkY2IzZjVlMmFiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.4,
+        "votes": 21478
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-27-2100-titanik",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТИТАНИК",
+       "original_title": "Titanic",
+       "countries": [
+        "САД",
+        "МЕК"
+       ],
+       "year": 1997,
+       "kind": null,
+       "cast": "Леонардо Дикаприо (Leonardo DiCaprio), Кејт Винслет (Kate Winslet)",
+       "director": "Џејмс Камерон (James Cameron)",
+       "credits": [],
+       "extra": [
+        "1998"
+       ],
+       "imdb": {
+        "id": "tt0120338",
+        "title": "Titanic",
+        "year": 1997,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 1415095
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-28-1700-tramvaj-zvani-zelja",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТРАМВАЈ ЗВАНИ ЖЕЉА",
+       "original_title": "A Streetcar Named Desire",
+       "countries": [
+        "САД"
+       ],
+       "year": 1951,
+       "kind": null,
+       "cast": "Марлон Брандо (Marlon Brando), Вивијен Ли (Vivien Leigh)",
+       "director": "Елија Казан (Elia Kazan)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0044081",
+        "title": "A Streetcar Named Desire",
+        "year": 1951,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTdmZDY1ODQtNzFjYy00MGM4LWJmNDItN2MxMmQ2OTgxZGNmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.9,
+        "votes": 119812
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-28-1900-smaragdna-suma",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СМАРАГДНА ШУМА",
+       "original_title": "The Emerald Forest",
+       "countries": [
+        "ВБ"
+       ],
+       "year": 1985,
+       "kind": null,
+       "cast": "Пауерс Бут (Powers Boothe), Мег Фостер (Meg Foster)",
+       "director": "Џон Борман (John Boorman)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0089087",
+        "title": "The Emerald Forest",
+        "year": 1985,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGY0ZDYxZDEtMTA0MC00ZTZhLWE2ZTAtZjE5YTgzMDQyNTA4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 12273
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-28-2100-asteriks-i-obeliks-protiv-cezara",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АСТЕРИКС И ОБЕЛИКС ПРОТИВ ЦЕЗАРА",
+       "original_title": "Astérix & Obélix contre César",
+       "countries": [
+        "ФРА",
+        "ИТА",
+        "НЕМ"
+       ],
+       "year": 1999,
+       "kind": null,
+       "cast": "Кристијан Клавије (Christian Clavier), Жерар Депардје (Gérard Depardieu)",
+       "director": "Клод Зиди (Claude Zidi)",
+       "credits": [],
+       "extra": [
+        "1999"
+       ],
+       "imdb": {
+        "id": "tt0133385",
+        "title": "Asterix and Obelix vs. Caesar",
+        "year": 1999,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjljZmUyZjUtNmUwNi00MmU4LWI1ZmItZDdkZjJhZDdlYWIyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.0,
+        "votes": 48978
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-29",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-29-1700-poslednje-leto",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОСЛЕДЊЕ ЛЕТО",
+       "original_title": null,
+       "countries": [],
+       "year": null,
+       "kind": null,
+       "cast": "Барбара Херши (Barbara Hershey), Ричард Томас (Richard Thomas)",
+       "director": "Френк Пери (Frank Perry)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0064573",
+        "title": "Last Summer",
+        "year": 1969,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzI0ZWMwOGQtMmE3MC00NjQ0LTk0ODEtMzhjNDM3NjJjM2NhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 2619
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-29-1900-lagarderova-osveta",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЛАГАРДЕРОВА ОСВЕТА",
+       "original_title": "Le bossu",
+       "countries": [
+        "ФРА",
+        "ИТА",
+        "НЕМ"
+       ],
+       "year": 1997,
+       "kind": null,
+       "cast": "Данијел Отеј (Daniel Auteuil), Венсан Перез (Vincent Perez)",
+       "director": "Филип де Брока (Philippe de Broca)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0118756",
+        "title": "On Guard",
+        "year": 1997,
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2U0ZDBlYmQtNDljYS00NDA1LThhNWMtZDJkY2I4MmI3NmZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 4121
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-29-2100-taksi-2",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТАКСИ 2",
+       "original_title": "Taxi 2",
+       "countries": [
+        "ФРА"
+       ],
+       "year": 2000,
+       "kind": null,
+       "cast": "Сами Насери (Samy Naceri), Фредерик Дифентал (Frédéric Diefenthal)",
+       "director": "Жерар Кравчик (Gérard Krawczyk)",
+       "credits": [],
+       "extra": [
+        "2000"
+       ],
+       "imdb": {
+        "id": "tt0183869",
+        "title": "Taxi 2",
+        "year": 2000,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzBjNDE0YmUtZTIxZS00YzJkLTlhMzAtNjQ4OTExNDQ4YzhlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 62548
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-30",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-30-1600-groznica-letnjih-noci",
+     "times": [
+      "16:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ГРОЗНИЦА ЛЕТЊИХ НОЋИ",
+       "original_title": "Summer Night Fever",
+       "countries": [
+        "СРН",
+        "ФРА"
+       ],
+       "year": 1979,
+       "kind": null,
+       "cast": "Стефан Иле (Stéphane Hillel), Оливија Паскал (Olivia Pascal)",
+       "director": "Зиги Ротемунд (Sigi Rothemund)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0078340",
+        "title": "Summer Night Fever",
+        "year": 1978,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGMxN2FlZjctMzI3NC00MTM4LThkYTQtOWY1ZjU4Mjc2YjgyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 4.6,
+        "votes": 303
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-30-1800-nebesko-kraljevstvo",
+     "times": [
+      "18:00"
+     ],
+     "end": null,
+     "section": "АВАНТУРИСТИЧКИ ФИЛМ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕБЕСКО КРАЉЕВСТВО",
+       "original_title": "Kingdom of Heaven",
+       "countries": [
+        "САД"
+       ],
+       "year": 2005,
+       "kind": null,
+       "cast": "Орландо Блум (Orlando Bloom), Лијам Нисон (Liam Neeson)",
+       "director": "Ридли Скот (Ridley Scott)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0320661",
+        "title": "Kingdom of Heaven",
+        "year": 2005,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzdhNGZhMjQtYjVmNy00OWMyLTk1MmQtZGNhZDYwMzZlZjI3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 362261
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-30-2100-hari-poter-i-kamen-mudrosti",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ХАРИ ПОТЕР И КАМЕН МУДРОСТИ",
+       "original_title": "Harry Potter and the Sorcerer's Stone",
+       "countries": [
+        "ВБ",
+        "САД"
+       ],
+       "year": 2001,
+       "kind": null,
+       "cast": "Данијел Радклиф (Daniel Radcliffe), Ричард Харис (Richard Harris)",
+       "director": "Крис Коламбус (Chris Columbus)",
+       "credits": [],
+       "extra": [
+        "2001"
+       ],
+       "imdb": {
+        "id": "tt0241527",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "year": 2001,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 968838
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-08-31-1700-sjaj-u-travi",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "КАД ЈЕ ЛЕТУ ПЕДАЉ ДО ЗЕНИТА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СЈАЈ У ТРАВИ",
+       "original_title": "Splendor in the Grass",
+       "countries": [
+        "САД"
+       ],
+       "year": 1961,
+       "kind": null,
+       "cast": "Натали Вуд (Natalie Wood), Ворен Бити (Warren Beatty)",
+       "director": "Елија Казан (Elia Kazan)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0055471",
+        "title": "Splendor in the Grass",
+        "year": 1961,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2RkM2EzNDMtM2I4Mi00M2YzLWI5YWMtYmRjMmZmMmE4ZTMzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 23177
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-08-31-2000-gospodar-prstenova-dve-kule",
+     "times": [
+      "20:00"
+     ],
+     "end": null,
+     "section": "НАЈГЛЕДАНИЈИ СТРАНИ ФИЛМОВИ У СРБИЈИ ОД 1969. ДО 2002.",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ГОСПОДАР ПРСТЕНОВА: ДВЕ КУЛЕ",
+       "original_title": "The Lord of the Rings: The Two Towers",
+       "countries": [
+        "НЗ",
+        "САД"
+       ],
+       "year": 2002,
+       "kind": null,
+       "cast": "Елајџа Вуд (Elijah Wood), Ијан Макелен (Ian McKellen)",
+       "director": "Питер Џексон (Peter Jackson)",
+       "credits": [],
+       "extra": [
+        "2002"
+       ],
+       "imdb": {
+        "id": "tt0167261",
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.8,
+        "votes": 1987212
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "first_date": "2026-07-16",
+ "last_date": "2026-08-31",
+ "id": "2026-07",
+ "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/07/KINOTEKA_LETO_2026_PROGRAM.pdf",
+ "source_page": "https://www.kinoteka.org.rs/repertoar-programi/",
+ "pdf_sha256": "e652db10aa3b3604f1c2556f751a6507045f8a2056b0f4bb3ac07f724c3b82e8",
+ "parsed_at": "2026-10-01T11:33:49+00:00"
+}

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="sr-Latn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kinoteka · repertoar</title>
+  <meta name="description" content="Pregledniji prikaz mesečnog programa Jugoslovenske kinoteke – kalendar sa IMDb posterima i ocenama, i obaveštenja na email kad se film pojavi na repertoaru.">
+  <meta name="theme-color" content="#0f0e0d" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme: light)">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23ffc907'/%3E%3Ctext x='32' y='45' font-family='Arial Narrow,Arial' font-weight='700' font-size='36' text-anchor='middle' fill='%231c1600'%3EK%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Oswald:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="config.js"></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div class="brand">
+        <a class="logo" href="./"><b>KINOTEKA</b>repertoar</a>
+        <p class="sub">Jugoslovenska kinoteka · Uzun Mirkova 1, Beograd · nezvanični pregled mesečnog programa</p>
+      </div>
+
+      <details class="notify" id="notify" open>
+        <summary>Obavesti me kad film bude na repertoaru</summary>
+        <form id="notify-form" autocomplete="on">
+          <label class="field">
+            <span>Email</span>
+            <input type="email" name="email" required placeholder="ime@primer.com" autocomplete="email">
+          </label>
+          <label class="field">
+            <span>Naziv filma</span>
+            <input type="text" name="film" required minlength="2" maxlength="120" placeholder="npr. Taksista ili Taxi Driver">
+          </label>
+          <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <button type="submit" class="btn primary">Prijavi se</button>
+        </form>
+        <p class="hint">Naziv možeš da napišeš na srpskom (latinicom ili ćirilicom), engleskom ili u originalu – sitne greške u kucanju se prepoznaju.</p>
+        <p class="notify-msg" id="notify-msg" role="status" aria-live="polite"></p>
+      </details>
+    </header>
+
+    <section class="bar">
+      <nav class="month-nav" aria-label="Mesec">
+        <button class="icon-btn" id="prev" aria-label="Prethodni mesec">‹</button>
+        <h1 id="month-title">Učitavanje…</h1>
+        <button class="icon-btn" id="next" aria-label="Sledeći mesec">›</button>
+        <button class="btn ghost" id="today-btn">Danas</button>
+      </nav>
+      <div class="tools">
+        <div class="search">
+          <input id="search" type="search" placeholder="Traži film, reditelja, glumca…" aria-label="Pretraga programa" autocomplete="off">
+          <div id="search-results" class="search-results" hidden></div>
+        </div>
+        <div class="seg" role="group" aria-label="Prikaz" id="view-seg">
+          <button data-view="grid">Kalendar</button>
+          <button data-view="list">Lista</button>
+        </div>
+        <div class="seg" role="group" aria-label="Pismo" id="script-seg">
+          <button data-script="lat">Latinica</button>
+          <button data-script="cyr">Ћирилица</button>
+        </div>
+      </div>
+    </section>
+
+    <div id="sections" class="sections" aria-label="Ciklusi i programi"></div>
+
+    <main id="calendar" class="calendar" aria-live="polite"></main>
+
+    <footer class="foot">
+      <p id="source-info"></p>
+      <p>Program: <a href="https://www.kinoteka.org.rs/repertoar-programi/" target="_blank" rel="noopener">kinoteka.org.rs</a> (automatski preuzima mesečni PDF).
+        Posteri i ocene: <a href="https://www.imdb.com/" target="_blank" rel="noopener">IMDb</a>, za ličnu i nekomercijalnu upotrebu.
+        Poklapanje sa IMDb-om je automatsko i ponekad može da omaši.</p>
+    </footer>
+  </div>
+
+  <dialog id="modal" aria-labelledby="modal-title">
+    <button class="icon-btn close" id="modal-close" aria-label="Zatvori">×</button>
+    <div id="modal-body"></div>
+  </dialog>
+</body>
+</html>

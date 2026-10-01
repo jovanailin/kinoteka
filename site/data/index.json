@@ -1,0 +1,40 @@
+{
+ "programs": [
+  {
+   "id": "2026-06",
+   "title": "ЈУГОСЛОВЕНСКА КИНОТЕКА – ЈУН 2026",
+   "first_date": "2026-06-02",
+   "last_date": "2026-07-15",
+   "file": "programs/2026-06.json",
+   "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/06/KINOTEKA_JUN_2026_PROGRAM.pdf",
+   "parsed_at": "2026-10-01T11:33:21+00:00"
+  },
+  {
+   "id": "2026-07",
+   "title": "ЈУГОСЛОВЕНСКА КИНОТЕКА – ЈУЛ/АВГУСТ 2026",
+   "first_date": "2026-07-16",
+   "last_date": "2026-08-31",
+   "file": "programs/2026-07.json",
+   "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/07/KINOTEKA_LETO_2026_PROGRAM.pdf",
+   "parsed_at": "2026-10-01T11:33:49+00:00"
+  },
+  {
+   "id": "2026-09",
+   "title": "ЈУГОСЛОВЕНСКА КИНОТЕКА – СЕПТЕМБАР 2026",
+   "first_date": "2026-09-01",
+   "last_date": "2026-10-08",
+   "file": "programs/2026-09.json",
+   "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/09/KINOTEKA_SEPTEMBAR_2026_PROGRAM.pdf",
+   "parsed_at": "2026-10-01T11:34:39+00:00"
+  },
+  {
+   "id": "2026-10",
+   "title": "ЈУГОСЛОВЕНСКА КИНОТЕКА – ОКТОБАР 2026",
+   "first_date": "2026-10-01",
+   "last_date": "2026-10-31",
+   "file": "programs/2026-10.json",
+   "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/09/KINOTEKA_OKTOBAR_2026_PROGRAM.pdf",
+   "parsed_at": "2026-10-01T11:35:24+00:00"
+  }
+ ]
+}
