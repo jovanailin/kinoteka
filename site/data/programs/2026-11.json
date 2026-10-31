@@ -1,0 +1,2419 @@
+{
+ "title": "ЈУГОСЛОВЕНСКА КИНОТЕКА – НОВЕМБАР 2026.",
+ "venue": "УЗУН МИРКОВА 1",
+ "intro": [],
+ "days": [
+  {
+   "date": "2026-11-01",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-01-1700-svirepo-nezne",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на: СИЛВИЈА МОНТИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СВИРЕПО НЕЖНЕ",
+       "original_title": "Le regine",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Силвија Монти (Silvia Monti), Еде Политоф (Haydée Politof)",
+       "director": "Тонино Черви (Tonino Cervi)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0066980",
+        "title": "Queens of Evil",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjU1M2U3ZDAtNTgyZi00Y2EzLThmMDctMzhmZGZiOWI1M2ZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.9,
+        "votes": 724
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-1900-snovi-zlocina",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на: СИЛВИЈА МОНТИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СНОВИ ЗЛОЧИНА",
+       "original_title": "Una lucertola con la pelle di donna",
+       "countries": [
+        "ИТА",
+        "ФРА",
+        "ШПА"
+       ],
+       "year": 1971,
+       "kind": null,
+       "cast": "Силвија Монти (Silvia Monti), Флоринда Болкан (Florinda Bolkan)",
+       "director": "Лучо Фулчи (Lucio Fulci)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0067361",
+        "title": "A Lizard in a Woman's Skin",
+        "year": 1971,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWI4MjM2ZGItNmE3NC00YTYyLWIwZDktMzhjMmRkMWFhNDNhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.8,
+        "votes": 6742
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-2100-crni-dani-za-strelca",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: СИЛВИЈА МОНТИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЦРНИ ДАНИ ЗА СТРЕЛЦА",
+       "original_title": "Giornata nera per l'ariete",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 1971,
+       "kind": null,
+       "cast": "Силвија Монти (Silvia Monti), Франко Неро (Franco Nero)",
+       "director": "Луиђи Бацони (Luigi Bazzoni)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0067134",
+        "title": "The Fifth Cord",
+        "year": 1971,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2Q4M2E3MTYtYjI2Ni00ZWQwLTg4ZGMtZjFmNDI2YWI0YzQ4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 3150
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-02",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-02-1700-ubica-stoleca",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на: СИЛВИЈА МОНТИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "УБИЦА СТОЛЕЋА",
+       "original_title": "Sono stato io",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 1973,
+       "kind": null,
+       "cast": "Силвија Монти (Silvia Monti), Ђанкарло Ђанини (Giancarlo Giannini)",
+       "director": "Алберто Латуада (Alberto Lattuada)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0070720",
+        "title": "Sono stato io!",
+        "year": 1973,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzU1ZjIyNTEtMmE1My00Mzg1LWFiZmMtYjUxNmY4YzRkNzVjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 75
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-02-1900-krvavi-opijum",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на: СИЛВИЈА МОНТИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КРВАВИ ОПИЈУМ",
+       "original_title": "Afyon oppio",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1972,
+       "kind": null,
+       "cast": "Силвија Монти (Silvia Monti), Бен Газара (Ben Gazzara)",
+       "director": "Фердинандо Балди (Ferdinando Baldi)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0068179",
+        "title": "The Sicilian Connection",
+        "year": 1972,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzgzNjVkOTgtZmRkZC00MjgxLTlhM2YtZDkxZTUyY2RkOGRhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.7,
+        "votes": 359
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-02-2100-skandali-jedne-ledi",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: СИЛВИЈА МОНТИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СКАНДАЛИ ЈЕДНЕ ЛЕДИ",
+       "original_title": "Lady Caroline Lamb",
+       "countries": [
+        "ВБ",
+        "ИТА"
+       ],
+       "year": 1972,
+       "kind": null,
+       "cast": "Сара Мајлс (Sarah Miles), Силвија Монти (Silvia Monti)",
+       "director": "Роберт Болт (Robert Bolt)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0068827",
+        "title": "Lady Caroline Lamb",
+        "year": 1972,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzdiNTljZDctNjY5MC00YTA2LWIyYzMtZjBlYThlNjgyMzEyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.5,
+        "votes": 627
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-03-1700-plavi-somot",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "40 ГОДИНА ОД ПРЕМИЈЕРЕ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПЛАВИ СОМОТ",
+       "original_title": "Blue Velvet",
+       "countries": [
+        "САД"
+       ],
+       "year": 1986,
+       "kind": null,
+       "cast": "Кајл Маклохлан (Kyle McLachlan), Изабела Роселини (Isabella Rossellini)",
+       "director": "Дејвид Линч (David Lynch)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0090756",
+        "title": "Blue Velvet",
+        "year": 1986,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 250670
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-1900-jakuza",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на: КЕИКО КИШИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЈАКУЗА",
+       "original_title": "The Yakuza",
+       "countries": [
+        "САД"
+       ],
+       "year": 1974,
+       "kind": null,
+       "cast": "Роберт Мичам (Robert Mitchum), Кеико Киши (Keiko Kishi)",
+       "director": "Сидни Полак (Sydney Pollack)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0073918",
+        "title": "The Yakuza",
+        "year": 1974,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTM4YjFkMDQtNWJkNC00MDk0LTg2YjktZTViZmIzNzQ5MjZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 11890
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-2100-strasne-price",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: КЕИКО КИШИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СТРАШНЕ ПРИЧЕ",
+       "original_title": "Kwaidan",
+       "countries": [
+        "ЈАП"
+       ],
+       "year": 1964,
+       "kind": null,
+       "cast": "Кеико Киши (Keiko Kishi), Тацуја Накадај (Tatsuya Nakadai)",
+       "director": "Масаки Кобајаши (Masaki Kobayashi)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0058279",
+        "title": "Kwaidan",
+        "year": 1964,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTYwYmVkNzktMzA0My00NmYyLTg3ZjktYjFlMDVlNzEwN2I0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.9,
+        "votes": 23633
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-04-1600-ka-nepoznatom",
+     "times": [
+      "16:00"
+     ],
+     "end": null,
+     "section": "МУЗИКА ЈЕ АРАПИМА АФРОДИЗИЈАК",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КА НЕПОЗНАТОМ",
+       "original_title": "Ila ayn",
+       "countries": [
+        "ЛИБ"
+       ],
+       "year": 1957,
+       "kind": null,
+       "cast": "Лаура Азар (Laura Azar), Шакиб Кури (Shakib Khouri)",
+       "director": "Жорж Насер (Georges Nasser)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0251742",
+        "title": "Where To?",
+        "year": 1957,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTQwMDM2N2YtMzlkMi00MjgyLWE5MDAtMDQwZmRmMmM2Zjc3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 332
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-1900-promocija-knjige-muzika-sveta-vl",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "МУЗИКА ЈЕ АРАПИМА АФРОДИЗИЈАК",
+     "label": "Промоција књиге „Музика света” Владимира Ђуричића",
+     "notes": [],
+     "credits": [],
+     "films": []
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-05-1700-ljubav-u-senci-piramida",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "МУЗИКА ЈЕ АРАПИМА АФРОДИЗИЈАК",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЉУБАВ У СЕНЦИ ПИРАМИДА",
+       "original_title": "Gharam fi al-Karnak",
+       "countries": [
+        "ЕГ"
+       ],
+       "year": 1965,
+       "kind": null,
+       "cast": "Фарида Фахми (Farida Fahmy), Махмуд Реда (Mahmoud Reda)",
+       "director": "Али Реда (Aly Reda)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0184511",
+        "title": "Love in Karnak",
+        "year": 1967,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MjQ2ZGUtNzQ2MS00OGVjLWJmMjgtNzMxZjY4ODg2MDQ3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 177
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-05-1900-nepoznata-zena",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "МУЗИКА ЈЕ АРАПИМА АФРОДИЗИЈАК",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕПОЗНАТА ЖЕНА",
+       "original_title": "Al-Mara' Al-Maghoola",
+       "countries": [
+        "ЕГ"
+       ],
+       "year": 1959,
+       "kind": null,
+       "cast": "Шадија (Shadia), Имад Хамди (Imad Hamdi)",
+       "director": "Махмуд Зулфикар (Mahmoud Zulfikar)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0359714",
+        "title": "Al Mara'a Al Maghoula",
+        "year": 1959,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNTg3MDMtMmFlNC00ZTMwLWE1OTEtYThmZDE0OTFiMzk1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 130
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-05-2100-ko-ste-vi-gospodine-zorge",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: КЕИКО КИШИ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КО СТЕ ВИ, ГОСПОДИНЕ ЗОРГЕ?",
+       "original_title": "Qui êtes-vous, Monsieur Sorge?",
+       "countries": [
+        "ФРА",
+        "ЈАП"
+       ],
+       "year": 1960,
+       "kind": null,
+       "cast": "Томас Холцман (Thomas Holtzmann), Кеико Киши (Keiko Kishi)",
+       "director": "Ив Кијампи (Yves Ciampi)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0055350",
+        "title": "Qui êtes-vous, Monsieur Sorge?",
+        "year": 1961,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTEzNDZjN2QtNGZhNy00YWFjLTg1MWMtODhiY2I0NWRmOWE0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.2,
+        "votes": 125
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-06-1700-na-dokovima-njujorka",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на: ЕВА МАРИ СЕЈНТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НА ДОКОВИМА ЊУЈОРКА",
+       "original_title": "On the Waterfront",
+       "countries": [
+        "САД"
+       ],
+       "year": 1954,
+       "kind": null,
+       "cast": "Марлон Брандо (Marlon Brando), Ева Мари Сејнт (Eva Marie Saint)",
+       "director": "Елија Казан (Elia Kazan)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0047296",
+        "title": "On the Waterfront",
+        "year": 1954,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.1,
+        "votes": 182185
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-1900-nema-vremena-za-strah",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "КИНОТЕКА РЕПУБЛИКЕ СРПСКЕ ПРЕДСТАВЉА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕМА ВРЕМЕНА ЗА СТРАХ",
+       "original_title": null,
+       "countries": [
+        "БИХ"
+       ],
+       "year": 2026,
+       "kind": "документарни филм",
+       "cast": null,
+       "director": "Зоран Маслић бесплатна пројекција",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-2100-sever-severozapad",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: ЕВА МАРИ СЕЈНТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СЕВЕР-СЕВЕРОЗАПАД",
+       "original_title": "North by Northwest",
+       "countries": [
+        "САД"
+       ],
+       "year": 1959,
+       "kind": null,
+       "cast": "Кери Грант (Cary Grant), Ева Мари Сејнт (Eva Marie Saint)",
+       "director": "Алфред Хичкок (Alfred Hitchcock)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0053125",
+        "title": "North by Northwest",
+        "year": 1959,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.2,
+        "votes": 373039
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-07-1700-rusi-dolaze",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "Сећање на: ЕВА МАРИ СЕЈНТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "РУСИ ДОЛАЗЕ",
+       "original_title": "The Russians Are Coming the Russians Are Coming",
+       "countries": [
+        "САД"
+       ],
+       "year": 1966,
+       "kind": null,
+       "cast": "Карл Рајнер (Carl Reiner), Ева Мари Сејнт (Eva Marie Saint)",
+       "director": "Норман Џуисон (Norman Jewison)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0060921",
+        "title": "The Russians Are Coming the Russians Are Coming",
+        "year": 1966,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjFjYzViMjctZDI1ZS00ZTAwLWEyYzktMzU3NzQ0ZmFiZjA3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 11411
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-07-1900-ljubav-na-pesku",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на: ЕВА МАРИ СЕЈНТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЉУБАВ НА ПЕСКУ",
+       "original_title": "The Sandpiper",
+       "countries": [
+        "САД"
+       ],
+       "year": 1965,
+       "kind": null,
+       "cast": "Елизабет Тејлор (Elizabeth Taylor), Ева Мари Сејнт (Eva Marie Saint)",
+       "director": "Винсент Минели (Vincente Minnelli)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0059674",
+        "title": "The Sandpiper",
+        "year": 1965,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWQ2MjVjZWUtMzU3Yy00ZDFjLWFmZjctZGM1MTBjOWNhNGFmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.3,
+        "votes": 4280
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-07-2100-drvo-zivota",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: ЕВА МАРИ СЕЈНТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДРВО ЖИВОТА",
+       "original_title": "Raintree County",
+       "countries": [
+        "САД"
+       ],
+       "year": 1957,
+       "kind": null,
+       "cast": "Монтгомери Клифт (Montgomery Clift), Ева Мари Сејнт (Eva Marie Saint)",
+       "director": "Едвард Дмитрик (Edward Dmytryk)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0050882",
+        "title": "Raintree County",
+        "year": 1957,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDZkZjYxNjktN2Y5Mi00ZmY1LWEzNWMtNzQ0YTk0NmYwMzQ4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.3,
+        "votes": 4906
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-08-1300-kad-je-hari-sreo-sali",
+     "times": [
+      "13:00"
+     ],
+     "end": null,
+     "section": "БЕБИ-БИОСКОП",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "КАД ЈЕ ХАРИ СРЕО САЛИ",
+       "original_title": "When Harry Met Sally...",
+       "countries": [
+        "САД"
+       ],
+       "year": 1989,
+       "kind": null,
+       "cast": "Били Кристал (Billy Crystal), Мег Рајан (Meg Ryan)",
+       "director": "Роб Рајнер (Rob Reiner)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0098635",
+        "title": "When Harry Met Sally...",
+        "year": 1989,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 277366
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-08-1600-povratak-supermena",
+     "times": [
+      "16:00"
+     ],
+     "end": null,
+     "section": "Сећање на: ЕВА МАРИ СЕЈНТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПОВРАТАК СУПЕРМЕНА",
+       "original_title": "Superman Returns",
+       "countries": [
+        "САД",
+        "АУС"
+       ],
+       "year": 2006,
+       "kind": null,
+       "cast": "Брендон Раут (Brandon Routh), Ева Мари Сејнт (Eva Marie Saint)",
+       "director": "Брајан Сингер (Bryan Singer)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0348150",
+        "title": "Superman Returns",
+        "year": 2006,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjg1ZGRiMTEtYmU4Zi00NTkwLWJmODQtMjU3MTAyMGQ2OGZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.1,
+        "votes": 305504
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-08-1900-divlji-covek",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Сећање на: ЕВА МАРИ СЕЈНТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДИВЉИ ЧОВЕК",
+       "original_title": "The Stalking Moon",
+       "countries": [
+        "САД"
+       ],
+       "year": 1968,
+       "kind": null,
+       "cast": "Ева Мари Сејнт (Eva Marie Saint), Грегори Пек (Gregory Peck)",
+       "director": "Роберт Малиган (Robert Mulligan)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0065032",
+        "title": "The Stalking Moon",
+        "year": 1968,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDc3NjgyZDItN2EzYi00ZDg3LThjMjItYmIyYzI4YWJlM2JkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 3735
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-08-2100-gran-pri",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Сећање на: ЕВА МАРИ СЕЈНТ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ГРАН ПРИ",
+       "original_title": "Grand Prix",
+       "countries": [
+        "САД"
+       ],
+       "year": 1966,
+       "kind": null,
+       "cast": "Џејмс Гарнер (James Garner), Ева Мари Сејнт (Eva Marie Saint)",
+       "director": "Џон Франкенхајмер (John Frankenheimer)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0060472",
+        "title": "Grand Prix",
+        "year": 1966,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTA2NzQzYWQtY2FlZi00ODFiLTgyOTctY2RmNjE4YTcwMjg5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 12366
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-09-1700-bele-noci",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БЕЛЕ НОЋИ",
+       "original_title": "Le notti bianche",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1957,
+       "kind": null,
+       "cast": "Марија Шел (Maria Schell), Марчело Мастројани (Marcello Mastroianni)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0050782",
+        "title": "White Nights",
+        "year": 1957,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjUwYzczMTctMzUzNC00ZmRiLTlkN2EtNjA5ZjRjMmQ3NmVlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.7,
+        "votes": 10590
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-09-1900-senso",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СЕНСО",
+       "original_title": "Senso",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 1954,
+       "kind": null,
+       "cast": "Фарли Грејнџер (Farley Granger), Алида Вали (Alida Valli)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0047469",
+        "title": "Senso",
+        "year": 1954,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmNmOWIxZDUtODJmNi00Y2ZjLWJjYTUtNWYzMzVhN2U3MTZhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 10220
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-09-2100-opsesija-demonski-ljubavnici",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОПСЕСИЈА / ДЕМОНСКИ ЉУБАВНИЦИ",
+       "original_title": "Ossessione",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 1942,
+       "kind": null,
+       "cast": "Клара Каламаи (Clara Calamai), Масимо Ђироти (Massimo Girotti)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0035160",
+        "title": "Obsession",
+        "year": 1943,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTZiMjU3NGUtY2I4ZC00OGUyLThkODYtYjEzYTQxNzJiMjA1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.5,
+        "votes": 9174
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-10-1700-roko-i-njegova-braca",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "РОКО И ЊЕГОВА БРАЋА",
+       "original_title": "Rocco e i suoi fratelli",
+       "countries": [
+        "ФРА",
+        "ИТА"
+       ],
+       "year": 1960,
+       "kind": null,
+       "cast": "Ален Делон (Alain Delon), Ани Жирардо (Annie Girardot)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0054248",
+        "title": "Rocco and His Brothers",
+        "year": 1960,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTkyMjczYWUtZjFiMi00YWNlLWJlYjctNzc3YmM5YjVhY2UyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.2,
+        "votes": 26264
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-10-2000-bokaco-70-omnibus",
+     "times": [
+      "20:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "БОКАЧО 70 (омнибус)",
+       "original_title": "Boccaccio 70",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1962,
+       "kind": null,
+       "cast": "Роми Шнајдер (Romy Schneider), Томас Милијан (Tomas Milian)",
+       "director": "Виторио де Сика (Vittorio De Sica), Федерико Фелини (Federico Fellini), Марио Моничели (Mario Monicelli), Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0055805",
+        "title": "Boccaccio '70",
+        "year": 1962,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjUxNmIxZGEtZjhkMC00NTFmLTllNGMtYmQ4YTE3NWExNWQ0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 5747
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-12-1700-svi-predsednikovi-ljudi",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "50 ГОДИНА ОД ПРЕМИЈЕРЕ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СВИ ПРЕДСЕДНИКОВИ ЉУДИ",
+       "original_title": "All the Presidents Men",
+       "countries": [
+        "САД"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Роберт Редфорд (Robert Redford), Дастин Хофман (Dustin Hoffman)",
+       "director": "Алан Пакула (Alan J. Pacula)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0074119",
+        "title": "All the President's Men",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGQzMzcwMDYtMmNjNS00YzZlLTg2MjUtNTE0MThlNTFjMDQ0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.9,
+        "votes": 140016
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-12-1900-parnjaca",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "50 ГОДИНА ОД ПРЕМИЈЕРЕ",
+     "label": null,
+     "notes": [
+      "После пројекције разговор с аутором филма"
+     ],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПАРЊАЧА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1979,
+       "kind": "кратки играни филм",
+       "cast": "Павле Вуисић, Фабијан Шоваговић",
+       "director": "Матјаж Жбонтар",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0160641",
+        "title": "Parnjaca",
+        "year": 1979,
+        "poster": null,
+        "rating": null,
+        "votes": null
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-13-1700-drage-zvezde-velikog-medveda",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДРАГЕ ЗВЕЗДЕ ВЕЛИКОГ МЕДВЕДА",
+       "original_title": "Vaghe stelle dell'Orsa / Sandra",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 1965,
+       "kind": null,
+       "cast": "Клаудија Кардинале (Claudia Cardinale), Жан Сорел (Jean Sorel)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0059856",
+        "title": "Sandra",
+        "year": 1965,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzdhNjNlNTgtZWJkZS00MWI0LWI1NGYtYjA0MGZkNTgyNjUxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 2618
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-13-1900-gepard",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ГЕПАРД",
+       "original_title": "Il Gattopardo",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1963,
+       "kind": null,
+       "cast": "Берт Ланкастер (Burt Lancaster), Ален Делон (Alain Delon)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0057091",
+        "title": "The Leopard",
+        "year": 1963,
+        "poster": "https://m.media-amazon.com/images/M/MV5BODNiYThjOGMtOTZlYy00Y2Q0LTk5MjQtYTRkNzU2OTA2OWQ1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.9,
+        "votes": 35214
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-14-1700-sumrak-bogova",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СУМРАК БОГОВА",
+       "original_title": "La caduta degli dei",
+       "countries": [
+        "ИТА",
+        "СРН"
+       ],
+       "year": 1969,
+       "kind": null,
+       "cast": "Дирк Богард (Dirk Bogarde), Хелмут Бергер (Helmut Berger)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0064118",
+        "title": "The Damned",
+        "year": 1969,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGVhZDhmZjAtYTg5MC00ODhlLWIyNjktOWJjOWY5ZDE0N2JiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 11167
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-14-2000-smrt-u-veneciji",
+     "times": [
+      "20:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СМРТ У ВЕНЕЦИЈИ",
+       "original_title": "Morte a Venezia",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1971,
+       "kind": null,
+       "cast": "Дирк Богард (Dirk Bogarde), Бјерн Андресен (Björn Andrésen)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0067445",
+        "title": "Death in Venice",
+        "year": 1971,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWQ3ODc3ODctZjc0Ni00MWVkLWIzZjAtNDA1OGU2N2VkNzAxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 25340
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-15-1300-sarlotina-mreza",
+     "times": [
+      "13:00"
+     ],
+     "end": null,
+     "section": "БЕБИ-БИОСКОП",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ШАРЛОТИНА МРЕЖА",
+       "original_title": "Charlotte's Web",
+       "countries": [
+        "САД"
+       ],
+       "year": 1973,
+       "kind": "анимирани филм",
+       "cast": null,
+       "director": "Чарлс Николс (Charles Nichols), Ивао Такамото (Iwao Takamoto)",
+       "credits": [
+        {
+         "label": "Гласови",
+         "value": "Деби Рејнолдс (Debbie Reynolds), Хенри Гибсон (Henry Gibson)"
+        }
+       ],
+       "extra": [],
+       "imdb": {
+        "id": "tt0070016",
+        "title": "Charlotte's Web",
+        "year": 1973,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjhlYjU1NmEtZWZmNy00ZWZiLWJjZjktZmM3MjczOWE5MjIyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.9,
+        "votes": 23160
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-15-1700-stranac",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СТРАНАЦ",
+       "original_title": "Lo Straniero",
+       "countries": [
+        "ИТА"
+       ],
+       "year": 1967,
+       "kind": null,
+       "cast": "Марчело Мастројани (Marcello Mastroianni), Ана Карина (Anna Karina)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0062310",
+        "title": "The Stranger",
+        "year": 1967,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWE3MDQzMTgtMGYyNS00ZTc0LWJkOTAtNjIzMjkzYzQyYTk3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.1,
+        "votes": 3807
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-15-1900-zatvoreni-porodicni-krug",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЗАТВОРЕНИ ПОРОДИЧНИ КРУГ",
+       "original_title": "Gruppo di famiglia in un interno",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1974,
+       "kind": null,
+       "cast": "Берт Ланкастер (Burt Lancaster), Хелмут Бергер (Helmut Berger)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0071585",
+        "title": "Conversation Piece",
+        "year": 1974,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzczYzljMmItNWZmNi00ZjBmLWJkZTktYTY2MDc2M2MyNWY4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.3,
+        "votes": 5916
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-15-2110-nevino-uljez",
+     "times": [
+      "21:10"
+     ],
+     "end": null,
+     "section": "ЛУКИНО ВИСКОНТИ – 120 година од рођења / 50 година од смрти",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "НЕВИНО/УЉЕЗ",
+       "original_title": "L'innocente",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Ђанкарло Ђанини (Giancarlo Giannini), Лаура Антонели (Laura Antonelli)",
+       "director": "Лукино Висконти (Luchino Visconti)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0074686",
+        "title": "The Innocent",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmZhZTlkNmMtYzJjMi00NWZkLThiZTYtOTNkYTU2ODQwZWRjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 4933
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-16-1700-tv-mreza",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "50 ГОДИНА ОД ПРЕМИЈЕРЕ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТВ МРЕЖА",
+       "original_title": "Network",
+       "countries": [
+        "САД"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Феј Данавеј (Faye Dunaway), Вилијам Холден (William Holden)",
+       "director": "Сидни Лумет (Sidney Lumet)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0074958",
+        "title": "Network",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 188653
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-16-1900-rasomon",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ЦИКЛУС ФИЛМОВА И ДИСКУСИЈА О МЕНТАЛНОМ ЗДРАВЉУ",
+     "label": null,
+     "notes": [
+      "Разговор с публиком након пројекције филма"
+     ],
+     "credits": [],
+     "films": [
+      {
+       "title": "РАШОМОН",
+       "original_title": "Rashômon",
+       "countries": [
+        "ЈАП"
+       ],
+       "year": 1950,
+       "kind": null,
+       "cast": "Тоширо Мифуне (Toshirô Mifune), Мачико Кјо (Machiko Kyô)",
+       "director": "Акира Куросава (Akira Kurosawa)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0042876",
+        "title": "Rashomon",
+        "year": 1950,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_QL75_UX300_.jpg",
+        "rating": 8.1,
+        "votes": 199487
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "notes": [
+    "50 ГОДИНА ОД ПРЕМИЈЕРЕ ФИЛМА"
+   ],
+   "slots": [
+    {
+     "id": "2026-11-17-x0-carstvo-cula",
+     "times": [],
+     "end": null,
+     "section": null,
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ЦАРСТВО ЧУЛА",
+       "original_title": "L'Empire des sens / Ai no korîda",
+       "countries": [
+        "ЈАП",
+        "ФРА"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Тацуја Фуџи (Tatsuya Fuji), Еико Мацуда (Eiko Matsuda)",
+       "director": "Нагиса Ошима (Nagisa Ôshima)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0074102",
+        "title": "In the Realm of the Senses",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmJlYjVjMzgtM2U2OC00NDU4LTkyODUtOGY0NjBmMTI4NTQzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.6,
+        "votes": 25683
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-17-1900-furija",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "ГАУДИ – ЦИКЛУС КАТАЛОНСКОГ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ФУРИЈА",
+       "original_title": "La furia",
+       "countries": [
+        "ШПА"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Анхела Сервантес (Ángela Cervantes), Алекс Монер (Àlex Monner)",
+       "director": "Хема Бласко (Gemma Blasco)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt37045716",
+        "title": "Furia",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYThiNDQxODgtOTFlNi00MTBiLThlMDktYmM3NjlmODA3ZjRlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": null,
+        "votes": null
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-17-2100-maratonac",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "50 ГОДИНА ОД ПРЕМИЈЕРЕ",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "МАРАТОНАЦ",
+       "original_title": "Marathon Man",
+       "countries": [
+        "САД"
+       ],
+       "year": 1976,
+       "kind": null,
+       "cast": "Дастин Хофман (Dustin Hoffman), Лоренс Оливије (Laurence Olivier)",
+       "director": "Џон Шлесинџер (John Schlesinger)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0074860",
+        "title": "Marathon Man",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTFlOWU2NTItNDlmMS00MmZhLTgyMjMtODYxMjkwZGY3ODg2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.4,
+        "votes": 76882
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-18-1900-otvaranje-legata-bekima-fehmiua",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": null,
+     "label": "ОТВАРАЊЕ ЛЕГАТА БЕКИМА ФЕХМИУА",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-11-18-2000-avanture-odiseja",
+     "times": [
+      "20:00"
+     ],
+     "end": null,
+     "section": "БЕКИМ ФЕХМИУ – 90 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АВАНТУРЕ ОДИСЕЈА",
+       "original_title": "Le avventure di Ulisse",
+       "countries": [
+        "ИТА",
+        "ФРА"
+       ],
+       "year": 1968,
+       "kind": null,
+       "cast": "Беким Фехмиу, Ирена Папас (Irene Papas)",
+       "director": "Франко Роси (Franco Rossi)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-19-1700-tople-godine",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "БЕКИМ ФЕХМИУ – 90 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ТОПЛЕ ГОДИНЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1966,
+       "kind": null,
+       "cast": "Беким Фехмиу, Ана Матић, Душица Жегарац",
+       "director": "Драгослав Лазић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0181067",
+        "title": "Hot Years",
+        "year": 1966,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzhjMTQyNzktNDU0Yy00NWE3LThkMDItZDQ5NGYxYzI4MDY2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 61
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-19-1900-skupljaci-perja",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "БЕКИМ ФЕХМИУ – 90 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СКУПЉАЧИ ПЕРЈА",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1967,
+       "kind": null,
+       "cast": "Беким Фехмиу, Велимир Бата Живојиновић",
+       "director": "Александар Саша Петровић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0062277",
+        "title": "I Even Met Happy Gypsies",
+        "year": 1967,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDUwNmJlNDQtYWRhOC00NzFhLTk3NWUtM2UyNzdmNzMzYmIwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.6,
+        "votes": 2941
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-19-2100-avanturisti",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "БЕКИМ ФЕХМИУ – 90 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "АВАНТУРИСТИ",
+       "original_title": "The Adventurers",
+       "countries": [
+        "САД"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Шарл Азнавур (Charles Aznavour), Беким Фехмиу",
+       "director": "Луис Гилберт (Lewis Gilbert)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0065374",
+        "title": "The Adventurers",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDJlMzU1MmMtZjk3Mi00YTZjLWFlNGYtMjc0YTZkNDNhZTUzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 5.2,
+        "votes": 992
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-20-1700-specijalno-vaspitanje",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "БЕКИМ ФЕХМИУ – 90 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "СПЕЦИЈАЛНО ВАСПИТАЊЕ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1977,
+       "kind": null,
+       "cast": "Славко Штимац, Беким Фехмиу",
+       "director": "Горан Марковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0076744",
+        "title": "Special Education",
+        "year": 1977,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjQ2NjU5ZjItOTlhNi00YWY1LWFiNzEtOWQ4YjVmY2ZjMTdiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.3,
+        "votes": 2251
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-20-1900-pavle-pavlovic",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "БЕКИМ ФЕХМИУ – 90 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПАВЛЕ ПАВЛОВИЋ",
+       "original_title": null,
+       "countries": [
+        "ЈУГ"
+       ],
+       "year": 1975,
+       "kind": null,
+       "cast": "Милена Дравић, Беким Фехмиу",
+       "director": "Младомир Пуриша Ђорђевић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0170361",
+        "title": "Pavle Pavlovic",
+        "year": 1975,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzViZTEwM2QtNjAyYi00OTgwLWI4MDAtM2NmZWQ1ODA2YTQxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 110
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-20-2100-dezerter-prelaz-preko-djavoljeg",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "БЕКИМ ФЕХМИУ – 90 година од рођења",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДЕЗЕРТЕР / ПРЕЛАЗ ПРЕКО ЂАВОЉЕГ КЛАНЦА",
+       "original_title": "The Deserter / The Devil's Backbone",
+       "countries": [
+        "ИТА",
+        "ЈУГ"
+       ],
+       "year": 1970,
+       "kind": null,
+       "cast": "Беким Фехмиу, Ричард Крена (Richard Crenna)",
+       "director": "Берт Кенеди (Burt Kennedy)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt0066984",
+        "title": "The Devil's Backbone",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWRhZDMxZmMtMmU3ZS00ZjRiLTg4Y2YtNzU1MTNlNzMyM2MxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.3,
+        "votes": 588
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "notes": [
+    "32. ФЕСТИВАЛ АУТОРСКОГ ФИЛМА",
+    "Програм ће бити објављен накнадно."
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-11-22",
+   "notes": [
+    "32. ФЕСТИВАЛ АУТОРСКОГ ФИЛМА",
+    "Програм ће бити објављен накнадно."
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-11-23",
+   "notes": [
+    "32. ФЕСТИВАЛ АУТОРСКОГ ФИЛМА",
+    "Програм ће бити објављен накнадно."
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-11-24",
+   "notes": [
+    "32. ФЕСТИВАЛ АУТОРСКОГ ФИЛМА",
+    "Програм ће бити објављен накнадно."
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-11-25",
+   "notes": [
+    "32. ФЕСТИВАЛ АУТОРСКОГ ФИЛМА",
+    "Програм ће бити објављен накнадно."
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-11-26",
+   "notes": [
+    "32. ФЕСТИВАЛ АУТОРСКОГ ФИЛМА",
+    "Програм ће бити објављен накнадно."
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-11-27",
+   "notes": [
+    "32. ФЕСТИВАЛ АУТОРСКОГ ФИЛМА",
+    "Програм ће бити објављен накнадно."
+   ],
+   "slots": []
+  },
+  {
+   "date": "2026-11-28",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-28-1400-kratkometrazni-program-i-japan-i",
+     "times": [
+      "14:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": "Краткометражни програм I – Јапан и Србија",
+     "notes": [
+      "Након пројекција следи разговор с ауторима."
+     ],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-11-28-1600-kratkometrazni-program-ii-japan",
+     "times": [
+      "16:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": "Краткометражни програм II – Јапан и Србија",
+     "notes": [
+      "Након пројекција следи разговор с ауторима."
+     ],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-11-28-1845-svecano-otvaranje-13-japansko-sr",
+     "times": [
+      "18:45"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": "Свечано отварање 13. Јапанско-српског фестивала филма и манифестације Дани Јапана у организацији",
+     "notes": [
+      "Амбасаде Јапана"
+     ],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-11-28-1900-in-my-father-s-room",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "IN MY FATHER'S ROOM",
+       "original_title": null,
+       "countries": [
+        "ЈАП"
+       ],
+       "year": 2026,
+       "kind": null,
+       "cast": null,
+       "director": "Маха Харада (Maha Harada)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt43718418",
+        "title": "In My Father's Room",
+        "year": 2026,
+        "poster": null,
+        "rating": 8.2,
+        "votes": 15
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-29-1500-dani-japana-kamisibaj",
+     "times": [
+      "15:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": "Дани Јапана – камишибај",
+     "notes": [
+      "Уводно предавање о камишибају и три извођења"
+     ],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-11-29-1700-trophy",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "TROPHY",
+       "original_title": null,
+       "countries": [
+        "ЈАП"
+       ],
+       "year": 2026,
+       "kind": null,
+       "cast": null,
+       "director": "Мјунг-а Сон (Myung-ah Son)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt42778136",
+        "title": "Trophy",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTcyZTk2ZDQtYThjYS00YTRlLWI5MGEtM2ZkMGIwZmQ5Zjg4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.2,
+        "votes": 19
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-29-1700-jsff-intro-masterklas-sa-dva-red",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": "JSFF INTRO – мастерклас са два редитеља",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-11-29-1900-shadow-work",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "SHADOW WORK",
+       "original_title": null,
+       "countries": [
+        "ЈАП"
+       ],
+       "year": 2026,
+       "kind": null,
+       "cast": null,
+       "director": "Рјухеј Јошино (Ryûhei Yoshino)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt43507809",
+        "title": "Shadow Work",
+        "year": 2026,
+        "poster": null,
+        "rating": null,
+        "votes": null
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-29-2100-oce-nas",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ОЧЕ НАШ",
+       "original_title": null,
+       "countries": [
+        "СРБ"
+       ],
+       "year": 2025,
+       "kind": null,
+       "cast": "Вучић Перовић, Борис Исаковић",
+       "director": "Горан Станковић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt35375401",
+        "title": "Our Father",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDc0MDY1OTktYWY1YS00MTY1LWFjNDQtZmFjNDgxYjM3NzFkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 8.0,
+        "votes": 106
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-30",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-11-30-1400-predstava-restoran-sa-mnogo-naru",
+     "times": [
+      "14:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА – Дани Јапана",
+     "label": "Представа Ресторан са много наруџбина – Мијазава Кенџи",
+     "notes": [
+      "Изводи Драмска секција јапанолога"
+     ],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-11-30-1500-predavanje-prof-dr-dalibor-klick",
+     "times": [
+      "15:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА – Дани Јапана",
+     "label": "Предавање: проф. др Далибор Кличковић „Осмишљавање празнине: зен-будистичка поетика простора”",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-11-30-1600-predavanje-prof-dr-divna-trickov",
+     "times": [
+      "16:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА – Дани Јапана",
+     "label": "Предавање: проф. др Дивна Тричковић „Шта то има у празнини – из перспективе јапанског језика”",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-11-30-1700-why-wait-just-die",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА – Дани Јапана",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "WHY WAIT, JUST DIE",
+       "original_title": null,
+       "countries": [
+        "ЈАП"
+       ],
+       "year": 2026,
+       "kind": null,
+       "cast": null,
+       "director": "Џуничи Канај (Junichi Kanai)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    },
+    {
+     "id": "2026-11-30-1900-do-kraja-dana",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА – Дани Јапана",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ДО КРАЈА ДАНА",
+       "original_title": null,
+       "countries": [
+        "СРБ"
+       ],
+       "year": 2026,
+       "kind": null,
+       "cast": "Андрија Кривокапић, Лена Трифуновић",
+       "director": "Јелена Максимовић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt37919722",
+        "title": "Until the Day Ends",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTc1Njk0NzYtMzBhOC00NTVhLWJmNTEtN2MyYzE0ZDI0ZGUxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 6.5,
+        "votes": 32
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-11-30-2100-anymart",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА – Дани Јапана",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ANYMART",
+       "original_title": null,
+       "countries": [
+        "ЈАП"
+       ],
+       "year": 2026,
+       "kind": null,
+       "cast": null,
+       "director": "Јусуке Ивасаки (Yusuke Iwasaki)",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "notes": [],
+   "slots": [
+    {
+     "id": "2026-12-01-1400-dani-japana-ceremonija-caja",
+     "times": [
+      "14:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": "Дани Јапана – церемонија чаја",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-12-01-1500-predavanje-dunja-hil-feran-japan",
+     "times": [
+      "15:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": "Предавање: Дуња Хил Феран – „Јапански језик – оно што се не изговара”",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-12-01-1700-planina",
+     "times": [
+      "17:00"
+     ],
+     "end": null,
+     "section": "13. ЈАПАНСКО-СРПСКИ ФЕСТИВАЛ ФИЛМА",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "ПЛАНИНА",
+       "original_title": null,
+       "countries": [
+        "СРБ",
+        "ЦГ"
+       ],
+       "year": 2026,
+       "kind": "документарни филм",
+       "cast": null,
+       "director": "Биљана Туторов и Петар Гломазић",
+       "credits": [],
+       "extra": [],
+       "imdb": null
+      }
+     ]
+    },
+    {
+     "id": "2026-12-01-1900-program-animiranih-kratkih-filmo",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Мултимедијална сала",
+     "label": "Програм анимираних кратких филмова",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-12-01-1900-no-one-knows",
+     "times": [
+      "19:00"
+     ],
+     "end": null,
+     "section": "Мултимедијална сала",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "NO ONE KNOWS",
+       "original_title": null,
+       "countries": [
+        "ЈАП"
+       ],
+       "year": 2026,
+       "kind": null,
+       "cast": null,
+       "director": "Даики Киношита (Daiki Kinoshita)",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt45881135",
+        "title": "No One Knows",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGQzMzQ2NjQtNmVjMC00NzQ4LWFkNmUtM2JkZWZjNzY1NmJhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": null,
+        "votes": null
+       }
+      }
+     ]
+    },
+    {
+     "id": "2026-12-01-2030-svecano-zatvaranje-i-proglasenje",
+     "times": [
+      "20:30"
+     ],
+     "end": null,
+     "section": "Мултимедијална сала",
+     "label": "Свечано затварање и проглашење награда ЈСФФ",
+     "notes": [],
+     "credits": [],
+     "films": []
+    },
+    {
+     "id": "2026-12-01-2100-3-nedelje-posle",
+     "times": [
+      "21:00"
+     ],
+     "end": null,
+     "section": "Мултимедијална сала",
+     "label": null,
+     "notes": [],
+     "credits": [],
+     "films": [
+      {
+       "title": "3 НЕДЕЉЕ ПОСЛЕ",
+       "original_title": null,
+       "countries": [
+        "СРБ"
+       ],
+       "year": 2026,
+       "kind": null,
+       "cast": "Јован Гинић, Тихана Лазовић",
+       "director": "Мирослав Миша Терзић",
+       "credits": [],
+       "extra": [],
+       "imdb": {
+        "id": "tt35351269",
+        "title": "3 Weeks After",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDA4MDJkOTctY2Y4Yy00MDMxLTg2NGUtMjk3YzY1NGQxMmYzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+        "rating": 7.0,
+        "votes": 72
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "first_date": "2026-11-01",
+ "last_date": "2026-12-01",
+ "id": "2026-11",
+ "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/10/KINOTEKA_NOVEMBAR_2026_PROGRAM.pdf",
+ "source_page": "https://www.kinoteka.org.rs/repertoar-programi/",
+ "pdf_sha256": "f9b90760bc9c58032a2f7f2a449822f8c4483e7815b844e86997e4d4981cf2bd",
+ "parsed_at": "2026-10-31T18:54:41+00:00"
+}

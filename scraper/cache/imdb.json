@@ -15,6 +15,14 @@
   "type": "movie",
   "year": 1984
  },
+ "3 nedelje posle|2026": {
+  "checked": "2026-10-31",
+  "id": "tt35351269",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDA4MDJkOTctY2Y4Yy00MDMxLTg2NGUtMjk3YzY1NGQxMmYzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "3 Weeks After",
+  "type": "movie",
+  "year": 2026
+ },
  "africka kraljica|1951": {
   "checked": "2026-10-01",
   "id": "tt0043265",
@@ -63,6 +71,10 @@
   "type": "movie",
   "year": 1973
  },
+ "anymart|2026": {
+  "checked": "2026-10-31",
+  "id": null
+ },
  "arabeska|1966": {
   "checked": "2026-10-01",
   "id": "tt0060121",
@@ -95,6 +107,18 @@
   "type": "movie",
   "year": 1996
  },
+ "avanture odiseja|1968": {
+  "checked": "2026-10-31",
+  "id": null
+ },
+ "avanturisti|1970": {
+  "checked": "2026-10-31",
+  "id": "tt0065374",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDJlMzU1MmMtZjk3Mi00YTZjLWFlNGYtMjc0YTZkNDNhZTUzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Adventurers",
+  "type": "movie",
+  "year": 1970
+ },
  "avemarija|2025": {
   "checked": "2026-10-01",
   "id": "tt36283869",
@@ -122,6 +146,14 @@
  "baruma|2025": {
   "checked": "2026-10-01",
   "id": null
+ },
+ "bele noci|1957": {
+  "checked": "2026-10-31",
+  "id": "tt0050782",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjUwYzczMTctMzUzNC00ZmRiLTlkN2EtNjA5ZjRjMmQ3NmVlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "White Nights",
+  "type": "movie",
+  "year": 1957
  },
  "berlin kaput|1981": {
   "checked": "2026-10-01",
@@ -183,6 +215,14 @@
   "type": "movie",
   "year": 2025
  },
+ "bokaco 70 omnibus|1962": {
+  "checked": "2026-10-31",
+  "id": "tt0055805",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUxNmIxZGEtZjhkMC00NTFmLTllNGMtYmQ4YTE3NWExNWQ0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Boccaccio '70",
+  "type": "movie",
+  "year": 1962
+ },
  "bolje je umeti|1960": {
   "checked": "2026-10-01",
   "id": "tt0179685",
@@ -223,6 +263,14 @@
   "type": "movie",
   "year": 2008
  },
+ "carstvo cula|1976": {
+  "checked": "2026-10-31",
+  "id": "tt0074102",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJlYjVjMzgtM2U2OC00NDU4LTkyODUtOGY0NjBmMTI4NTQzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "In the Realm of the Senses",
+  "type": "movie",
+  "year": 1976
+ },
  "covek coveku|1970": {
   "checked": "2026-10-01",
   "id": "tt0238279",
@@ -250,6 +298,14 @@
   "title": "The Man Who Loved Women",
   "type": "movie",
   "year": 1977
+ },
+ "crni dani za strelca|1971": {
+  "checked": "2026-10-31",
+  "id": "tt0067134",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Q4M2E3MTYtYjI2Ni00ZWQwLTg4ZGMtZjFmNDI2YWI0YzQ4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Fifth Cord",
+  "type": "movie",
+  "year": 1971
  },
  "crveni gusar|1952": {
   "checked": "2026-10-01",
@@ -371,6 +427,14 @@
   "type": "movie",
   "year": 1976
  },
+ "dezerter prelaz preko djavoljeg klanca|1970": {
+  "checked": "2026-10-31",
+  "id": "tt0066984",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWRhZDMxZmMtMmU3ZS00ZjRiLTg4Y2YtNzU1MTNlNzMyM2MxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Devil's Backbone",
+  "type": "movie",
+  "year": 1970
+ },
  "dijamantska dzungla|1968": {
   "checked": "2026-10-01",
   "id": "tt0063429",
@@ -407,6 +471,14 @@
   "type": "movie",
   "year": 2012
  },
+ "divlji covek|1968": {
+  "checked": "2026-10-31",
+  "id": "tt0065032",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDc3NjgyZDItN2EzYi00ZDg3LThjMjItYmIyYzI4YWJlM2JkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Stalking Moon",
+  "type": "movie",
+  "year": 1968
+ },
  "divlji u srcu|1990": {
   "checked": "2026-10-01",
   "id": "tt0100935",
@@ -421,6 +493,14 @@
   "poster": null,
   "title": "Divlji",
   "type": "short",
+  "year": 2026
+ },
+ "do kraja dana|2026": {
+  "checked": "2026-10-31",
+  "id": "tt37919722",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTc1Njk0NzYtMzBhOC00NTVhLWJmNTEtN2MyYzE0ZDI0ZGUxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Until the Day Ends",
+  "type": "movie",
   "year": 2026
  },
  "dobra kob|1964": {
@@ -526,6 +606,14 @@
   "title": "The Road Warrior",
   "type": "movie",
   "year": 1981
+ },
+ "drvo zivota|1957": {
+  "checked": "2026-10-31",
+  "id": "tt0050882",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDZkZjYxNjktN2Y5Mi00ZmY1LWEzNWMtNzQ0YTk0NmYwMzQ4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Raintree County",
+  "type": "movie",
+  "year": 1957
  },
  "drvo zivota|2011": {
   "checked": "2026-10-01",
@@ -635,6 +723,22 @@
   "checked": "2026-10-01",
   "id": null
  },
+ "furija|2025": {
+  "checked": "2026-10-31",
+  "id": "tt37045716",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYThiNDQxODgtOTFlNi00MTBiLThlMDktYmM3NjlmODA3ZjRlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Furia",
+  "type": "tvMiniSeries",
+  "year": 2025
+ },
+ "gepard|1963": {
+  "checked": "2026-10-31",
+  "id": "tt0057091",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNiYThjOGMtOTZlYy00Y2Q0LTk5MjQtYTRkNzU2OTA2OWQ1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Leopard",
+  "type": "movie",
+  "year": 1963
+ },
  "glasna tisina mog grada|2026": {
   "checked": "2026-10-01",
   "id": null
@@ -706,6 +810,14 @@
   "title": "L'oratore",
   "type": "movie",
   "year": 2026
+ },
+ "gran pri|1966": {
+  "checked": "2026-10-31",
+  "id": "tt0060472",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTA2NzQzYWQtY2FlZi00ODFiLTgyOTctY2RmNjE4YTcwMjg5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Grand Prix",
+  "type": "movie",
+  "year": 1966
  },
  "grejstok legenda o tarzanu|1984": {
   "checked": "2026-10-01",
@@ -831,6 +943,14 @@
   "type": "short",
   "year": 1971
  },
+ "in my father s room|2026": {
+  "checked": "2026-10-31",
+  "id": "tt43718418",
+  "poster": null,
+  "title": "In My Father's Room",
+  "type": "movie",
+  "year": 2026
+ },
  "iscelitelj|1998": {
   "checked": "2026-10-01",
   "id": "tt0119314",
@@ -846,6 +966,14 @@
   "title": "Suddenly, Last Summer",
   "type": "movie",
   "year": 1959
+ },
+ "jakuza|1974": {
+  "checked": "2026-10-31",
+  "id": "tt0073918",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTM4YjFkMDQtNWJkNC00MDk0LTg2YjktZTViZmIzNzQ5MjZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Yakuza",
+  "type": "movie",
+  "year": 1974
  },
  "jimmy somerville smalltown boy|": {
   "checked": "2026-10-01",
@@ -875,6 +1003,14 @@
   "type": "movie",
   "year": 2021
  },
+ "ka nepoznatom|1957": {
+  "checked": "2026-10-31",
+  "id": "tt0251742",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQwMDM2N2YtMzlkMi00MjgyLWE5MDAtMDQwZmRmMmM2Zjc3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Where To?",
+  "type": "movie",
+  "year": 1957
+ },
  "kad cujes zvona|1969": {
   "checked": "2026-10-01",
   "id": "tt0064529",
@@ -882,6 +1018,14 @@
   "title": "When You Hear the Bells",
   "type": "movie",
   "year": 1969
+ },
+ "kad je hari sreo sali|1989": {
+  "checked": "2026-10-31",
+  "id": "tt0098635",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_QL75_UX300_.jpg",
+  "title": "When Harry Met Sally...",
+  "type": "movie",
+  "year": 1989
  },
  "kako je ovde tako zeleno|2025": {
   "checked": "2026-10-01",
@@ -979,6 +1123,14 @@
   "type": "movie",
   "year": 1988
  },
+ "ko ste vi gospodine zorge|1960": {
+  "checked": "2026-10-31",
+  "id": "tt0055350",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTEzNDZjN2QtNGZhNy00YWFjLTg1MWMtODhiY2I0NWRmOWE0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Qui êtes-vous, Monsieur Sorge?",
+  "type": "movie",
+  "year": 1961
+ },
  "ko to tamo peva|1980": {
   "checked": "2026-10-01",
   "id": "tt0076276",
@@ -1062,6 +1214,14 @@
   "title": "The Prince and the Pauper",
   "type": "movie",
   "year": 1937
+ },
+ "krvavi opijum|1972": {
+  "checked": "2026-10-31",
+  "id": "tt0068179",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzgzNjVkOTgtZmRkZC00MjgxLTlhM2YtZDkxZTUyY2RkOGRhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Sicilian Connection",
+  "type": "movie",
+  "year": 1972
  },
  "kum|1972": {
   "checked": "2026-10-01",
@@ -1211,6 +1371,22 @@
   "type": "movie",
   "year": 1964
  },
+ "ljubav na pesku|1965": {
+  "checked": "2026-10-31",
+  "id": "tt0059674",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQ2MjVjZWUtMzU3Yy00ZDFjLWFmZjctZGM1MTBjOWNhNGFmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Sandpiper",
+  "type": "movie",
+  "year": 1965
+ },
+ "ljubav u senci piramida|1965": {
+  "checked": "2026-10-31",
+  "id": "tt0184511",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MjQ2ZGUtNzQ2MS00OGVjLWJmMjgtNzMxZjY4ODg2MDQ3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Love in Karnak",
+  "type": "movie",
+  "year": 1967
+ },
  "ljubavna prica|1970": {
   "checked": "2026-10-01",
   "id": "tt0066011",
@@ -1306,6 +1482,14 @@
   "title": "Cape Fear",
   "type": "movie",
   "year": 1962
+ },
+ "maratonac|1976": {
+  "checked": "2026-10-31",
+  "id": "tt0074860",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTFlOWU2NTItNDlmMS00MmZhLTgyMjMtODYxMjkwZGY3ODg2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Marathon Man",
+  "type": "movie",
+  "year": 1976
  },
  "marko belokio vrata ka stvarnosti|2026": {
   "checked": "2026-10-01",
@@ -1427,6 +1611,14 @@
   "type": "movie",
   "year": 1953
  },
+ "na dokovima njujorka|1954": {
+  "checked": "2026-10-31",
+  "id": "tt0047296",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "On the Waterfront",
+  "type": "movie",
+  "year": 1954
+ },
  "na drugoj strani leta|2025": {
   "checked": "2026-10-01",
   "id": "tt37538828",
@@ -1519,6 +1711,10 @@
   "type": "movie",
   "year": 1961
  },
+ "nema vremena za strah|2026": {
+  "checked": "2026-10-31",
+  "id": null
+ },
  "nemoralne kaludjerice|1978": {
   "checked": "2026-10-01",
   "id": "tt0076200",
@@ -1526,6 +1722,14 @@
   "title": "Behind Convent Walls",
   "type": "movie",
   "year": 1978
+ },
+ "nepoznata zena|1959": {
+  "checked": "2026-10-31",
+  "id": "tt0359714",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNTg3MDMtMmFlNC00ZTMwLWE1OTEtYThmZDE0OTFiMzk1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Al Mara'a Al Maghoula",
+  "type": "movie",
+  "year": 1959
  },
  "nesreca|1967": {
   "checked": "2026-10-01",
@@ -1542,6 +1746,14 @@
   "title": "Invincibles",
   "type": "movie",
   "year": 2025
+ },
+ "nevino uljez|1976": {
+  "checked": "2026-10-31",
+  "id": "tt0074686",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmZhZTlkNmMtYzJjMi00NWZkLThiZTYtOTNkYTU2ODQwZWRjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Innocent",
+  "type": "movie",
+  "year": 1976
  },
  "nikolas filibert u ratu u ljubavi|1970": {
   "checked": "2026-10-01",
@@ -1566,6 +1778,14 @@
   "title": "Basic Instinct",
   "type": "movie",
   "year": 1992
+ },
+ "no one knows|2026": {
+  "checked": "2026-10-31",
+  "id": "tt45881135",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQzMzQ2NjQtNmVjMC00NzQ4LWFkNmUtM2JkZWZjNzY1NmJhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "No One Knows",
+  "type": "movie",
+  "year": 2026
  },
  "noc iguane|1964": {
   "checked": "2026-10-01",
@@ -1635,6 +1855,14 @@
   "type": "movie",
   "year": 1940
  },
+ "oce nas|2025": {
+  "checked": "2026-10-31",
+  "id": "tt35375401",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc0MDY1OTktYWY1YS00MTY1LWFjNDQtZmFjNDgxYjM3NzFkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Our Father",
+  "type": "movie",
+  "year": 2025
+ },
  "ocevi|2025": {
   "checked": "2026-10-01",
   "id": null
@@ -1662,6 +1890,14 @@
   "title": "The Bet",
   "type": "movie",
   "year": 1971
+ },
+ "opsesija demonski ljubavnici|1942": {
+  "checked": "2026-10-31",
+  "id": "tt0035160",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTZiMjU3NGUtY2I4ZC00OGUyLThkODYtYjEzYTQxNzJiMjA1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Obsession",
+  "type": "movie",
+  "year": 1943
  },
  "oskar|1991": {
   "checked": "2026-10-01",
@@ -1783,6 +2019,14 @@
   "type": "movie",
   "year": 2001
  },
+ "parnjaca|1979": {
+  "checked": "2026-10-31",
+  "id": "tt0160641",
+  "poster": null,
+  "title": "Parnjaca",
+  "type": "tvShort",
+  "year": 1979
+ },
  "partizani|1974": {
   "checked": "2026-10-01",
   "id": "tt0071973",
@@ -1796,6 +2040,14 @@
   "id": "tt0072890",
   "poster": "https://m.media-amazon.com/images/M/MV5BY2RjNTg2ODMtZWQ4NC00MDdhLWE4MDgtMWFjMjI4ZTIxMGY4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
   "title": "Dog Day Afternoon",
+  "type": "movie",
+  "year": 1975
+ },
+ "pavle pavlovic|1975": {
+  "checked": "2026-10-31",
+  "id": "tt0170361",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzViZTEwM2QtNjAyYi00OTgwLWI4MDAtM2NmZWQ1ODA2YTQxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Pavle Pavlovic",
   "type": "movie",
   "year": 1975
  },
@@ -1842,6 +2094,18 @@
   "title": "Planinata na gnevot",
   "type": "movie",
   "year": 1968
+ },
+ "planina|2026": {
+  "checked": "2026-10-31",
+  "id": null
+ },
+ "plavi somot|1986": {
+  "checked": "2026-10-31",
+  "id": "tt0090756",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Blue Velvet",
+  "type": "movie",
+  "year": 1986
  },
  "plaza|2000": {
   "checked": "2026-10-01",
@@ -1996,6 +2260,14 @@
   "type": "movie",
   "year": 1976
  },
+ "povratak supermena|2006": {
+  "checked": "2026-10-31",
+  "id": "tt0348150",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjg1ZGRiMTEtYmU4Zi00NTkwLWJmODQtMjU3MTAyMGQ2OGZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Superman Returns",
+  "type": "movie",
+  "year": 2006
+ },
  "praznik u rimu|1953": {
   "checked": "2026-10-01",
   "id": "tt0046250",
@@ -2128,6 +2400,14 @@
   "type": "movie",
   "year": 1968
  },
+ "rasomon|1950": {
+  "checked": "2026-10-31",
+  "id": "tt0042876",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_QL75_UX300_.jpg",
+  "title": "Rashomon",
+  "type": "movie",
+  "year": 1950
+ },
  "razbesnelo more|1959": {
   "checked": "2026-10-01",
   "id": "tt0052582",
@@ -2188,6 +2468,14 @@
   "type": "movie",
   "year": 1966
  },
+ "roko i njegova braca|1960": {
+  "checked": "2026-10-31",
+  "id": "tt0054248",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTkyMjczYWUtZjFiMi00YWNlLWJlYjctNzc3YmM5YjVhY2UyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Rocco and His Brothers",
+  "type": "movie",
+  "year": 1960
+ },
  "romerija|2025": {
   "checked": "2026-10-01",
   "id": "tt32538648",
@@ -2195,6 +2483,14 @@
   "title": "Romería",
   "type": "movie",
   "year": 2025
+ },
+ "rusi dolaze|1966": {
+  "checked": "2026-10-31",
+  "id": "tt0060921",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjFjYzViMjctZDI1ZS00ZTAwLWEyYzktMzU3NzQ0ZmFiZjA3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Russians Are Coming the Russians Are Coming",
+  "type": "movie",
+  "year": 1966
  },
  "ruski konzul|2024": {
   "checked": "2026-10-01",
@@ -2236,6 +2532,14 @@
   "type": "movie",
   "year": 1966
  },
+ "sarlotina mreza|1973": {
+  "checked": "2026-10-31",
+  "id": "tt0070016",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjhlYjU1NmEtZWZmNy00ZWZiLWJjZjktZmM3MjczOWE5MjIyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Charlotte's Web",
+  "type": "movie",
+  "year": 1973
+ },
  "saucesnici|2026": {
   "checked": "2026-10-01",
   "id": "tt35421050",
@@ -2268,6 +2572,14 @@
   "type": "movie",
   "year": 1994
  },
+ "senso|1954": {
+  "checked": "2026-10-31",
+  "id": "tt0047469",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmNmOWIxZDUtODJmNi00Y2ZjLWJjYTUtNWYzMzVhN2U3MTZhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Senso",
+  "type": "movie",
+  "year": 1954
+ },
  "serife ovo je zemlja nasilja|1970": {
   "checked": "2026-10-01",
   "id": "tt0065874",
@@ -2284,6 +2596,14 @@
   "type": "movie",
   "year": 1985
  },
+ "sever severozapad|1959": {
+  "checked": "2026-10-31",
+  "id": "tt0053125",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "North by Northwest",
+  "type": "movie",
+  "year": 1959
+ },
  "sezona mira u parizu|1981": {
   "checked": "2026-10-01",
   "id": "tt0083059",
@@ -2291,6 +2611,14 @@
   "title": "Sezona mira u Parizu",
   "type": "movie",
   "year": 1981
+ },
+ "shadow work|2026": {
+  "checked": "2026-10-31",
+  "id": "tt43507809",
+  "poster": null,
+  "title": "Shadow Work",
+  "type": "movie",
+  "year": 2026
  },
  "silom otac|1969": {
   "checked": "2026-10-01",
@@ -2323,6 +2651,14 @@
   "title": "Do You Remember Dolly Bell?",
   "type": "movie",
   "year": 1981
+ },
+ "skandali jedne ledi|1972": {
+  "checked": "2026-10-31",
+  "id": "tt0068827",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzdiNTljZDctNjY5MC00YTA2LWIyYzMtZjBlYThlNjgyMzEyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Lady Caroline Lamb",
+  "type": "movie",
+  "year": 1972
  },
  "skupljaci perja|1967": {
   "checked": "2026-10-01",
@@ -2380,6 +2716,14 @@
   "type": "movie",
   "year": 1952
  },
+ "snovi zlocina|1971": {
+  "checked": "2026-10-31",
+  "id": "tt0067361",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWI4MjM2ZGItNmE3NC00YTYyLWIwZDktMzhjMmRkMWFhNDNhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "A Lizard in a Woman's Skin",
+  "type": "movie",
+  "year": 1971
+ },
  "sok od sljiva|1981": {
   "checked": "2026-10-01",
   "id": "tt0083103",
@@ -2395,6 +2739,14 @@
   "title": "Savior",
   "type": "movie",
   "year": 1998
+ },
+ "specijalno vaspitanje|1977": {
+  "checked": "2026-10-31",
+  "id": "tt0076744",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ2NjU5ZjItOTlhNi00YWY1LWFiNzEtOWQ4YjVmY2ZjMTdiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Special Education",
+  "type": "movie",
+  "year": 1977
  },
  "srce kuca dva dva|2026": {
   "checked": "2026-10-01",
@@ -2436,6 +2788,14 @@
   "type": "movie",
   "year": 1967
  },
+ "strasne price|1964": {
+  "checked": "2026-10-31",
+  "id": "tt0058279",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTYwYmVkNzktMzA0My00NmYyLTg3ZjktYjFlMDVlNzEwN2I0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Kwaidan",
+  "type": "movie",
+  "year": 1964
+ },
  "strava u ulici brestova 3 ratnici snova|1987": {
   "checked": "2026-10-01",
   "id": "tt0093629",
@@ -2455,6 +2815,14 @@
  "sudbine|1978": {
   "checked": "2026-10-01",
   "id": null
+ },
+ "sumrak bogova|1969": {
+  "checked": "2026-10-31",
+  "id": "tt0064118",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGVhZDhmZjAtYTg5MC00ODhlLWIyNjktOWJjOWY5ZDE0N2JiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "The Damned",
+  "type": "movie",
+  "year": 1969
  },
  "sunce mamino|2023": {
   "checked": "2026-10-01",
@@ -2507,6 +2875,22 @@
   "title": "World Trade Center",
   "type": "movie",
   "year": 2006
+ },
+ "svi predsednikovi ljudi|1976": {
+  "checked": "2026-10-31",
+  "id": "tt0074119",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQzMzcwMDYtMmNjNS00YzZlLTg2MjUtNTE0MThlNTFjMDQ0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "All the President's Men",
+  "type": "movie",
+  "year": 1976
+ },
+ "svirepo nezne|1970": {
+  "checked": "2026-10-31",
+  "id": "tt0066980",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjU1M2U3ZDAtNTgyZi00Y2EzLThmMDctMzhmZGZiOWI1M2ZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Queens of Evil",
+  "type": "movie",
+  "year": 1970
  },
  "tacka prekida|1991": {
   "checked": "2026-10-01",
@@ -2616,6 +3000,14 @@
   "type": "movie",
   "year": 1986
  },
+ "tople godine|1966": {
+  "checked": "2026-10-31",
+  "id": "tt0181067",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzhjMTQyNzktNDU0Yy00NWE3LThkMDItZDQ5NGYxYzI4MDY2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Hot Years",
+  "type": "movie",
+  "year": 1966
+ },
  "tragovi crne devojke|1972": {
   "checked": "2026-10-01",
   "id": "tt0180258",
@@ -2660,9 +3052,25 @@
   "type": "movie",
   "year": 1958
  },
+ "trophy|2026": {
+  "checked": "2026-10-31",
+  "id": "tt42778136",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTcyZTk2ZDQtYThjYS00YTRlLWI5MGEtM2ZkMGIwZmQ5Zjg4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Trophy",
+  "type": "movie",
+  "year": 2026
+ },
  "trumpet girls|": {
   "checked": "2026-10-01",
   "id": null
+ },
+ "tv mreza|1976": {
+  "checked": "2026-10-31",
+  "id": "tt0074958",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Network",
+  "type": "movie",
+  "year": 1976
  },
  "u zenitu sunca|1960": {
   "checked": "2026-10-01",
@@ -2671,6 +3079,14 @@
   "title": "Purple Noon",
   "type": "movie",
   "year": 1960
+ },
+ "ubica stoleca|1973": {
+  "checked": "2026-10-31",
+  "id": "tt0070720",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU1ZjIyNTEtMmE1My00Mzg1LWFiZmMtYjUxNmY4YzRkNzVjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Sono stato io!",
+  "type": "movie",
+  "year": 1973
  },
  "ubiti pticu rugalicu|1962": {
   "checked": "2026-10-01",
@@ -2816,6 +3232,10 @@
   "type": "movie",
   "year": 1994
  },
+ "why wait just die|2026": {
+  "checked": "2026-10-31",
+  "id": null
+ },
  "za milion godina|2025": {
   "checked": "2026-10-01",
   "id": "tt44982437",
@@ -2855,6 +3275,14 @@
   "title": "Zategni dele",
   "type": "short",
   "year": 1970
+ },
+ "zatvoreni porodicni krug|1974": {
+  "checked": "2026-10-31",
+  "id": "tt0071585",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzczYzljMmItNWZmNi00ZjBmLWJkZTktYTY2MDc2M2MyNWY4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "title": "Conversation Piece",
+  "type": "movie",
+  "year": 1974
  },
  "zgodna zena|1990": {
   "checked": "2026-10-01",

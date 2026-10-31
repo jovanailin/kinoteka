@@ -35,6 +35,15 @@
    "file": "programs/2026-10.json",
    "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/10/KINOTEKA_OKTOBAR_2026_PROGRAM.pdf",
    "parsed_at": "2026-10-07T13:28:18+00:00"
+  },
+  {
+   "id": "2026-11",
+   "title": "ЈУГОСЛОВЕНСКА КИНОТЕКА – НОВЕМБАР 2026.",
+   "first_date": "2026-11-01",
+   "last_date": "2026-12-01",
+   "file": "programs/2026-11.json",
+   "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/10/KINOTEKA_NOVEMBAR_2026_PROGRAM.pdf",
+   "parsed_at": "2026-10-31T18:54:41+00:00"
   }
  ]
 }
