@@ -9,7 +9,7 @@ Sve je besplatno i ne traži server ni API ključeve:
 | Deo | Gde radi | Šta radi |
 |---|---|---|
 | `site/` | GitHub Pages | statična stranica (HTML/CSS/JS, bez build koraka) |
-| `scraper/` | GitHub Actions, svaka 3 sata | nalazi dugme „МЕСЕЧНИ ПРОГРАМ”, preuzima PDF, parsira ga, dodaje IMDb podatke i upisuje `site/data/*.json` |
+| `scraper/` | GitHub Actions, svaka 3 sata | nalazi najnoviji mesečni PDF (dugme „МЕСЕЧНИ ПРОГРАМ” ili, ako ono kasni, lista otpremljenih fajlova), preuzima ga, parsira, dodaje IMDb podatke i upisuje `site/data/*.json` |
 | `apps-script/Code.gs` | Google Apps Script (tvoj Google nalog) | čuva prijave za obaveštenja u Google tabeli i jednom na sat šalje emailove |
 
 Kad Kinoteka objavi novi PDF (ili ispravi postojeći), stranica se sama osveži u roku od ~3 sata.

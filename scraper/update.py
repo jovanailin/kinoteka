@@ -28,6 +28,10 @@ CACHE = ROOT / "scraper" / "cache"
 STATE_PATH = CACHE / "state.json"
 OVERRIDES_PATH = ROOT / "scraper" / "imdb_overrides.json"
 PAGE_URL = "https://www.kinoteka.org.rs/repertoar-programi/"
+MEDIA_URL = "https://www.kinoteka.org.rs/wp-json/wp/v2/media?mime_type=application/pdf&per_page=20"
+# main program only: other halls (KINOTEKA_UZUN-MIRKOVA_JUN_2025_PROGRAM.pdf) and festivals have their own PDFs
+MONTHLY_PDF_RE = re.compile(r"/kinoteka_(januar|februar|mart|april|maj|jun|jul|leto|avgust|septembar|oktobar|novembar"
+                            r"|decembar)_\d{2,4}_program(-\d+)?\.pdf$")
 PARSER_VERSION = 1  # bump to re-parse the current PDF after parser changes
 RATINGS_EVERY_DAYS = 7
 
@@ -60,7 +64,7 @@ def write_json(path: Path, data, compact: bool = False) -> bool:
     return True
 
 
-def find_pdf_url(html: str) -> str:
+def button_pdf_url(html: str) -> str | None:
     for m in re.finditer(r'<a\b[^>]*href="([^"]+\.pdf)"[^>]*>(.*?)</a>', html, re.S | re.I):
         if "mesecni program" in fold(re.sub(r"<[^>]+>", " ", m.group(2))):
             return urljoin(PAGE_URL, m.group(1))
@@ -68,6 +72,28 @@ def find_pdf_url(html: str) -> str:
     for url in re.findall(r'href="([^"]+\.pdf)"', html, re.I):
         if re.search(r"kinoteka[^/]*program", url, re.I):
             return urljoin(PAGE_URL, url)
+    return None
+
+
+def uploaded_pdf_urls() -> list[str]:
+    """PDFs in the site's media library, newest first. Empty if the listing is unavailable."""
+    try:
+        return [m["source_url"] for m in get(MEDIA_URL).json()]
+    except (requests.RequestException, ValueError, KeyError, TypeError) as e:
+        log("  lista otpremljenih PDF-ova nije dostupna:", e)
+        return []
+
+
+def find_pdf_url(html: str) -> str:
+    """The button's PDF, or a monthly PDF uploaded after it: the button can lag behind the upload by days."""
+    button = button_pdf_url(html)
+    for url in uploaded_pdf_urls():
+        if url == button:
+            break
+        if MONTHLY_PDF_RE.search(fold(url)):
+            return url
+    if button:
+        return button
     raise RuntimeError(f"Na stranici {PAGE_URL} nije pronađen link ka mesečnom programu (PDF).")
 
 
