@@ -37,7 +37,7 @@
         "year": 1970,
         "poster": "https://m.media-amazon.com/images/M/MV5BZjU1M2U3ZDAtNTgyZi00Y2EzLThmMDctMzhmZGZiOWI1M2ZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 5.9,
-        "votes": 724
+        "votes": 725
        }
       }
      ]
@@ -73,7 +73,7 @@
         "year": 1971,
         "poster": "https://m.media-amazon.com/images/M/MV5BOWI4MjM2ZGItNmE3NC00YTYyLWIwZDktMzhjMmRkMWFhNDNhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 6.8,
-        "votes": 6742
+        "votes": 6744
        }
       }
      ]
@@ -107,7 +107,7 @@
         "year": 1971,
         "poster": "https://m.media-amazon.com/images/M/MV5BM2Q4M2E3MTYtYjI2Ni00ZWQwLTg4ZGMtZjFmNDI2YWI0YzQ4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 6.6,
-        "votes": 3150
+        "votes": 3151
        }
       }
      ]
@@ -257,7 +257,7 @@
         "year": 1986,
         "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.7,
-        "votes": 250670
+        "votes": 250723
        }
       }
      ]
@@ -291,7 +291,7 @@
         "year": 1974,
         "poster": "https://m.media-amazon.com/images/M/MV5BZTM4YjFkMDQtNWJkNC00MDk0LTg2YjktZTViZmIzNzQ5MjZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.2,
-        "votes": 11890
+        "votes": 11894
        }
       }
      ]
@@ -325,7 +325,7 @@
         "year": 1964,
         "poster": "https://m.media-amazon.com/images/M/MV5BYTYwYmVkNzktMzA0My00NmYyLTg3ZjktYjFlMDVlNzEwN2I0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.9,
-        "votes": 23633
+        "votes": 23658
        }
       }
      ]
@@ -526,10 +526,24 @@
         "year": 1954,
         "poster": "https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 8.1,
-        "votes": 182185
+        "votes": 182251
        }
       }
      ]
+    },
+    {
+     "id": "2026-11-06-1800-promocija-knjige-telo-i-film-pre",
+     "times": [
+      "18:00"
+     ],
+     "end": null,
+     "section": "Мултимедијална сала",
+     "label": "Промоција књиге „Тело и филм - презентација тела у доба потрошачког друштва“ (ФЦС, 2026 ), аутора",
+     "notes": [
+      "Салија С. Салинија. О књизи говоре Мирољуб Стојановић, Владимир Ђурић и аутор."
+     ],
+     "credits": [],
+     "films": []
     },
     {
      "id": "2026-11-06-1900-nema-vremena-za-strah",
@@ -587,7 +601,7 @@
         "year": 1959,
         "poster": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 8.2,
-        "votes": 373039
+        "votes": 373083
        }
       }
      ]
@@ -627,7 +641,7 @@
         "year": 1966,
         "poster": "https://m.media-amazon.com/images/M/MV5BYjFjYzViMjctZDI1ZS00ZTAwLWEyYzktMzU3NzQ0ZmFiZjA3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.0,
-        "votes": 11411
+        "votes": 11413
        }
       }
      ]
@@ -661,7 +675,7 @@
         "year": 1965,
         "poster": "https://m.media-amazon.com/images/M/MV5BMWQ2MjVjZWUtMzU3Yy00ZDFjLWFmZjctZGM1MTBjOWNhNGFmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 6.3,
-        "votes": 4280
+        "votes": 4283
        }
       }
      ]
@@ -695,7 +709,7 @@
         "year": 1957,
         "poster": "https://m.media-amazon.com/images/M/MV5BMDZkZjYxNjktN2Y5Mi00ZmY1LWEzNWMtNzQ0YTk0NmYwMzQ4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 6.3,
-        "votes": 4906
+        "votes": 4908
        }
       }
      ]
@@ -735,7 +749,7 @@
         "year": 1989,
         "poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_QL75_UX300_.jpg",
         "rating": 7.7,
-        "votes": 277366
+        "votes": 277463
        }
       }
      ]
@@ -770,7 +784,7 @@
         "year": 2006,
         "poster": "https://m.media-amazon.com/images/M/MV5BMjg1ZGRiMTEtYmU4Zi00NTkwLWJmODQtMjU3MTAyMGQ2OGZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 6.1,
-        "votes": 305504
+        "votes": 305526
        }
       }
      ]
@@ -804,7 +818,7 @@
         "year": 1968,
         "poster": "https://m.media-amazon.com/images/M/MV5BMDc3NjgyZDItN2EzYi00ZDg3LThjMjItYmIyYzI4YWJlM2JkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 6.6,
-        "votes": 3735
+        "votes": 3739
        }
       }
      ]
@@ -838,7 +852,7 @@
         "year": 1966,
         "poster": "https://m.media-amazon.com/images/M/MV5BNTA2NzQzYWQtY2FlZi00ODFiLTgyOTctY2RmNjE4YTcwMjg5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.2,
-        "votes": 12366
+        "votes": 12372
        }
       }
      ]
@@ -879,7 +893,7 @@
         "year": 1957,
         "poster": "https://m.media-amazon.com/images/M/MV5BYjUwYzczMTctMzUzNC00ZmRiLTlkN2EtNjA5ZjRjMmQ3NmVlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.7,
-        "votes": 10590
+        "votes": 10593
        }
       }
      ]
@@ -913,7 +927,7 @@
         "year": 1954,
         "poster": "https://m.media-amazon.com/images/M/MV5BZmNmOWIxZDUtODJmNi00Y2ZjLWJjYTUtNWYzMzVhN2U3MTZhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.4,
-        "votes": 10220
+        "votes": 10222
        }
       }
      ]
@@ -947,7 +961,7 @@
         "year": 1943,
         "poster": "https://m.media-amazon.com/images/M/MV5BYTZiMjU3NGUtY2I4ZC00OGUyLThkODYtYjEzYTQxNzJiMjA1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.5,
-        "votes": 9174
+        "votes": 9176
        }
       }
      ]
@@ -988,7 +1002,7 @@
         "year": 1960,
         "poster": "https://m.media-amazon.com/images/M/MV5BOTkyMjczYWUtZjFiMi00YWNlLWJlYjctNzc3YmM5YjVhY2UyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 8.2,
-        "votes": 26264
+        "votes": 26273
        }
       }
      ]
@@ -1023,7 +1037,7 @@
         "year": 1962,
         "poster": "https://m.media-amazon.com/images/M/MV5BMjUxNmIxZGEtZjhkMC00NTFmLTllNGMtYmQ4YTE3NWExNWQ0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.0,
-        "votes": 5747
+        "votes": 5748
        }
       }
      ]
@@ -1063,7 +1077,7 @@
         "year": 1976,
         "poster": "https://m.media-amazon.com/images/M/MV5BZGQzMzcwMDYtMmNjNS00YzZlLTg2MjUtNTE0MThlNTFjMDQ0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.9,
-        "votes": 140016
+        "votes": 140056
        }
       }
      ]
@@ -1139,7 +1153,7 @@
         "year": 1965,
         "poster": "https://m.media-amazon.com/images/M/MV5BMzdhNjNlNTgtZWJkZS00MWI0LWI1NGYtYjA0MGZkNTgyNjUxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.1,
-        "votes": 2618
+        "votes": 2621
        }
       }
      ]
@@ -1174,7 +1188,7 @@
         "year": 1963,
         "poster": "https://m.media-amazon.com/images/M/MV5BODNiYThjOGMtOTZlYy00Y2Q0LTk5MjQtYTRkNzU2OTA2OWQ1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.9,
-        "votes": 35214
+        "votes": 35221
        }
       }
      ]
@@ -1215,7 +1229,7 @@
         "year": 1969,
         "poster": "https://m.media-amazon.com/images/M/MV5BZGVhZDhmZjAtYTg5MC00ODhlLWIyNjktOWJjOWY5ZDE0N2JiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.4,
-        "votes": 11167
+        "votes": 11171
        }
       }
      ]
@@ -1250,7 +1264,7 @@
         "year": 1971,
         "poster": "https://m.media-amazon.com/images/M/MV5BYWQ3ODc3ODctZjc0Ni00MWVkLWIzZjAtNDA1OGU2N2VkNzAxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.3,
-        "votes": 25340
+        "votes": 25348
        }
       }
      ]
@@ -1295,7 +1309,7 @@
         "year": 1973,
         "poster": "https://m.media-amazon.com/images/M/MV5BZjhlYjU1NmEtZWZmNy00ZWZiLWJjZjktZmM3MjczOWE5MjIyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 6.9,
-        "votes": 23160
+        "votes": 23165
        }
       }
      ]
@@ -1329,7 +1343,7 @@
         "year": 1967,
         "poster": "https://m.media-amazon.com/images/M/MV5BYWE3MDQzMTgtMGYyNS00ZTc0LWJkOTAtNjIzMjkzYzQyYTk3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.1,
-        "votes": 3807
+        "votes": 3808
        }
       }
      ]
@@ -1364,7 +1378,7 @@
         "year": 1974,
         "poster": "https://m.media-amazon.com/images/M/MV5BMzczYzljMmItNWZmNi00ZjBmLWJkZTktYTY2MDc2M2MyNWY4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.3,
-        "votes": 5916
+        "votes": 5919
        }
       }
      ]
@@ -1439,7 +1453,7 @@
         "year": 1976,
         "poster": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 8.0,
-        "votes": 188653
+        "votes": 188676
        }
       }
      ]
@@ -1475,7 +1489,7 @@
         "year": 1950,
         "poster": "https://m.media-amazon.com/images/M/MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_QL75_UX300_.jpg",
         "rating": 8.1,
-        "votes": 199487
+        "votes": 199523
        }
       }
      ]
@@ -1516,7 +1530,7 @@
         "year": 1976,
         "poster": "https://m.media-amazon.com/images/M/MV5BZmJlYjVjMzgtM2U2OC00NDU4LTkyODUtOGY0NjBmMTI4NTQzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 6.6,
-        "votes": 25683
+        "votes": 25691
        }
       }
      ]
@@ -1584,7 +1598,7 @@
         "year": 1976,
         "poster": "https://m.media-amazon.com/images/M/MV5BNTFlOWU2NTItNDlmMS00MmZhLTgyMjMtODYxMjkwZGY3ODg2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.4,
-        "votes": 76882
+        "votes": 76897
        }
       }
      ]
@@ -1704,7 +1718,7 @@
         "year": 1967,
         "poster": "https://m.media-amazon.com/images/M/MV5BZDUwNmJlNDQtYWRhOC00NzFhLTk3NWUtM2UyNzdmNzMzYmIwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 7.6,
-        "votes": 2941
+        "votes": 2940
        }
       }
      ]
@@ -1738,7 +1752,7 @@
         "year": 1970,
         "poster": "https://m.media-amazon.com/images/M/MV5BMDJlMzU1MmMtZjk3Mi00YTZjLWFlNGYtMjc0YTZkNDNhZTUzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 5.2,
-        "votes": 992
+        "votes": 993
        }
       }
      ]
@@ -1778,7 +1792,7 @@
         "year": 1977,
         "poster": "https://m.media-amazon.com/images/M/MV5BMjQ2NjU5ZjItOTlhNi00YWY1LWFiNzEtOWQ4YjVmY2ZjMTdiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 8.3,
-        "votes": 2251
+        "votes": 2254
        }
       }
      ]
@@ -1812,7 +1826,7 @@
         "year": 1975,
         "poster": "https://m.media-amazon.com/images/M/MV5BYzViZTEwM2QtNjAyYi00OTgwLWI4MDAtM2NmZWQ1ODA2YTQxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
         "rating": 6.5,
-        "votes": 110
+        "votes": 111
        }
       }
      ]
@@ -2223,8 +2237,8 @@
         "title": "Until the Day Ends",
         "year": 2026,
         "poster": "https://m.media-amazon.com/images/M/MV5BOTc1Njk0NzYtMzBhOC00NTVhLWJmNTEtN2MyYzE0ZDI0ZGUxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
-        "rating": 6.5,
-        "votes": 32
+        "rating": 6.6,
+        "votes": 33
        }
       }
      ]
@@ -2412,8 +2426,8 @@
  "first_date": "2026-11-01",
  "last_date": "2026-12-01",
  "id": "2026-11",
- "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/10/KINOTEKA_NOVEMBAR_2026_PROGRAM.pdf",
+ "source_pdf": "https://www.kinoteka.org.rs/wp-content/uploads/2026/11/KINOTEKA_NOVEMBAR_2026_PROGRAM.pdf",
  "source_page": "https://www.kinoteka.org.rs/repertoar-programi/",
- "pdf_sha256": "f9b90760bc9c58032a2f7f2a449822f8c4483e7815b844e86997e4d4981cf2bd",
- "parsed_at": "2026-10-31T18:54:41+00:00"
+ "pdf_sha256": "508322b44cc3903199bb1f9790f6da823618d717314427532c5977ee24c9c9af",
+ "parsed_at": "2026-11-02T11:13:18+00:00"
 }
